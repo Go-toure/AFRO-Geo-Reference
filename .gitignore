@@ -9,3 +9,5 @@ data/clean/
 
 # Excel lock files
 ~$*
+
+reports/

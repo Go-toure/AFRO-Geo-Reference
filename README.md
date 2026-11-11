@@ -20,22 +20,34 @@ names on its own.
 
 1. Put the raw export in `data/raw/AFROGDB/` (`AFROGDB.xlsx` and
    `AFROGDB/latest_boundary_adm0|1|2.shp` with their sidecar files).
-2. From the repository root, two steps:
+2. From the repository root, run the steps in order:
 
 ```
-Rscript R/01_clean_afrogdb.R          # clean layers, geoname master table, report
-Rscript R/02_simplify_for_dashboard.R # lighter copies for the dashboard maps
+Rscript R/01_clean_afrogdb.R           # clean layers, geoname master table, report
+Rscript R/02_simplify_for_dashboard.R  # lighter copies for the dashboard maps
+Rscript R/03_add_legacy_countries.R    # old shapes for the countries the geodatabase lacks
+Rscript R/04_check_alignment.R         # how well the data files match the geodatabase
 ```
 
 Step 1 takes a few minutes (the district layer is about 530 MB). It accepts explicit
 folders: `Rscript R/01_clean_afrogdb.R <gdb_dir> <out_dir>`.
 
 Step 2 needs the `rmapshaper` package and AFRO-Dash's `shapefile_prep_utils.R`
-(found in `../AFRO-Dash`, or set `AFRO_DASH_DIR`). It simplifies each layer in a fresh
-R process, and falls back to groups of countries if the district layer is too big for
-rmapshaper in one go (`AFROGDB_CHUNK=3` makes the groups smaller).
+(found in `../AFRO-Dash`, or set `AFRO_DASH_DIR`). Each layer gets a vertex budget
+(provinces 250,000, districts 1,000,000) and is simplified in a fresh R process, in groups of
+countries for the district layer, with a repair for the few shapes that become invalid.
+`AFROGDB_TARGET_PROVINCES` / `AFROGDB_TARGET_DISTRICTS` change the budgets.
 
-Packages: sf, dplyr, readxl, jsonlite, rmapshaper.
+Step 3: the geodatabase has provinces and districts for 47 countries. Egypt, Libya, Morocco,
+Tunisia, Sudan, Djibouti and Somalia are only country outlines. Their old shapes
+(`data/legacy/`) are added until the real ones arrive; a country is added only when the new
+layer has no rows for it, so nothing needs changing when the geodatabase is completed.
+The added units are listed in `reference/legacy_units.csv`. Step 3 also rebuilds
+`ambiguous_district_pairs.rds`.
+
+Step 4 is for the LQAS pipeline and the IM workflow (see below).
+
+Packages: sf, dplyr, readxl, jsonlite, rmapshaper (steps 1-3); dplyr (step 4).
 
 ## Cleaning rules
 
@@ -49,22 +61,34 @@ Packages: sf, dplyr, readxl, jsonlite, rmapshaper.
 
 ## Switching the dashboard to the new layers
 
-After checking `cleaning_report.txt`, copy into `AFRO-Dash/input/`:
+After steps 1-3 and a look at `cleaning_report.txt`, copy into `AFRO-Dash/input/`:
 `africa_countries_simplified.rds`, `africa_provinces_simplified.rds`,
 `africa_districts_simplified.rds` and `ambiguous_district_pairs.rds`.
 Restart the app.
 
 ## Standardizing LQAS and IM geonames (outside the dashboard)
 
-Done in each pipeline, against `reference/afrogdb_geoname_master.csv`:
+`R/04_check_alignment.R` compares a data file with the geodatabase and writes, in `reports/`:
 
-1. exact match, then match after normalization (case, accents, apostrophes, hyphens);
-2. a maintained crosswalk CSV per source (raw country / province / district to `geo_code`), reviewed by a person;
-3. fuzzy matching only suggests crosswalk entries for review;
-4. every run lists the names that did not match;
-5. the pipeline output keeps the raw names and adds the standard names and `geo_code`.
+- `alignment_summary.csv`: how much of each file matches, per level;
+- `crosswalk_<name>.csv`: every distinct country / province / district of the file with its status
+  (exact, normalized, other province, ambiguous, unmatched), the standard names and the `geo_code`;
+  for unmatched names a closest-name suggestion, to be reviewed by a person and never applied automatically.
+
+Run it on one file: `Rscript R/04_check_alignment.R <name> <path> <country_col> <province_col> <district_col>`.
+
+What each pipeline does:
+
+1. match exact, then after normalization (case, accents, apostrophes, hyphens, spaces, "RM ");
+2. keep a maintained crosswalk CSV per source (raw country / province / district to `geo_code`),
+   starting from the reviewed lines of `crosswalk_<name>.csv`; country aliases are in `reference/crosswalk_country.csv`;
+3. every run lists the names that did not match;
+4. the output keeps the raw names and adds the standard names and `geo_code`.
 
 The dashboard then joins shapes by `geo_code`.
+
+Until the pipelines output the geodatabase names, `app.R` renames the two countries spelled differently
+(COTE D'IVOIRE, GUINEA BISSAU) to the data spelling when the shapes load. Remove that bridge when the pipelines are aligned.
 
 ## Known points
 
