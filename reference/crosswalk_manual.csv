@@ -6,3 +6,15 @@ CHAD,,NDJAMENA 9EME,TCD-NDJ-9EA,ok,spelling of 9e arrondissement
 CHAD,,N'DJAMENA CENTRE,,no_shape,old district split into the 2e + 3e + 4e + 5e arrondissements (TCD-NDJ-2EA 3EA 4EA 5EA): no single unit
 CHAD,,N'DJAMENA SUD,,no_shape,old district split into the 6e + 7e arrondissements (TCD-NDJ-6EA 7EA): no single unit
 CHAD,,N'DJAMENA EST,,no_shape,old district split into the 8e + 10e arrondissements (TCD-NDJ-8EA 10E): no single unit
+CHAD,,MOÏSSALA,TCD-MAN-MOI,ok,spelling; same polygon in the Chad national file CHAD_2025 (MOISSALA)
+CHAD,,BEBEDJA,TCD-LOL-BEI,ok,spelling of BEBIDJA; same polygon in CHAD_2025
+CHAD,,BEBEDJIA,TCD-LOL-BEI,ok,spelling of BEBIDJA
+CHAD,,BAGASOLA,TCD-LAC-BAB,ok,spelling of BAGASSOLA; same polygon in CHAD_2025
+CHAD,,BIOBE,TCD-MOY-BSO,ok,same polygon as BIOBE SINGAKO in CHAD_2025
+CHAD,,HARAZ DJOJMBO,TCD-BAT-HDO,ok,spelling of HARAZE DJOMBO; same polygon in CHAD_2025
+CHAD,,NDJAMMENA BILALA,TCD-BAT-NDJ,ok,spelling of NDJAMENA BILALA; same polygon in CHAD_2025
+CHAD,,BILIAM OURSI,TCD-MAY-BIL,ok,spelling of BILLIAM OURSI
+CHAD,,NOKOU,TCD-KAN-NOU,ok,spelling of NOUKOU
+CHAD,,KATOA,TCD-MAY-KAT,ok,spelling of KATAOU
+CHAD,,KATAO,TCD-MAY-KAT,ok,spelling of KATAOU
+CHAD,,MOUNDOU,,no_shape,old district split into MOUNDOU CENTRE + EST + OUEST (TCD-LOG-MCE MOU MOT): no single unit
