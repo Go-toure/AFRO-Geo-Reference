@@ -124,6 +124,12 @@ Until the pipelines output the geodatabase names, `app.R` renames the two countr
 
 ## Known points
 
+- Ethiopia: the geodatabase maps Ethiopia at zone level (101 zones, 14 regions), one level above the woreda. Decision (Nov 2026): keep zones
+  for LQAS, IM, Scope and Admin for now. Most LQAS / IM / Scope records carry zone names; only about 11-18% match a woreda name, so a woreda layer
+  would leave most of those maps empty. Admin data is woreda level and stays unmapped where it has no zone name. When the source data is woreda level,
+  switch Ethiopia with step 1b: the 1,141 woredas are in the OCHA "Admin Level 3" shapefile, and `reference/ethiopia_woreda_to_zone.csv` lists every
+  woreda with its zone and the zone's geo code. The spelling decisions for zone names are in `reference/crosswalk_manual.csv`.
+
 - `level_id` looks name-derived, so it is less stable than a GUID. Ask the geodatabase owner to add the GUID to the shapefile export.
 - Some shapefile units are missing from the workbook (kept and flagged).
 - Ethiopia (zone vs woreda) and Botswana ("DISTRICT COUNCIL" suffix) need crosswalk entries.
