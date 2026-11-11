@@ -170,7 +170,10 @@ master <- bind_rows(
 write.csv(master, file.path(OUT_DIR, "afrogdb_geoname_master.csv"), row.names = FALSE, na = "", fileEncoding = "UTF-8")
 saveRDS(master, file.path(OUT_DIR, "afrogdb_geoname_master.rds"))
 dir.create("reference", showWarnings = FALSE)   # small, versioned in git
-write.csv(master, file.path("reference", "afrogdb_geoname_master.csv"), row.names = FALSE, na = "", fileEncoding = "UTF-8")
+tryCatch(
+  suppressWarnings(write.csv(master, file.path("reference", "afrogdb_geoname_master.csv"), row.names = FALSE, na = "", fileEncoding = "UTF-8")),
+  error = function(e) say("WARNING: could not write reference/afrogdb_geoname_master.csv (is it open in Excel?). Close it and run this step again. The copy in ", OUT_DIR, " was written.")
+)
 say("\nGeoname master table: ", nrow(master), " rows -> afrogdb_geoname_master.csv / .rds")
 
 # ---- 6. write layers --------------------------------------------------------
