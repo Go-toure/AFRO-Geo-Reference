@@ -1,0 +1,6 @@
+﻿sheet,country,province,action,district,level_id,reason
+latest_boundary_adm2,BENIN,ATLANTIQUE,end-dated,ABOMRY-CALAVI,BEN-ATL-ACI,"replaced by ABOMEY-CALAVI 1, 2, 3 (Benin boundary file, Nov 2026)"
+latest_boundary_adm2,BENIN,ATLANTIQUE,end-dated,GODOMEY,BEN-ATL-GOD,"replaced by ABOMEY-CALAVI 1, 2, 3 (Benin boundary file, Nov 2026)"
+latest_boundary_adm2,BENIN,ATLANTIQUE,added,ABOMEY-CALAVI 1,BEN-ATL-AC1,new unit from the Benin boundary file; guid to be issued by the geodatabase owner
+latest_boundary_adm2,BENIN,ATLANTIQUE,added,ABOMEY-CALAVI 2,BEN-ATL-AC2,new unit from the Benin boundary file; guid to be issued by the geodatabase owner
+latest_boundary_adm2,BENIN,ATLANTIQUE,added,ABOMEY-CALAVI 3,BEN-ATL-AC3,new unit from the Benin boundary file; guid to be issued by the geodatabase owner
