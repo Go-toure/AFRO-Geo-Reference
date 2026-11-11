@@ -20,18 +20,22 @@ names on its own.
 
 1. Put the raw export in `data/raw/AFROGDB/` (`AFROGDB.xlsx` and
    `AFROGDB/latest_boundary_adm0|1|2.shp` with their sidecar files).
-2. From the repository root:
+2. From the repository root, two steps:
 
 ```
-Rscript R/01_clean_afrogdb.R
+Rscript R/01_clean_afrogdb.R          # clean layers, geoname master table, report
+Rscript R/02_simplify_for_dashboard.R # lighter copies for the dashboard maps
 ```
 
-Or with explicit folders: `Rscript R/01_clean_afrogdb.R <gdb_dir> <out_dir>`.
-Packages: sf, dplyr, readxl, jsonlite, and rmapshaper for the simplified copies.
-The simplified copies are built with AFRO-Dash's own `shapefile_prep_utils.R`
-(found in `../AFRO-Dash`, or set `AFRO_DASH_DIR`); set `AFROGDB_NO_SIMPLIFY=1` to skip them.
+Step 1 takes a few minutes (the district layer is about 530 MB). It accepts explicit
+folders: `Rscript R/01_clean_afrogdb.R <gdb_dir> <out_dir>`.
 
-The district layer is large (about 530 MB, 33 million vertices). Allow some minutes and memory.
+Step 2 needs the `rmapshaper` package and AFRO-Dash's `shapefile_prep_utils.R`
+(found in `../AFRO-Dash`, or set `AFRO_DASH_DIR`). It simplifies each layer in a fresh
+R process, and falls back to groups of countries if the district layer is too big for
+rmapshaper in one go (`AFROGDB_CHUNK=3` makes the groups smaller).
+
+Packages: sf, dplyr, readxl, jsonlite, rmapshaper.
 
 ## Cleaning rules
 

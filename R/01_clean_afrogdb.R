@@ -8,19 +8,13 @@
 # geometry).  The master table is what the LQAS pipeline and the IM workflow use
 # to standardise their own geonames.
 #
-# Nothing here touches the dashboard.  To switch the dashboard over, copy
-# data/clean/africa_*_simplified.rds and ambiguous_district_pairs.rds into
-# AFRO-Dash/input/ (see README.md).
+# Nothing here touches the dashboard.  The simplified copies the dashboard reads
+# are built by the next step, R/02_simplify_for_dashboard.R (README.md).
 #
 # Run from the repository root:
 #   Rscript R/01_clean_afrogdb.R
 # or with explicit folders:
 #   Rscript R/01_clean_afrogdb.R <gdb_dir> <out_dir>
-# Optional environment variables:
-#   AFROGDB_NO_SIMPLIFY=1   skip the simplified copies
-#   AFRO_DASH_DIR=<folder>  AFRO-Dash checkout (default ../AFRO-Dash); its
-#                           shapefile_prep_utils.R is used so the simplified
-#                           layers are built exactly the way the app expects
 #
 # CLEANING RULES (also written to cleaning_report.txt on every run)
 #  1. Keep only CURRENT records (no end date, or an end date in the future /
@@ -48,7 +42,6 @@ args    <- commandArgs(trailingOnly = TRUE)
 GDB_DIR <- args[1] %||% "data/raw/AFROGDB"
 OUT_DIR <- args[2] %||% "data/clean"
 EXCLUDE_COUNTRIES <- c("MAYOTTE", "REUNION", "SAINT HELENA")   # rule 3
-SIMPLIFY <- !identical(Sys.getenv("AFROGDB_NO_SIMPLIFY"), "1")  # rmapshaper step, as in the app
 dir.create(OUT_DIR, showWarnings = FALSE, recursive = TRUE)
 
 report <- character(0)
@@ -186,22 +179,7 @@ saveRDS(provinces, file.path(OUT_DIR, "africa_provinces.rds"))
 saveRDS(districts, file.path(OUT_DIR, "africa_districts.rds"))
 say("Full-resolution layers written to ", normalizePath(OUT_DIR, mustWork = FALSE))
 
-# simplified copies + ambiguous pairs, using the dashboard's own functions
-DASH_DIR <- Sys.getenv("AFRO_DASH_DIR", unset = file.path("..", "AFRO-Dash"))
-prep <- file.path(DASH_DIR, "shapefile_prep_utils.R")
-prep <- if (file.exists(prep)) prep else NA_character_
-if (SIMPLIFY && !is.na(prep)) {
-  source(prep)
-  say("\nSimplifying with the dashboard's preprocess_shapefile() (needs the rmapshaper package)")
-  saveRDS(preprocess_shapefile(countries, "countries"), file.path(OUT_DIR, "africa_countries_simplified.rds"))
-  saveRDS(preprocess_shapefile(provinces, "provinces"), file.path(OUT_DIR, "africa_provinces_simplified.rds"))
-  dist_s <- preprocess_shapefile(districts, "districts")
-  saveRDS(dist_s, file.path(OUT_DIR, "africa_districts_simplified.rds"))
-  saveRDS(compute_ambiguous_district_pairs(dist_s), file.path(OUT_DIR, "ambiguous_district_pairs.rds"))
-  say("Simplified layers and ambiguous_district_pairs.rds written.")
-} else {
-  say("\nSimplification skipped (AFRO-Dash/shapefile_prep_utils.R not found -- set AFRO_DASH_DIR -- or AFROGDB_NO_SIMPLIFY=1).")
-}
+say("\nNext step: Rscript R/02_simplify_for_dashboard.R  (simplified copies for the dashboard)")
 
 writeLines(report, file.path(OUT_DIR, "cleaning_report.txt"), useBytes = TRUE)
 cat("\nDone. Report: ", file.path(OUT_DIR, "cleaning_report.txt"), "\n")
