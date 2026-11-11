@@ -24,6 +24,7 @@ names on its own.
 
 ```
 Rscript R/01_clean_afrogdb.R           # clean layers, geoname master table, report
+Rscript R/01b_apply_country_updates.R  # newer country shapefiles from data/updates/ (Benin) replace that country's districts
 Rscript R/02_simplify_for_dashboard.R  # lighter copies for the dashboard maps
 Rscript R/03_add_legacy_countries.R    # old shapes for the countries the geodatabase lacks
 Rscript R/04_check_alignment.R         # how well the data files match the geodatabase
@@ -32,6 +33,13 @@ Rscript R/05_build_review_file.R       # builds / updates reference/crosswalk_ge
 
 Step 1 takes a few minutes (the district layer is about 530 MB). It accepts explicit
 folders: `Rscript R/01_clean_afrogdb.R <gdb_dir> <out_dir>`.
+
+Step 1b: a country can send updated district boundaries before the geodatabase export has them (Benin split
+Abomey-Calavi, Cotonou and Porto-Novo). Put the shapefile in `data/updates/<COUNTRY>/`; the script replaces that country's
+districts in the clean layers, keeps the existing `geo_code` and spelling of units that already exist, and gives units
+that are new a provisional code (e.g. `BEN-ATL-AC1`) until the geodatabase issues its own. Everything it did is in
+`reference/country_updates_log.csv`. Run it again after every step 1, and delete the country's folder once the
+export contains the new boundaries.
 
 Step 2 needs the `rmapshaper` package and AFRO-Dash's `shapefile_prep_utils.R`
 (found in `../AFRO-Dash`, or set `AFRO_DASH_DIR`). Each layer gets a vertex budget
@@ -87,9 +95,15 @@ Each line has a `decision`:
 - `auto`: proposed by the script (unique district name in the country, or a very close spelling). Skim and correct.
 - `ok`: reviewed by a person. Never overwritten by later runs.
 - `no_shape`: the geodatabase has no such unit (for example a health district that is not an admin unit). The data stays unmapped.
-- empty: needs a decision. Fill `geo_code` (and the standard names) from `reference/afrogdb_geoname_master.csv`, then set `decision` to `ok`.
+- empty: needs a decision. Names that differ from a geodatabase unit only by a number or a direction (ABOMEY-CALAVI 1, N'DJAMENA SUD) are never proposed automatically: they are split districts and need the new boundary (see Step 1b). Fill `geo_code` (and the standard names) from `reference/afrogdb_geoname_master.csv`, then set `decision` to `ok`.
 
 Re-running step 5 after new data keeps all decisions and only adds new lines.
+
+Decisions that are known and should survive any rebuild are written in `reference/crosswalk_manual.csv`
+(country, province or blank, district, geo_code, decision, note); step 5 applies them to lines that are empty or
+only proposed by the script. Example: Chad's old N'Djamena districts. NORD (1er) and TOUKRA (9e) became one arrondissement each and are
+mapped; CENTRE (2e-5e), SUD (6e-7e) and EST (8e, 10e) were split into several, so an old record cannot be assigned to
+one unit: they are `no_shape` with the new units in the note.
 
 ### Using it in a pipeline (`R/afrogdb_standardize.R`)
 

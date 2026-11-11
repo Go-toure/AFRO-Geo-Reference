@@ -1,0 +1,8 @@
+country,province,district,geo_code,decision,note
+CHAD,,N'DJAMENA NORD,TCD-NDJ-1EA,ok,N'Djamena Nord is now the 1er arrondissement
+CHAD,,TOUKRA,TCD-NDJ-9EA,ok,Toukra is now the 9e arrondissement
+CHAD,,N'DJAMENA 9ÉMÉ,TCD-NDJ-9EA,ok,spelling of 9e arrondissement
+CHAD,,NDJAMENA 9EME,TCD-NDJ-9EA,ok,spelling of 9e arrondissement
+CHAD,,N'DJAMENA CENTRE,,no_shape,old district split into the 2e + 3e + 4e + 5e arrondissements (TCD-NDJ-2EA 3EA 4EA 5EA): no single unit
+CHAD,,N'DJAMENA SUD,,no_shape,old district split into the 6e + 7e arrondissements (TCD-NDJ-6EA 7EA): no single unit
+CHAD,,N'DJAMENA EST,,no_shape,old district split into the 8e + 10e arrondissements (TCD-NDJ-8EA 10E): no single unit

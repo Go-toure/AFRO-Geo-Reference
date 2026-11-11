@@ -38,11 +38,28 @@ agg <- need |> group_by(country, province, district) |>
 prop_code <- ifelse(agg$status %in% c("other province", "relaxed"), agg$geo_code,
              ifelse(!is.na(agg$suggestion_distance) & agg$suggestion_distance <= 0.15, agg$suggestion_geo_code, NA))
 has_prop  <- agg$status %in% c("other province", "relaxed") | (!is.na(agg$suggestion_distance) & agg$suggestion_distance <= 0.15)
+
+# A close name is NOT proposed when the two names differ by a number or a direction word:
+# "ABOMEY-CALAVI 1" is one of the units that replaced "ABOMEY-CALAVI", and "N'DJAMENA SUD" is
+# not "N'DJAMENA". Those are split (or merged) districts, not spelling mistakes; they need the
+# new boundary, or a decision by a person. They stay undecided and the reason is written in the note.
+split_tokens <- function(x) {
+  x <- toupper(iconv(as.character(x), to = "ASCII//TRANSLIT")); x[is.na(x)] <- ""
+  lapply(strsplit(x, "[^A-Z0-9]+"), function(t) sort(unique(t[grepl("^([0-9]+|I|II|III|IV|V|VI|VII|VIII|IX|X|NORD|SUD|EST|OUEST|CENTRE|CENTRAL|NORTH|SOUTH|EAST|WEST|URBAN|RURAL|URBAIN|RURALE|HAUT|HAUTE|BAS|BASSE)$", t)])))
+}
+sug_only  <- has_prop & !agg$status %in% c("other province", "relaxed")
+sug_name  <- sub("^.* / ", "", agg$suggestion)
+split_like <- sug_only & !mapply(identical, split_tokens(agg$district), split_tokens(sug_name))
+if (any(split_like)) cat(sprintf("%d close names not proposed because they differ by a number or direction (split districts), e.g. %s\n",
+                                sum(split_like), paste(head(agg$district[split_like], 3), collapse = ", ")))
+has_prop[split_like] <- FALSE
+prop_code[split_like] <- NA
 new <- agg |> transmute(country, province, district, rows, sources, status_in_check = status,
                         geo_code = prop_code,
                         std_country, std_province = ifelse(has_prop, std_province, NA), std_district = ifelse(has_prop, std_district, NA),
                         decision = ifelse(has_prop, "auto", NA_character_),
-                        suggestion, suggestion_distance, note = NA_character_)
+                        suggestion, suggestion_distance,
+                        note = ifelse(split_like, paste0("looks like a split or merged district of ", agg$suggestion, ": needs the new boundary or a decision"), NA_character_))
 # a proposal found through the suggestion carries the suggested names
 sug <- !agg$status %in% c("other province", "relaxed") & has_prop
 if (any(sug)) {
@@ -62,6 +79,27 @@ if (!is.null(old)) {
 } else res <- new
 res <- res |> arrange(is.na(decision) & TRUE, desc(rows))
 res <- res[order(-res$rows), ]
+
+# Hand-written decisions that are kept in the repository: reference/crosswalk_manual.csv
+# (country, province [blank = any], district, geo_code, decision, note). They fill lines that are empty
+# or only proposed by the script; a line you already marked "ok" yourself is never changed.
+man_f <- file.path("reference", "crosswalk_manual.csv")
+if (file.exists(man_f)) {
+  man <- rd(man_f)
+  mst <- read.csv("reference/afrogdb_geoname_master.csv", stringsAsFactors = FALSE, fileEncoding = "UTF-8-BOM", na.strings = "")
+  n_applied <- 0
+  for (i in seq_len(nrow(man))) {
+    hit <- nk(res$country) == nk(man$country[i]) & nk(res$district) == nk(man$district[i])
+    if (!is.na(man$province[i])) hit <- hit & nk(res$province) == nk(man$province[i])
+    hit <- hit & (is.na(res$decision) | tolower(trimws(res$decision)) == "auto")
+    if (!any(hit)) next
+    res$geo_code[hit] <- man$geo_code[i]; res$decision[hit] <- man$decision[i]; res$note[hit] <- man$note[i]
+    j <- match(man$geo_code[i], mst$geo_code[mst$level == "district"]); md <- mst[mst$level == "district", ]
+    res$std_province[hit] <- if (is.na(j)) NA else md$province[j]; res$std_district[hit] <- if (is.na(j)) NA else md$district[j]
+    n_applied <- n_applied + sum(hit)
+  }
+  cat(sprintf("%d lines set from %s\n", n_applied, man_f))
+}
 
 dir.create("reference", showWarnings = FALSE)
 tryCatch({
