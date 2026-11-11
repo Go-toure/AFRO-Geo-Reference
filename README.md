@@ -27,6 +27,7 @@ Rscript R/01_clean_afrogdb.R           # clean layers, geoname master table, rep
 Rscript R/02_simplify_for_dashboard.R  # lighter copies for the dashboard maps
 Rscript R/03_add_legacy_countries.R    # old shapes for the countries the geodatabase lacks
 Rscript R/04_check_alignment.R         # how well the data files match the geodatabase
+Rscript R/05_build_review_file.R       # builds / updates reference/crosswalk_geonames.csv for review
 ```
 
 Step 1 takes a few minutes (the district layer is about 530 MB). It accepts explicit
@@ -45,9 +46,9 @@ layer has no rows for it, so nothing needs changing when the geodatabase is comp
 The added units are listed in `reference/legacy_units.csv`. Step 3 also rebuilds
 `ambiguous_district_pairs.rds`.
 
-Step 4 is for the LQAS pipeline and the IM workflow (see below).
+Steps 4 and 5 are for the LQAS pipeline and the IM workflow (see below).
 
-Packages: sf, dplyr, readxl, jsonlite, rmapshaper (steps 1-3); dplyr (step 4).
+Packages: sf, dplyr, readxl, jsonlite, rmapshaper (steps 1-3); dplyr (steps 4-5).
 
 ## Cleaning rules
 
@@ -77,13 +78,30 @@ Restart the app.
 
 Run it on one file: `Rscript R/04_check_alignment.R <name> <path> <country_col> <province_col> <district_col>`.
 
-What each pipeline does:
+### The shared crosswalk (`reference/crosswalk_geonames.csv`)
 
-1. match exact, then after normalization (case, accents, apostrophes, hyphens, spaces, "RM ");
-2. keep a maintained crosswalk CSV per source (raw country / province / district to `geo_code`),
-   starting from the reviewed lines of `crosswalk_<name>.csv`; country aliases are in `reference/crosswalk_country.csv`;
-3. every run lists the names that did not match;
-4. the output keeps the raw names and adds the standard names and `geo_code`.
+`R/05_build_review_file.R` collects every name from `reports/crosswalk_*.csv` that did not match
+exactly, and writes one line per distinct country / province / district with a proposed `geo_code`.
+Each line has a `decision`:
+
+- `auto`: proposed by the script (unique district name in the country, or a very close spelling). Skim and correct.
+- `ok`: reviewed by a person. Never overwritten by later runs.
+- `no_shape`: the geodatabase has no such unit (for example a health district that is not an admin unit). The data stays unmapped.
+- empty: needs a decision. Fill `geo_code` (and the standard names) from `reference/afrogdb_geoname_master.csv`, then set `decision` to `ok`.
+
+Re-running step 5 after new data keeps all decisions and only adds new lines.
+
+### Using it in a pipeline (`R/afrogdb_standardize.R`)
+
+```r
+source("../AFRO-Geo-Reference/R/afrogdb_standardize.R")   # or set AFRO_GEO_REFERENCE_DIR
+ref  <- afrogdb_reference()
+data <- afrogdb_standardize(data, "country", "province", "district", ref)
+```
+
+The result has the geodatabase spelling in the name columns, the original in `country_raw`,
+`province_raw`, `district_raw`, plus `geo_code` and `geo_match`. Unmatched names are logged on every run.
+It can be run twice safely.
 
 The dashboard then joins shapes by `geo_code`.
 
