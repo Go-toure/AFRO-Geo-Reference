@@ -1,0 +1,11 @@
+# R session junk
+.Rhistory
+.RData
+.Rproj.user/
+
+# Raw geodatabase export and generated layers: large, rebuilt by R/01_clean_afrogdb.R
+data/raw/
+data/clean/
+
+# Excel lock files
+~$*
