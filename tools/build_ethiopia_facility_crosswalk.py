@@ -1,12 +1,12 @@
 """Build reference/ethiopia_facility_to_woreda.csv
-Ethiopia LQAS form 6837: the team picks the woreda on the form (field 'facility', filtered by zone).
+Ethiopia LQAS form 6837 and IM form 6839 (same layout): the team picks the woreda on the form (field 'facility', filtered by zone).
 This file links each (zone, facility) pair as typed in the raw data to the OCHA woreda name and code,
 using the majority of the GPS points recorded under that pair.
 Usage: python build_xwalk.py <6837.parquet> <ocha_admin3.shp> <out.csv>
 """
 import sys, re, pandas as pd, geopandas as gpd
 raw, shp, out = sys.argv[1:4]
-d = pd.read_parquet(raw)
+d = pd.read_parquet(raw, columns=['District', 'facility', '_geolocation[1]', '_geolocation[2]'])
 num = lambda s: pd.to_numeric(s, errors='coerce')
 d['lat'] = num(d['_geolocation[1]']); d['lon'] = num(d['_geolocation[2]'])
 w = gpd.read_file(shp)[['admin3Name', 'admin3Pcod', 'geometry']]
