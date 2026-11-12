@@ -135,3 +135,12 @@ Until the pipelines output the geodatabase names, `app.R` renames the two countr
 - Ethiopia (zone vs woreda) and Botswana ("DISTRICT COUNCIL" suffix) need crosswalk entries.
 - There is no adm3 shapefile.
 - Keep a before/after diff of the master table at each geodatabase update (git history of `reference/` gives this).
+
+## Ethiopia LQAS: woreda link
+
+The Ethiopia LQAS form (6837) asks the team to pick the woreda (field `facility`) after the zone, then a lot number.
+`reference/ethiopia_facility_to_woreda.csv` links each zone + facility pair, as typed in the raw data, to the OCHA woreda name and code.
+The link is taken from the GPS points: the woreda where most points of that pair fall. Pairs with fewer than 3 records, or where less than
+80% of the points agree, are not linked (`needs_review = yes`); they keep the name typed on the form and get no code.
+The LQAS pipeline (`Posit-LQAS-Workflow/R/02_process_lqas.r`) reads this file to give each lot of 60 children its woreda.
+To rebuild it: `python tools/build_ethiopia_facility_crosswalk.py <6837.parquet> <OCHA admin 3 shapefile> reference/ethiopia_facility_to_woreda.csv`.
