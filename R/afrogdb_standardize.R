@@ -148,3 +148,62 @@ afrogdb_standardize <- function(df, country = "country", province = "province", 
   }
   df
 }
+
+# ----------------------------------------------------------------------------
+# afrogdb_standardize_best()
+# Maximum-match version used by the pipelines. A pipeline renames districts with its own
+# (older) rules before alignment; those rules sometimes help (they reach a geodatabase name
+# the original spelling does not) and sometimes hurt (they rename a name AWAY from the
+# geodatabase spelling). So every row is matched twice and the better result is kept:
+#   current  = the names as they are now (after the pipeline's own renames)
+#   original = the names before those renames (alt_province / alt_district, same row order)
+# Quality of a match: 3 = exact / normalized / reviewed crosswalk, 2 = proposed crosswalk or other
+# province, 1 = relaxed, 0 = not found. The original names win only when strictly better;
+# on a tie the current names are kept (today's behaviour). Rows where both match but to a
+# different geodatabase unit are counted and listed in attr(, "conflicts") for review.
+# ----------------------------------------------------------------------------
+afrogdb_standardize_best <- function(df, alt_province, alt_district,
+                                     country = "country", province = "province", district = "district",
+                                     ref = afrogdb_reference(), relaxed = FALSE, replace_names = TRUE, verbose = TRUE) {
+  stopifnot(length(alt_province) == nrow(df), length(alt_district) == nrow(df))
+  b <- afrogdb_standardize(df, country, province, district, ref = ref, relaxed = relaxed, replace_names = replace_names, verbose = FALSE)
+  alt <- df
+  alt[[province]] <- alt_province
+  alt[[district]] <- alt_district
+  a <- afrogdb_standardize(alt, country, province, district, ref = ref, relaxed = relaxed, replace_names = replace_names, verbose = FALSE)
+  tier <- function(s) {
+    out <- rep(0L, length(s))
+    out[s %in% c("exact", "normalized", "crosswalk")] <- 3L
+    out[s %in% c("crosswalk (auto)", "other province")] <- 2L
+    out[s %in% "relaxed"] <- 1L
+    out
+  }
+  use_a <- tier(a$geo_match) > tier(b$geo_match)
+  conflict <- !use_a & tier(a$geo_match) > 0L & tier(b$geo_match) > 0L & !is.na(a$geo_code) & !is.na(b$geo_code) & a$geo_code != b$geo_code
+  res <- b
+  if (any(use_a)) {
+    for (cl in c("geo_code", "geo_match", if (replace_names) c(country, province, district))) res[[cl]][use_a] <- a[[cl]][use_a]
+  }
+  found <- !is.na(res$geo_code)
+  nf <- which(!found)
+  un <- data.frame(country = res[[country]][nf], province = res[[province]][nf], district = res[[district]][nf],
+                   status = res$geo_match[nf], stringsAsFactors = FALSE)
+  if (nrow(un)) {
+    k <- paste(un$country, un$province, un$district, sep = "\r")
+    un <- cbind(un[!duplicated(k), , drop = FALSE], rows = as.integer(table(factor(k, levels = unique(k)))))
+    un <- un[order(-un$rows), ]
+  } else un$rows <- integer(0)
+  attr(res, "unmatched") <- un
+  if (any(conflict)) {
+    cf <- data.frame(country = res[[country]][conflict], province_current = df[[province]][conflict], district_current = df[[district]][conflict],
+                     province_original = alt_province[conflict], district_original = alt_district[conflict],
+                     geo_code_current = b$geo_code[conflict], geo_code_original = a$geo_code[conflict], stringsAsFactors = FALSE)
+    attr(res, "conflicts") <- cf[!duplicated(cf), , drop = FALSE]
+  }
+  if (verbose) {
+    cat(sprintf("AFROGDB alignment: %s rows; %s found in the geodatabase (%.1f%%); not found: %s rows in %d units; %s rows matched only through the original names; %s rows match two different units (kept the current)\n",
+                format(nrow(res), big.mark = ","), format(sum(found), big.mark = ","), 100 * mean(found), format(sum(!found), big.mark = ","), nrow(un),
+                format(sum(use_a & found), big.mark = ","), format(sum(conflict), big.mark = ",")))
+  }
+  res
+}
