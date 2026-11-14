@@ -144,3 +144,16 @@ The link is taken from the GPS points: the woreda where most points of that pair
 80% of the points agree, are not linked (`needs_review = yes`); they keep the name typed on the form and get no code.
 The LQAS pipeline (`Posit-LQAS-Workflow/R/02_process_lqas.r`) reads this file to give each lot of 60 children its woreda.
 To rebuild it: `python tools/build_ethiopia_facility_crosswalk.py <6837.parquet> <OCHA admin 3 shapefile> reference/ethiopia_facility_to_woreda.csv`.
+
+## Step 6: independent cross-check, old shapes against AFROGDB
+
+```
+Rscript R/06_crosscheck_shapes.R       # needs sf, dplyr, stringi, data.table
+```
+
+The crosswalk is built from names. Step 6 checks every decision a second way, with no names: it overlays the old district shapes (the layer the data was
+spelled against, AFRO-Dash at commit 158d753) on the AFROGDB districts and asks whether the unit the crosswalk chose covers the place where the old unit was.
+For names still undecided it proposes the best-overlapping unit with a probability learned from the decisions people already confirmed.
+It changes nothing: a person decides. Outputs in `reference/`: `crosscheck_old_vs_new.csv` (everything), `crosscheck_review.csv` (what needs a person),
+`crosscheck_model.txt` (how well the proposal works). Verdicts: AGREE, PARTLY, DISAGREE, WEAK, NO_OLD_SHAPE, UNDECIDED. A pair of districts that is a twin in the layer
+(Burkina Faso) shows up as DISAGREE: the question is which twin is the current one.

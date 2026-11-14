@@ -1,0 +1,14 @@
+Cross-check old shapes vs AFROGDB, 2026-11-14 12:07
+Decisions and names checked: 5332 (23962 data rows)
+  AGREE                       1152 names,    9815 rows
+  DISAGREE                      52 names,     527 rows
+  NO_OLD_SHAPE                1699 names,    5255 rows
+  PARTLY                        54 names,     581 rows
+  UNDECIDED                    219 names,    2216 rows
+  UNDECIDED_NO_OLD_SHAPE      2129 names,    5457 rows
+  WEAK                          27 names,     111 rows
+
+Confirmed decisions with an old shape: 100 (spatial best = chosen unit in 87, 87.0%)
+5-fold cross-validation: AUC 0.872; accuracy at 0.5 = 93.0%
+Proposals with probability >= 0.90: 73 of 100, of which right: 97.3%
+Coefficients: (Intercept)=-5.40, contain=-1.42, iou=8.43, name_sim=3.81, same_prov=1.14, n_new=NA

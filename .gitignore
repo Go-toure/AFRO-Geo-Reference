@@ -11,3 +11,6 @@ data/clean/
 ~$*
 
 reports/
+
+# Local copy of the old AFRO-Dash district layer (13 MB), used by R/06_crosscheck_shapes.R; it is also in the git history of AFRO-Dash (158d753)
+data/legacy/old_africa_districts_simplified_158d753.rds
