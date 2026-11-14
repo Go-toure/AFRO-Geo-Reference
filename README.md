@@ -157,3 +157,16 @@ For names still undecided it proposes the best-overlapping unit with a probabili
 It changes nothing: a person decides. Outputs in `reference/`: `crosscheck_old_vs_new.csv` (everything), `crosscheck_review.csv` (what needs a person),
 `crosscheck_model.txt` (how well the proposal works). Verdicts: AGREE, PARTLY, DISAGREE, WEAK, NO_OLD_SHAPE, UNDECIDED. A pair of districts that is a twin in the layer
 (Burkina Faso) shows up as DISAGREE: the question is which twin is the current one.
+
+## Step 7: GPS check of the district names (IM raw households)
+
+```
+python py/gps_district_check.py --form 4445 --country CHAD     # needs geopandas, shapely, pandas, pyarrow
+```
+
+The raw IM forms carry a GPS point for every household (about 98.7% of 3.7 million records are plausible). The script places each point in the AFROGDB district
+that contains it and compares that with the district the name-based pipeline gave the same raw Region and District. It needs `data/clean/africa_districts_simplified.gpkg`
+(the districts layer exported from the `.rds`). The households' points stay on the computer: the files written hold counts and shares only.
+`reference/gps_check/<country>_gps_vs_names.csv`: verdict per raw district name (CONFIRMED, CONFIRMED_MAJORITY, CONFIRMED_WEAK, MIXED, CONTRADICTED) and, for names not matched,
+the district where the households are (NAME_UNMATCHED_GPS_PROPOSAL). `data/gps_check_local/<country>_settlements.csv`: named settlements with a median position and spread (local only).
+Together with step 6 (old shapes), names, old shapes and GPS are three independent checks of the same match.

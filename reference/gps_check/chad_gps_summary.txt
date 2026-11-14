@@ -1,0 +1,18 @@
+GPS check of district names, CHAD, form 4445
+Records: 155,534; plausible GPS: 155,532 (100.0%); inside a CHAD district: 155,133; plausible GPS but outside CHAD: 399
+Exact repeated points (same coordinates): 2,275
+Points within 1 km of a district boundary (shape tolerance): 9.7% of those inside
+
+Raw district names by verdict:
+  CONFIRMED                        113 names,    83,727 records
+  CONFIRMED_MAJORITY                70 names,    44,177 records
+  CONFIRMED_WEAK                     3 names,     1,420 records
+  CONTRADICTED                      19 names,     7,061 records
+  MIXED                             10 names,     3,468 records
+  NAME_UNMATCHED_GPS_PROPOSAL       36 names,    11,483 records
+  NAME_UNMATCHED_NO_CLEAR_GPS       17 names,     4,198 records
+
+CONFIRMED = at least 90% of the households inside the name's district; CONFIRMED_MAJORITY 50-90%; CONFIRMED_WEAK under 50% but still the main district;
+MIXED = most households in another district but 25% or more in the name's; CONTRADICTED = under 25% in the name's district.
+
+Named settlements: 29,339; used in more than one district: 1961; spread above 10 km (same name far apart or bad GPS): 887
