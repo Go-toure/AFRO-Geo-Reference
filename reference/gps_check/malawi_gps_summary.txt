@@ -1,0 +1,11 @@
+GPS check of district names, MALAWI, form 7600
+Records: 120,458; plausible GPS: 120,445 (100.0%); inside a MALAWI district: 120,034; plausible GPS but outside MALAWI: 411
+Exact repeated points (same coordinates): 2,732
+Points within 1 km of a district boundary (shape tolerance): 8.2% of those inside
+
+Raw district names by verdict:
+  CONFIRMED                         23 names,    96,149 records
+  CONTRADICTED                       6 names,    24,309 records
+
+CONFIRMED = at least 90% of the households inside the name's district; CONFIRMED_MAJORITY 50-90%; CONFIRMED_WEAK under 50% but still the main district;
+MIXED = most households in another district but 25% or more in the name's; CONTRADICTED = under 25% in the name's district.

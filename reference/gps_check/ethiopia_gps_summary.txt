@@ -1,0 +1,14 @@
+GPS check of district names, ETHIOPIA, form 6839
+Records: 174,288; plausible GPS: 174,263 (100.0%); inside a ETHIOPIA district: 174,159; plausible GPS but outside ETHIOPIA: 104
+Exact repeated points (same coordinates): 3,355
+Points within 1 km of a district boundary (shape tolerance): 4.1% of those inside
+
+Raw district names by verdict:
+  CONFIRMED                         97 names,    84,484 records
+  CONFIRMED_MAJORITY                13 names,    11,269 records
+  CONTRADICTED                       1 names,       512 records
+  NAME_UNMATCHED_GPS_PROPOSAL      143 names,    70,393 records
+  NAME_UNMATCHED_NO_CLEAR_GPS       22 names,     7,630 records
+
+CONFIRMED = at least 90% of the households inside the name's district; CONFIRMED_MAJORITY 50-90%; CONFIRMED_WEAK under 50% but still the main district;
+MIXED = most households in another district but 25% or more in the name's; CONTRADICTED = under 25% in the name's district.

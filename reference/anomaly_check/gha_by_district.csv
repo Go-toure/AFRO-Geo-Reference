@@ -1,0 +1,270 @@
+iso,country,region,district,records,GPS_EXACT_REPEAT,TELEPORT,TOO_FAST,DATE_IMPLAUSIBLE,COUNT_NEGATIVE,COUNT_EXTREME,DUP_COUNTS,GPS_COARSE,GPS_POOR_ACCURACY,TOO_LONG,LATE_SUBMIT,MODEL_OUTLIER,any_hard,any_flag,share_hard
+GHA,GHANA,Ashanti,Kwadaso,242,0,0,0,0,0,0,29,0,32,5,0,2,29,50,0.12
+GHA,GHANA,Upper East,Builsa South,308,20,0,1,1,0,0,0,0,56,13,5,2,22,77,0.071
+GHA,GHANA,Ashanti,Amansie Central,310,12,0,10,0,0,0,0,0,18,41,1,3,22,72,0.071
+GHA,GHANA,Upper East,Pusiga,196,3,1,5,0,0,0,4,0,12,10,0,0,13,32,0.066
+GHA,GHANA,Bono East,Sene West,370,0,0,0,0,0,0,24,0,13,6,1,2,24,44,0.065
+GHA,GHANA,Upper West,Wa West,423,0,0,0,0,0,0,25,0,31,33,0,1,25,80,0.059
+GHA,GHANA,Volta,Adaklu,322,0,0,0,0,0,0,19,0,21,58,0,3,19,99,0.059
+GHA,GHANA,Ashanti,Adansi South,432,10,4,10,0,0,0,0,1,47,43,0,4,24,107,0.056
+GHA,GHANA,Ashanti,Ejisu,431,3,0,0,0,0,0,20,0,11,27,0,1,23,59,0.053
+GHA,GHANA,Eastern,Abuakwa South,497,0,0,0,0,0,0,26,0,6,6,0,0,26,38,0.052
+GHA,GHANA,Northern,Tolon,570,22,0,0,1,0,1,5,1,71,35,7,3,29,110,0.051
+GHA,GHANA,Savannah,Sawla-Tuna-Kalba,493,6,2,1,0,0,0,16,0,24,33,0,8,25,82,0.051
+GHA,GHANA,Volta,Akatsi North,451,20,2,0,0,0,0,0,1,51,31,0,2,22,79,0.049
+GHA,GHANA,Western North,Sefwi-Akontombra,501,0,0,0,0,0,0,23,0,9,45,6,4,23,78,0.046
+GHA,GHANA,Eastern,Asene Manso Akroso,665,11,6,0,0,0,14,0,1,78,18,0,1,30,102,0.045
+GHA,GHANA,Volta,North Dayi,431,6,1,0,0,0,0,13,0,43,12,0,1,19,67,0.044
+GHA,GHANA,Northern,Yendi,561,13,0,0,0,0,4,7,0,55,19,1,1,24,84,0.043
+GHA,GHANA,Northern,Zabzugu,502,10,1,0,0,0,4,10,1,33,41,1,1,21,83,0.042
+GHA,GHANA,Eastern,Ayensuano,525,16,0,1,0,0,1,5,0,64,55,0,13,22,122,0.042
+GHA,GHANA,Eastern,Lower Manya-Krobo,544,0,0,0,0,0,1,20,0,15,15,1,5,21,52,0.039
+GHA,GHANA,Upper East,Kasena-Nankana,344,9,0,0,0,0,4,0,1,57,13,2,9,13,75,0.038
+GHA,GHANA,Bono,Sunyani Municipal,977,32,0,1,0,0,3,0,0,66,76,2,2,36,148,0.037
+GHA,GHANA,Central,Agona West,539,13,0,0,0,0,7,0,0,61,28,0,7,20,95,0.037
+GHA,GHANA,Ashanti,Asante Akim North,473,0,0,0,0,0,11,6,0,14,21,1,11,17,53,0.036
+GHA,GHANA,Eastern,Kwahu East,494,0,0,0,0,0,6,11,0,42,20,1,11,17,79,0.034
+GHA,GHANA,Upper West,Sissala East,388,6,0,0,0,0,6,0,0,21,30,1,19,12,61,0.031
+GHA,GHANA,Greater Accra,Ablekuma North,625,0,0,0,1,0,6,11,1,15,30,1,14,18,75,0.029
+GHA,GHANA,Oti,Jasikan,596,7,0,0,0,0,0,10,0,39,29,0,2,17,73,0.029
+GHA,GHANA,Greater Accra,Adentan,544,0,0,4,0,0,0,12,1,14,31,3,20,16,83,0.029
+GHA,GHANA,Eastern,Upper West Akim,486,0,0,0,0,0,14,0,1,25,21,5,22,14,72,0.029
+GHA,GHANA,Ashanti,Afigya Kwabre South,400,0,0,0,0,0,0,11,0,63,28,0,11,11,102,0.028
+GHA,GHANA,Ashanti,Atwima Mponua,533,0,0,1,0,0,14,0,0,25,37,1,4,15,76,0.028
+GHA,GHANA,Western,Jomoro,532,14,0,0,0,0,1,0,1,55,20,0,1,15,78,0.028
+GHA,GHANA,Central,Abura-Asebu-Kwamankese,374,3,1,0,0,0,0,6,0,21,7,1,4,10,39,0.027
+GHA,GHANA,Eastern,Kwahu Afram Plains South,597,14,1,0,0,0,0,0,2,40,20,0,6,15,67,0.025
+GHA,GHANA,Upper East,Bolgatanga Municipal,593,6,0,0,0,0,0,8,0,39,22,1,5,14,73,0.024
+GHA,GHANA,Bono East,Pru West,333,4,0,0,1,0,3,0,0,43,25,0,2,8,68,0.024
+GHA,GHANA,Bono,Wenchi,382,6,1,1,1,0,0,0,1,28,14,1,1,9,48,0.024
+GHA,GHANA,Upper West,Wa East,330,8,0,0,0,0,0,0,0,49,17,0,2,8,67,0.024
+GHA,GHANA,Eastern,West Akim,840,8,0,1,0,0,11,0,0,56,26,0,0,20,93,0.024
+GHA,GHANA,Upper West,Nandom,398,6,0,0,0,0,3,0,1,39,8,0,0,9,53,0.023
+GHA,GHANA,Greater Accra,Ga West,574,0,0,0,0,0,1,12,0,50,37,2,17,13,108,0.023
+GHA,GHANA,Volta,Ho,549,0,0,1,0,0,0,11,1,34,41,0,6,12,91,0.022
+GHA,GHANA,Greater Accra,Ga South,1024,0,1,1,1,0,14,6,1,30,84,5,26,23,151,0.022
+GHA,GHANA,Upper East,Kasena-Nankana West,430,4,0,0,0,0,5,0,1,46,23,3,1,9,72,0.021
+GHA,GHANA,Eastern,Kwahu South,408,0,0,8,0,0,0,0,0,34,13,2,2,8,57,0.02
+GHA,GHANA,Greater Accra,Weija-Gbawe,640,3,0,0,0,0,10,0,1,18,49,0,8,13,83,0.02
+GHA,GHANA,Bono East,Kintampo North,636,8,0,0,0,0,1,4,2,41,20,0,10,13,75,0.02
+GHA,GHANA,Ashanti,Asante Akim Central,346,0,0,0,0,0,1,6,0,3,33,0,1,7,43,0.02
+GHA,GHANA,Central,Twifo-Ati-Mokwa,403,2,1,0,0,0,5,0,0,24,27,0,5,8,56,0.02
+GHA,GHANA,Western North,Aowin,413,0,0,7,1,0,0,0,0,0,30,0,5,8,43,0.019
+GHA,GHANA,Northern,Kpandai,482,9,0,0,0,0,0,0,1,17,23,1,1,9,46,0.019
+GHA,GHANA,Bono,Dormaa West,324,3,3,0,0,0,0,0,1,19,15,0,2,6,40,0.019
+GHA,GHANA,Central,Awutu Senya East,320,0,0,0,1,0,0,5,0,15,19,1,26,6,62,0.019
+GHA,GHANA,North East,Bunkpurugu -Nakpanduri,529,7,0,0,0,0,4,0,1,32,15,4,1,10,53,0.019
+GHA,GHANA,Western,Shama,285,0,1,0,0,0,4,0,0,13,31,0,3,5,50,0.018
+GHA,GHANA,Ashanti,Bekwai,397,0,0,0,0,0,0,7,0,11,21,2,1,7,42,0.018
+GHA,GHANA,Savannah,North Gonja,330,6,0,0,0,0,0,0,0,17,33,1,17,6,66,0.018
+GHA,GHANA,Eastern,Akwapim North,659,3,0,0,0,0,0,9,1,76,12,3,7,12,107,0.018
+GHA,GHANA,Northern,Nanumba South,641,0,0,0,0,0,2,9,2,14,17,0,1,11,42,0.017
+GHA,GHANA,North East,Yunyoo-Nasuan,305,4,0,0,0,0,1,0,0,24,2,0,9,5,33,0.016
+GHA,GHANA,Oti,Krachi East,629,10,0,0,0,0,0,0,1,73,30,1,5,10,106,0.016
+GHA,GHANA,Oti,Krachi Nchumuru,509,8,0,0,0,0,0,0,0,43,48,0,3,8,92,0.016
+GHA,GHANA,Bono,Tain,917,3,1,11,0,0,0,0,2,34,46,0,1,15,89,0.016
+GHA,GHANA,Northern,Tatale-Sangule,745,9,0,0,1,0,2,0,0,50,43,2,0,12,97,0.016
+GHA,GHANA,Eastern,Achiase,580,0,0,9,0,0,0,0,2,17,20,0,0,9,46,0.016
+GHA,GHANA,Central,Agona East,552,3,0,0,0,0,6,0,0,49,11,0,7,9,67,0.016
+GHA,GHANA,Northern,Gushiegu,607,3,0,0,0,0,6,0,0,20,38,3,1,9,60,0.015
+GHA,GHANA,North East,East Mamprusi,750,11,0,0,0,0,0,0,0,43,25,0,10,11,73,0.015
+GHA,GHANA,Bono East,Nkoranza North,470,7,0,0,0,0,0,0,0,24,20,0,1,7,45,0.015
+GHA,GHANA,Upper West,Nadowli-Kaleo,408,0,2,4,0,0,0,0,0,7,21,1,3,6,37,0.015
+GHA,GHANA,Upper East,Builsa North,261,4,0,0,0,0,0,0,0,19,13,3,1,4,33,0.015
+GHA,GHANA,Savannah,North-East Gonja,340,1,4,0,0,0,0,0,0,32,53,5,4,5,94,0.015
+GHA,GHANA,Greater Accra,Ga North,427,0,2,1,1,0,2,0,0,4,24,0,6,6,35,0.014
+GHA,GHANA,Greater Accra,La-Nkwantanang-Madina,578,0,2,0,0,0,0,6,0,8,31,0,5,8,50,0.014
+GHA,GHANA,Eastern,Afram Plains South,147,0,0,0,2,0,0,0,0,0,7,0,2,2,11,0.014
+GHA,GHANA,Eastern,Kwaebibirem,847,9,1,0,0,2,0,0,0,43,14,0,1,12,60,0.014
+GHA,GHANA,Western,Wassa East,518,5,0,2,0,0,0,0,3,44,57,0,0,7,102,0.014
+GHA,GHANA,Oti,Nkwanta North,700,10,0,0,0,0,0,0,0,37,10,5,6,10,56,0.014
+GHA,GHANA,Volta,Akatsi South,558,7,0,0,0,0,0,0,1,39,67,7,4,7,115,0.013
+GHA,GHANA,Greater Accra,Korle-Klottey,529,0,0,5,0,0,2,0,0,14,45,0,2,7,64,0.013
+GHA,GHANA,Bono,Sunyani West,624,5,0,3,0,0,0,0,0,18,35,7,6,8,69,0.013
+GHA,GHANA,Eastern,Upper Manya-Krobo,525,0,0,0,0,0,1,6,1,26,28,0,2,7,62,0.013
+GHA,GHANA,Central,Twifo Ati Morkwa,75,1,0,0,0,0,0,0,0,1,2,0,1,1,4,0.013
+GHA,GHANA,Greater Accra,Ayawaso East,532,0,0,0,0,0,7,0,0,10,21,0,26,7,62,0.013
+GHA,GHANA,Volta,South Tongu,396,0,0,0,0,0,0,5,0,26,33,0,4,5,64,0.013
+GHA,GHANA,Bono East,Techiman Municipal,406,0,0,0,0,0,5,0,0,29,6,0,9,5,46,0.012
+GHA,GHANA,Eastern,New Juaben North,828,9,0,0,1,0,0,0,1,49,34,1,9,10,95,0.012
+GHA,GHANA,Bono,Jaman North,346,3,0,0,1,0,0,0,0,18,30,2,1,4,45,0.012
+GHA,GHANA,Greater Accra,La-Dade-Kotopon,670,3,0,0,0,0,5,0,0,10,28,1,16,8,58,0.012
+GHA,GHANA,Western North,Bia East,770,0,0,3,0,0,0,6,1,13,68,0,0,9,91,0.012
+GHA,GHANA,Northern,Kumbungu,537,5,0,0,0,0,1,0,0,38,70,1,11,6,113,0.011
+GHA,GHANA,Bono East,Atebubu-Amanten,277,0,0,3,0,0,0,0,2,1,20,1,2,3,28,0.011
+GHA,GHANA,Volta,Ho West,628,0,0,0,0,0,0,7,0,58,43,11,2,7,113,0.011
+GHA,GHANA,Ashanti,Ahafo Ano South West,359,0,0,4,0,0,0,0,0,1,19,5,2,4,28,0.011
+GHA,GHANA,Upper West,Lawra,485,5,0,0,0,0,0,0,2,52,44,0,2,5,99,0.01
+GHA,GHANA,Upper East,Nabdam,288,3,0,0,0,0,0,0,0,50,39,3,8,3,89,0.01
+GHA,GHANA,Central,Assin South,418,0,3,0,0,0,1,0,0,5,50,0,5,4,59,0.01
+GHA,GHANA,Eastern,Abuakwa North,729,0,1,0,0,0,0,6,3,21,11,0,6,7,48,0.01
+GHA,GHANA,Central,Upper Denkyira East,405,0,1,3,0,0,0,0,0,3,9,0,3,4,19,0.01
+GHA,GHANA,Central,Mfantsiman,399,0,0,4,0,0,0,0,1,20,26,2,1,4,51,0.01
+GHA,GHANA,Greater Accra,Kpone-Katamanso,522,3,0,1,1,0,0,0,1,29,37,0,8,5,75,0.01
+GHA,GHANA,Eastern,Denkyembour,817,8,0,0,0,0,0,0,0,55,20,0,3,8,77,0.01
+GHA,GHANA,Ahafo,Asunafo South,394,3,1,0,0,0,0,0,0,19,36,0,4,4,51,0.01
+GHA,GHANA,Eastern,New Juaben South,1482,3,0,3,1,0,2,4,0,56,21,0,18,13,100,0.009
+GHA,GHANA,Eastern,Okere,456,0,1,0,0,0,3,0,0,42,5,0,9,4,53,0.009
+GHA,GHANA,Eastern,Atiwa East,648,3,0,3,0,0,0,0,0,69,11,0,9,6,92,0.009
+GHA,GHANA,Western,Nzema East,453,4,0,0,0,0,0,0,1,46,33,2,7,4,79,0.009
+GHA,GHANA,Ahafo,Asutifi North,545,5,0,0,0,0,0,0,1,16,23,0,4,5,48,0.009
+GHA,GHANA,Greater Accra,Ga East,805,0,0,2,0,0,5,0,0,28,61,2,11,7,105,0.009
+GHA,GHANA,Bono,Jaman South,1041,9,0,0,0,0,0,0,1,59,60,1,1,9,120,0.009
+GHA,GHANA,Northern,Tamale,964,7,0,0,1,0,1,0,0,51,46,2,11,9,112,0.009
+GHA,GHANA,Central,Efutu,365,0,0,0,0,0,0,3,0,5,30,0,12,3,45,0.008
+GHA,GHANA,Ashanti,Atwima Nwabiagya North,356,0,0,1,2,0,0,0,1,12,25,1,2,3,39,0.008
+GHA,GHANA,Upper West,Wa Municipal,533,4,0,0,0,0,0,0,0,70,11,0,2,4,82,0.008
+GHA,GHANA,Ashanti,Atwima Nwabiagya,371,0,0,3,0,0,0,0,0,18,37,9,6,3,71,0.008
+GHA,GHANA,Eastern,Fanteakwa South,738,0,0,0,0,0,0,6,0,7,12,0,3,6,28,0.008
+GHA,GHANA,Western,Wassa Amenfi Central,370,0,1,2,0,0,0,0,0,6,20,1,1,3,31,0.008
+GHA,GHANA,Ashanti,Sekyere South,358,3,0,0,0,0,0,0,2,22,44,3,2,3,71,0.008
+GHA,GHANA,Greater Accra,Ada West,815,4,0,0,0,0,2,0,0,25,34,4,11,6,69,0.007
+GHA,GHANA,Eastern,Akyemansa,741,3,2,0,0,0,0,0,1,72,66,1,2,5,138,0.007
+GHA,GHANA,Greater Accra,Ablekuma West,595,0,0,0,0,0,4,0,0,17,34,0,3,4,57,0.007
+GHA,GHANA,Upper East,Tempane,286,0,2,0,0,0,0,0,0,23,20,0,2,2,45,0.007
+GHA,GHANA,Savannah,Central Gonja,1030,3,0,3,1,0,0,0,2,20,97,11,6,7,136,0.007
+GHA,GHANA,North East,Mamprugu-Moagduri,414,0,0,0,0,0,3,0,1,12,25,1,10,3,50,0.007
+GHA,GHANA,Ahafo,Asunafo North,574,4,0,0,0,0,0,0,0,32,28,0,1,4,60,0.007
+GHA,GHANA,Greater Accra,Ayawaso North,486,0,0,0,0,0,3,0,2,3,27,3,5,3,42,0.006
+GHA,GHANA,Upper West,Jirapa,646,3,0,1,0,0,0,0,1,82,26,1,3,4,109,0.006
+GHA,GHANA,Savannah,East Gonja,350,0,2,0,0,0,0,0,0,2,40,0,4,2,46,0.006
+GHA,GHANA,Oti,Krachi West,543,0,2,1,0,0,0,0,3,4,37,8,2,3,55,0.006
+GHA,GHANA,Western,Wassa Amenfi West,329,0,2,0,0,0,0,0,1,15,20,5,1,2,41,0.006
+GHA,GHANA,Central,Gomoa Central,683,0,0,0,0,0,0,4,0,28,47,0,13,4,82,0.006
+GHA,GHANA,Greater Accra,Ada East,648,0,0,4,0,0,0,0,1,17,40,0,11,4,69,0.006
+GHA,GHANA,Eastern,Birim South,537,3,0,0,0,0,0,0,0,31,12,2,9,3,53,0.006
+GHA,GHANA,Northern,Karaga,635,3,1,0,0,0,0,0,0,16,48,3,14,4,78,0.006
+GHA,GHANA,Western,Ahanta West,467,0,2,0,1,0,0,0,1,26,14,0,0,3,42,0.006
+GHA,GHANA,Eastern,Atiwa West,704,3,0,0,0,0,1,0,0,43,28,6,0,4,77,0.006
+GHA,GHANA,Ashanti,Ahafo Ano South East,482,0,1,0,2,0,0,0,0,12,46,2,5,3,66,0.006
+GHA,GHANA,Western,Prestea-Huni Valley,390,0,0,2,0,0,0,0,0,13,19,0,0,2,34,0.005
+GHA,GHANA,Eastern,Suhum,798,3,0,1,0,0,0,0,0,20,28,3,0,4,52,0.005
+GHA,GHANA,Eastern,Akwapim South,439,0,0,0,1,0,1,0,0,8,19,1,4,2,33,0.005
+GHA,GHANA,Oti,Biakoye,588,3,0,0,0,0,0,0,1,41,53,2,8,3,97,0.005
+GHA,GHANA,Savannah,Bole,405,0,0,0,0,0,2,0,2,15,24,3,11,2,48,0.005
+GHA,GHANA,Greater Accra,Tema,649,0,0,1,0,0,2,0,2,33,87,7,16,3,139,0.005
+GHA,GHANA,Greater Accra,Shai-Osudoku,864,0,1,3,0,0,0,0,2,14,78,7,12,4,112,0.005
+GHA,GHANA,Central,Mfantseman,219,0,0,0,0,0,1,0,0,10,8,0,9,1,28,0.005
+GHA,GHANA,Greater Accra,Ledzokuku,831,0,0,0,0,0,4,0,0,31,68,0,10,4,104,0.005
+GHA,GHANA,Ashanti,Asokwa,415,0,0,0,0,0,2,0,0,28,48,4,9,2,87,0.005
+GHA,GHANA,Ashanti,Juaben,197,0,0,0,0,0,1,0,0,15,20,0,1,1,36,0.005
+GHA,GHANA,Bono East,Techiman North,274,1,0,0,0,0,1,0,0,13,17,0,5,1,30,0.004
+GHA,GHANA,Northern,Sagnarigu,848,3,0,0,0,0,0,0,0,57,53,4,3,3,115,0.004
+GHA,GHANA,Eastern,Yilo-Krobo,941,4,0,0,0,0,0,0,3,21,28,1,2,4,55,0.004
+GHA,GHANA,Bono East,Nkoranza South,511,0,0,2,0,0,0,0,1,23,22,1,2,2,48,0.004
+GHA,GHANA,Western,Ellembelle,469,0,0,0,2,0,0,0,0,35,11,4,3,2,53,0.004
+GHA,GHANA,Ashanti,Asante Akim South,261,0,0,0,0,0,1,0,0,0,11,0,5,1,15,0.004
+GHA,GHANA,Ashanti,Obuasi,235,0,0,0,0,0,1,0,1,8,46,0,3,1,55,0.004
+GHA,GHANA,Ashanti,Offinso North,474,1,0,1,0,0,0,0,1,22,44,0,1,2,67,0.004
+GHA,GHANA,Central,Twifo-Hemang Lower Denkyira,282,0,1,0,0,0,0,0,0,4,13,5,9,1,31,0.004
+GHA,GHANA,Ashanti,Kumasi,539,0,0,0,0,0,2,0,0,10,35,0,10,2,54,0.004
+GHA,GHANA,Central,Asikuma-Odoben-Brakwa,717,0,2,0,0,0,1,0,1,8,25,5,3,3,42,0.004
+GHA,GHANA,Western North,Bibiani-Anhwiaso-Bekwai,672,0,2,0,0,0,0,0,0,43,30,0,5,2,76,0.003
+GHA,GHANA,Upper East,Binduri,319,1,0,0,0,0,0,0,0,7,14,0,2,1,22,0.003
+GHA,GHANA,Upper East,Bawku West,286,0,0,1,0,0,0,0,1,25,14,0,4,1,39,0.003
+GHA,GHANA,Ashanti,Sekyere Kumawu,328,0,0,0,1,0,0,0,0,29,15,0,1,1,45,0.003
+GHA,GHANA,Upper East,Bongo,328,0,0,0,0,0,1,0,0,46,28,1,3,1,74,0.003
+GHA,GHANA,Greater Accra,Accra Metro,1197,0,0,0,0,0,4,0,1,30,102,18,34,4,175,0.003
+GHA,GHANA,Ashanti,Asokore Mampong,287,0,0,0,0,0,1,0,0,11,35,0,8,1,51,0.003
+GHA,GHANA,Western,Effia-Kwesimintsim,607,0,0,0,0,0,2,0,0,29,25,0,1,2,55,0.003
+GHA,GHANA,Upper East,Garu,351,1,0,0,0,0,0,0,0,22,44,0,2,1,65,0.003
+GHA,GHANA,Savannah,West Gonja,374,0,1,0,0,0,0,0,0,24,27,0,2,1,54,0.003
+GHA,GHANA,Bono,Banda,381,0,0,0,0,0,1,0,0,8,23,0,1,1,32,0.003
+GHA,GHANA,Greater Accra,Ayawaso Central,629,0,0,0,0,0,2,0,0,23,29,1,8,2,61,0.003
+GHA,GHANA,Greater Accra,Tema West,708,0,0,1,0,0,1,0,3,6,42,1,9,2,60,0.003
+GHA,GHANA,Ahafo,Tano South,361,0,1,0,0,0,0,0,0,10,12,4,5,1,32,0.003
+GHA,GHANA,Volta,Agortime-Ziope,335,0,0,1,0,0,0,0,0,4,22,0,2,1,29,0.003
+GHA,GHANA,Eastern,Fanteakwa North,910,3,0,0,0,0,0,0,0,40,16,0,2,3,57,0.003
+GHA,GHANA,Western,Wassa Amenfi East,365,0,0,1,0,0,0,0,0,4,41,0,2,1,46,0.003
+GHA,GHANA,Ashanti,Amansie West,429,1,0,0,0,0,0,0,0,6,23,0,0,1,29,0.002
+GHA,GHANA,Ashanti,Adansi North,486,0,0,0,0,0,1,0,0,9,54,0,6,1,68,0.002
+GHA,GHANA,Eastern,Asuogyaman,576,0,0,0,0,0,1,0,2,48,19,2,0,1,70,0.002
+GHA,GHANA,Eastern,Kwahu Afram Plains North,473,0,1,0,0,0,0,0,0,5,29,5,3,1,43,0.002
+GHA,GHANA,Eastern,Nsawam-Adoagyiri,610,0,0,0,0,0,1,0,0,30,16,0,0,1,47,0.002
+GHA,GHANA,Greater Accra,Ayawaso West,516,0,0,0,0,0,1,0,0,2,62,3,8,1,73,0.002
+GHA,GHANA,Northern,Saboba,509,1,0,0,0,0,0,0,0,10,20,1,4,1,33,0.002
+GHA,GHANA,Ashanti,Offinso,455,0,0,0,0,0,1,0,0,29,30,7,10,1,75,0.002
+GHA,GHANA,Western North,Sefwi-Wiawso,433,0,1,0,0,0,0,0,1,21,34,3,0,1,55,0.002
+GHA,GHANA,Upper West,Daffiama-Bussie-Issa,407,0,0,1,0,0,0,0,0,21,33,0,2,1,56,0.002
+GHA,GHANA,Ashanti,Sekyere Central,500,0,1,0,0,0,0,0,0,16,47,1,2,1,65,0.002
+GHA,GHANA,Central,Assin North,446,0,1,0,0,0,0,0,0,15,14,0,4,1,34,0.002
+GHA,GHANA,Central,Ajumako-Enyan-Essiam,518,0,0,1,0,0,0,0,0,13,34,0,1,1,48,0.002
+GHA,GHANA,Central,Upper Denkyira West,594,0,0,0,1,0,0,0,0,2,26,5,4,1,35,0.002
+GHA,GHANA,Northern,Nanumba North,587,0,0,0,0,0,1,0,1,2,40,1,1,1,46,0.002
+GHA,GHANA,Greater Accra,Krowor,550,0,0,0,0,0,1,0,0,8,37,0,14,1,60,0.002
+GHA,GHANA,Volta,Ketu North,428,0,0,1,0,0,0,0,1,9,21,4,0,1,36,0.002
+GHA,GHANA,Greater Accra,Ashaiman,890,0,0,0,0,0,1,0,2,41,34,2,17,1,93,0.001
+GHA,GHANA,Western,Sekondi-Takoradi,778,0,0,0,0,0,1,0,0,41,24,2,5,1,69,0.001
+GHA,GHANA,Oti,Nkwanta South,789,0,0,1,0,0,0,0,0,17,41,8,1,1,64,0.001
+GHA,GHANA,Ashanti,Adansi Akrofuom,274,0,0,0,0,0,0,0,0,19,8,0,1,0,27,0.0
+GHA,GHANA,Ashanti,Adansi Asokwa,192,0,0,0,0,0,0,0,0,5,22,0,1,0,28,0.0
+GHA,GHANA,Ahafo,Tano North,458,0,0,0,0,0,0,0,1,3,26,0,2,0,31,0.0
+GHA,GHANA,Ahafo,Asutifi South,324,0,0,0,0,0,0,0,1,31,13,0,0,0,45,0.0
+GHA,GHANA,Ashanti,Afigya Kwabre North,297,0,0,0,0,0,0,0,0,6,33,2,0,0,41,0.0
+GHA,GHANA,Ashanti,Ahafo Ano North,507,0,0,0,0,0,0,0,1,3,45,3,1,0,53,0.0
+GHA,GHANA,Ashanti,Amansie South,258,0,0,0,0,0,0,0,0,8,20,0,9,0,32,0.0
+GHA,GHANA,Ashanti,Bosome Freho,230,0,0,0,0,0,0,0,0,6,12,4,1,0,22,0.0
+GHA,GHANA,Bono East,Pru,221,0,0,0,0,0,0,0,0,17,13,0,2,0,31,0.0
+GHA,GHANA,Eastern,Lower-Manya Krobo,149,0,0,0,0,0,0,0,0,0,4,0,0,0,4,0.0
+GHA,GHANA,Eastern,Kwahu North,108,0,0,0,0,0,0,0,0,0,5,0,0,0,5,0.0
+GHA,GHANA,Eastern,Kwahu West,1041,0,0,0,0,0,0,0,1,30,26,2,0,0,53,0.0
+GHA,GHANA,Eastern,East Akim - Abuakwa South,136,0,0,0,0,0,0,0,0,0,2,1,0,0,3,0.0
+GHA,GHANA,Western,Mpohor,267,0,0,0,0,0,0,0,0,3,27,0,2,0,30,0.0
+GHA,GHANA,Eastern,Birim Central,444,0,0,0,0,0,0,0,0,22,9,0,2,0,33,0.0
+GHA,GHANA,Eastern,Birim North,484,0,0,0,0,0,0,0,0,24,21,0,5,0,50,0.0
+GHA,GHANA,Western,Tarkwa-Nsuaem,461,0,0,0,0,0,0,0,0,6,21,0,0,0,27,0.0
+GHA,GHANA,Volta,Hohoe,589,0,0,0,0,0,0,0,1,12,39,10,7,0,67,0.0
+GHA,GHANA,Volta,Anloga,294,0,0,0,0,0,0,0,0,0,43,0,2,0,45,0.0
+GHA,GHANA,Volta,Central Tongu,493,0,0,0,0,0,0,0,0,12,57,1,0,0,68,0.0
+GHA,GHANA,Volta,South Dayi,316,0,0,0,0,0,0,0,0,9,41,0,3,0,53,0.0
+GHA,GHANA,Volta,North Tongu,662,0,0,0,0,0,0,0,0,22,57,0,2,0,79,0.0
+GHA,GHANA,Volta,Kpando,352,0,0,0,0,0,0,0,0,8,38,0,5,0,50,0.0
+GHA,GHANA,Volta,Ketu South,548,0,0,0,0,0,0,0,1,21,30,0,4,0,54,0.0
+GHA,GHANA,Volta,Keta,461,0,0,0,0,0,0,0,0,10,40,0,1,0,49,0.0
+GHA,GHANA,Volta,Afadjato South,459,0,0,0,0,0,0,0,0,15,43,9,4,0,66,0.0
+GHA,GHANA,Ashanti,Bosomtwe,415,0,0,0,0,0,0,0,1,14,28,2,3,0,47,0.0
+GHA,GHANA,Ashanti,Ejura-Sekyedumase,244,0,0,0,0,0,0,0,0,2,48,0,0,0,50,0.0
+GHA,GHANA,Ashanti,Atwima Kwanwoma,312,0,0,0,0,0,0,0,0,3,49,0,0,0,52,0.0
+GHA,GHANA,Ashanti,Asante Mampong,200,0,0,0,0,0,0,0,0,3,13,0,6,0,22,0.0
+GHA,GHANA,Central,Komenda-Edna-Eguafo-Abirem,512,0,0,0,0,0,0,0,0,49,15,19,8,0,85,0.0
+GHA,GHANA,Central,Assin Foso,671,0,0,0,0,0,0,0,0,31,15,0,2,0,44,0.0
+GHA,GHANA,Greater Accra,Ga Central,881,0,0,0,0,0,0,0,0,51,57,0,9,0,114,0.0
+GHA,GHANA,Central,Gomoa West,592,0,0,0,0,0,0,0,1,21,14,0,7,0,40,0.0
+GHA,GHANA,Central,Gomoa East,402,0,0,0,0,0,0,0,0,6,21,0,12,0,38,0.0
+GHA,GHANA,Central,Ekumfi,619,0,0,0,0,0,0,0,2,29,9,1,2,0,39,0.0
+GHA,GHANA,Central,Awutu Senya,394,0,0,0,0,0,0,0,1,2,14,0,1,0,18,0.0
+GHA,GHANA,Central,Cape Coast,363,0,0,0,0,0,0,0,0,9,40,0,4,0,49,0.0
+GHA,GHANA,Bono East,Sene East,347,0,0,0,0,0,0,0,0,11,21,0,0,0,32,0.0
+GHA,GHANA,Greater Accra,Ablekuma Central,576,0,0,0,0,0,0,0,0,9,31,3,23,0,62,0.0
+GHA,GHANA,Northern,Savelugu,415,0,0,0,0,0,0,0,1,2,15,0,15,0,27,0.0
+GHA,GHANA,Northern,Nanton,334,0,0,0,0,0,0,0,0,25,29,1,3,0,54,0.0
+GHA,GHANA,Northern,Mion,582,0,0,0,0,0,0,0,0,4,35,1,6,0,44,0.0
+GHA,GHANA,North East,West Mamprusi,334,0,0,0,0,0,0,0,1,36,14,1,8,0,58,0.0
+GHA,GHANA,North East,Chereponi,568,0,0,0,0,0,0,0,1,8,14,9,1,0,33,0.0
+GHA,GHANA,North East,Bunkpurugu,75,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0.0
+GHA,GHANA,Greater Accra,Okai Koi North,659,0,0,0,0,0,0,0,1,10,42,8,17,0,73,0.0
+GHA,GHANA,Greater Accra,Ningo Prampram,933,0,0,0,0,0,0,0,0,21,39,3,14,0,77,0.0
+GHA,GHANA,Ashanti,Obuasi East,350,0,0,0,0,0,0,0,0,5,43,0,23,0,68,0.0
+GHA,GHANA,Ashanti,Kwabre East,365,0,0,0,0,0,0,0,0,18,40,1,13,0,70,0.0
+GHA,GHANA,Oti,Guan,167,0,0,0,0,0,0,0,0,4,13,0,2,0,16,0.0
+GHA,GHANA,Oti,Kadjebi,515,0,0,0,0,0,0,0,0,20,26,0,2,0,47,0.0
+GHA,GHANA,Ashanti,Old Tafo,232,0,0,0,0,0,0,0,0,4,13,0,1,0,18,0.0
+GHA,GHANA,Ashanti,Oforikrom,196,0,0,0,0,0,0,0,0,5,29,0,2,0,34,0.0
+GHA,GHANA,Bono,Dormaa East,216,0,0,0,0,0,0,0,0,34,6,0,0,0,39,0.0
+GHA,GHANA,Ashanti,Sekyere Afram Plains,302,0,0,0,0,0,0,0,0,3,23,0,4,0,30,0.0
+GHA,GHANA,Bono East,Kintampo South,485,0,0,0,0,0,0,0,1,57,35,0,2,0,88,0.0
+GHA,GHANA,Bono,Dormaa Municipal,852,0,0,0,0,0,0,0,0,12,30,0,2,0,41,0.0
+GHA,GHANA,Bono,Berekum West,342,0,0,0,0,0,0,0,1,9,28,0,1,0,38,0.0
+GHA,GHANA,Ashanti,Sekyere East,692,0,0,0,0,0,0,0,0,28,31,1,2,0,58,0.0
+GHA,GHANA,Ashanti,Suame,185,0,0,0,0,0,0,0,0,12,4,0,5,0,21,0.0
+GHA,GHANA,Bono,Berekum,446,0,0,0,0,0,0,0,0,4,25,0,0,0,29,0.0
+GHA,GHANA,Upper East,Bawku Municipal,208,0,0,0,0,0,0,0,1,23,9,2,1,0,34,0.0
+GHA,GHANA,Upper East,Bolgatanga East,261,0,0,0,0,0,0,0,0,16,21,0,1,0,37,0.0
+GHA,GHANA,Upper East,Talensi,342,0,0,0,0,0,0,0,0,20,31,2,2,0,53,0.0
+GHA,GHANA,Upper West,Lambussie,704,0,0,0,0,0,0,0,0,42,22,4,2,0,69,0.0
+GHA,GHANA,Upper West,Sissala West,304,0,0,0,0,0,0,0,0,7,22,0,7,0,36,0.0
+GHA,GHANA,Western North,Bia West,316,0,0,0,0,0,0,0,0,5,22,0,1,0,28,0.0
+GHA,GHANA,Western North,Bodi,363,0,0,0,0,0,0,0,3,17,33,0,0,0,51,0.0
+GHA,GHANA,Western North,Juaboso,402,0,0,0,0,0,0,0,0,37,38,0,1,0,76,0.0
+GHA,GHANA,,,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+GHA,GHANA,Western North,Suaman,350,0,0,0,0,0,0,0,0,4,21,9,1,0,27,0.0

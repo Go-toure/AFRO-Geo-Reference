@@ -1,0 +1,15 @@
+GPS check of district names, UNITED REPUBLIC OF TANZANIA, form 7612
+Records: 247,415; plausible GPS: 247,410 (100.0%); inside a UNITED REPUBLIC OF TANZANIA district: 247,053; plausible GPS but outside UNITED REPUBLIC OF TANZANIA: 357
+Exact repeated points (same coordinates): 4,220
+Points within 1 km of a district boundary (shape tolerance): 9.8% of those inside
+
+Raw district names by verdict:
+  CONFIRMED                        169 names,   218,954 records
+  CONFIRMED_MAJORITY                22 names,    24,867 records
+  CONTRADICTED                       1 names,       246 records
+  MIXED                              2 names,     2,213 records
+  NAME_UNMATCHED_GPS_PROPOSAL        1 names,       689 records
+  NAME_UNMATCHED_NO_CLEAR_GPS        2 names,       446 records
+
+CONFIRMED = at least 90% of the households inside the name's district; CONFIRMED_MAJORITY 50-90%; CONFIRMED_WEAK under 50% but still the main district;
+MIXED = most households in another district but 25% or more in the name's; CONTRADICTED = under 25% in the name's district.

@@ -17,3 +17,6 @@ data/legacy/old_africa_districts_simplified_158d753.rds
 
 # Settlement positions from the raw household GPS (local only)
 data/gps_check_local/
+
+# Monitor names and device ids from the anomaly check (local only)
+data/anomaly_local/

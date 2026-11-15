@@ -1,0 +1,16 @@
+GPS check of district names, ANGOLA, form 10267
+Records: 201,964; plausible GPS: 201,948 (100.0%); inside a ANGOLA district: 200,745; plausible GPS but outside ANGOLA: 1,203
+Exact repeated points (same coordinates): 8,866
+Points within 1 km of a district boundary (shape tolerance): 18.0% of those inside
+
+Raw district names by verdict:
+  CONFIRMED                        219 names,   121,463 records
+  CONFIRMED_MAJORITY               126 names,    69,399 records
+  CONFIRMED_WEAK                     1 names,       907 records
+  CONTRADICTED                       3 names,       556 records
+  MIXED                              6 names,     1,686 records
+  NAME_UNMATCHED_GPS_PROPOSAL       17 names,     5,732 records
+  NAME_UNMATCHED_NO_CLEAR_GPS        7 names,     2,221 records
+
+CONFIRMED = at least 90% of the households inside the name's district; CONFIRMED_MAJORITY 50-90%; CONFIRMED_WEAK under 50% but still the main district;
+MIXED = most households in another district but 25% or more in the name's; CONTRADICTED = under 25% in the name's district.

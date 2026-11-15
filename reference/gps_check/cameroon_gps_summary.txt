@@ -1,0 +1,18 @@
+GPS check of district names, CAMEROON, form 5710
+Records: 106,081; plausible GPS: 106,068 (100.0%); inside a CAMEROON district: 105,788; plausible GPS but outside CAMEROON: 280
+Exact repeated points (same coordinates): 2,000
+Points within 1 km of a district boundary (shape tolerance): 20.8% of those inside
+
+Raw district names by verdict:
+  CONFIRMED                        173 names,    93,768 records
+  CONFIRMED_MAJORITY                24 names,     9,304 records
+  CONFIRMED_WEAK                     2 names,       865 records
+  CONTRADICTED                       1 names,        30 records
+  MIXED                              1 names,        41 records
+  NAME_UNMATCHED_GPS_PROPOSAL        9 names,     1,430 records
+  NAME_UNMATCHED_NO_CLEAR_GPS        7 names,       643 records
+
+CONFIRMED = at least 90% of the households inside the name's district; CONFIRMED_MAJORITY 50-90%; CONFIRMED_WEAK under 50% but still the main district;
+MIXED = most households in another district but 25% or more in the name's; CONTRADICTED = under 25% in the name's district.
+
+Named settlements: 49,275; used in more than one district: 3036; spread above 10 km (same name far apart or bad GPS): 938

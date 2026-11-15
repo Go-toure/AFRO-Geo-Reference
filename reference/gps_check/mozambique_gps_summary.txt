@@ -1,0 +1,14 @@
+GPS check of district names, MOZAMBIQUE, form 7621
+Records: 291,470; plausible GPS: 291,444 (100.0%); inside a MOZAMBIQUE district: 289,272; plausible GPS but outside MOZAMBIQUE: 2,172
+Exact repeated points (same coordinates): 9,020
+Points within 1 km of a district boundary (shape tolerance): 8.9% of those inside
+
+Raw district names by verdict:
+  CONFIRMED                        167 names,   271,058 records
+  CONFIRMED_MAJORITY                 4 names,     3,880 records
+  CONTRADICTED                       1 names,     1,224 records
+  NAME_UNMATCHED_GPS_PROPOSAL        9 names,    15,306 records
+  NAME_UNMATCHED_NO_CLEAR_GPS        1 names,         2 records
+
+CONFIRMED = at least 90% of the households inside the name's district; CONFIRMED_MAJORITY 50-90%; CONFIRMED_WEAK under 50% but still the main district;
+MIXED = most households in another district but 25% or more in the name's; CONTRADICTED = under 25% in the name's district.

@@ -1,0 +1,15 @@
+GPS check of district names, BURKINA FASO, form 4459
+Records: 39,766; plausible GPS: 39,760 (100.0%); inside a BURKINA FASO district: 39,726; plausible GPS but outside BURKINA FASO: 34
+Exact repeated points (same coordinates): 160
+Points within 1 km of a district boundary (shape tolerance): 8.2% of those inside
+
+Raw district names by verdict:
+  CONFIRMED                          2 names,     1,450 records
+  CONTRADICTED                       7 names,     4,409 records
+  NAME_UNMATCHED_GPS_PROPOSAL       60 names,    31,208 records
+  NAME_UNMATCHED_NO_CLEAR_GPS        4 names,     2,699 records
+
+CONFIRMED = at least 90% of the households inside the name's district; CONFIRMED_MAJORITY 50-90%; CONFIRMED_WEAK under 50% but still the main district;
+MIXED = most households in another district but 25% or more in the name's; CONTRADICTED = under 25% in the name's district.
+
+Named settlements: 365; used in more than one district: 8; spread above 10 km (same name far apart or bad GPS): 66

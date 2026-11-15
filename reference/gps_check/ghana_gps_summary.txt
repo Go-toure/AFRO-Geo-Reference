@@ -1,0 +1,16 @@
+GPS check of district names, GHANA, form 3550
+Records: 132,011; plausible GPS: 131,922 (100.0%); inside a GHANA district: 131,699; plausible GPS but outside GHANA: 223
+Exact repeated points (same coordinates): 1,409
+Points within 1 km of a district boundary (shape tolerance): 29.5% of those inside
+
+Raw district names by verdict:
+  CONFIRMED                        196 names,   100,189 records
+  CONFIRMED_MAJORITY                47 names,    21,418 records
+  CONFIRMED_WEAK                     3 names,     2,265 records
+  CONTRADICTED                       5 names,     3,172 records
+  MIXED                              5 names,     1,836 records
+  NAME_UNMATCHED_GPS_PROPOSAL       11 names,     3,125 records
+  NAME_UNMATCHED_NO_CLEAR_GPS        1 names,         6 records
+
+CONFIRMED = at least 90% of the households inside the name's district; CONFIRMED_MAJORITY 50-90%; CONFIRMED_WEAK under 50% but still the main district;
+MIXED = most households in another district but 25% or more in the name's; CONTRADICTED = under 25% in the name's district.

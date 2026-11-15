@@ -1,0 +1,15 @@
+GPS check of district names, GUINEA-BISSAU, form 7585
+Records: 2,010; plausible GPS: 2,010 (100.0%); inside a GUINEA-BISSAU district: 1,999; plausible GPS but outside GUINEA-BISSAU: 11
+Exact repeated points (same coordinates): 154
+Points within 1 km of a district boundary (shape tolerance): 21.8% of those inside
+
+Raw district names by verdict:
+  CONFIRMED                         48 names,       842 records
+  CONFIRMED_MAJORITY                26 names,       529 records
+  CONFIRMED_WEAK                     1 names,         7 records
+  CONTRADICTED                       3 names,        39 records
+  NAME_UNMATCHED_GPS_PROPOSAL       27 names,       474 records
+  NAME_UNMATCHED_NO_CLEAR_GPS        9 names,       119 records
+
+CONFIRMED = at least 90% of the households inside the name's district; CONFIRMED_MAJORITY 50-90%; CONFIRMED_WEAK under 50% but still the main district;
+MIXED = most households in another district but 25% or more in the name's; CONTRADICTED = under 25% in the name's district.

@@ -1,0 +1,14 @@
+GPS check of district names, GUINEA, form 5297
+Records: 22,746; plausible GPS: 22,746 (100.0%); inside a GUINEA district: 22,674; plausible GPS but outside GUINEA: 72
+Exact repeated points (same coordinates): 508
+Points within 1 km of a district boundary (shape tolerance): 13.9% of those inside
+
+Raw district names by verdict:
+  CONFIRMED                         31 names,    18,693 records
+  CONFIRMED_MAJORITY                 2 names,     1,073 records
+  CONTRADICTED                       2 names,     1,122 records
+  MIXED                              2 names,     1,336 records
+  NAME_UNMATCHED_GPS_PROPOSAL        1 names,       522 records
+
+CONFIRMED = at least 90% of the households inside the name's district; CONFIRMED_MAJORITY 50-90%; CONFIRMED_WEAK under 50% but still the main district;
+MIXED = most households in another district but 25% or more in the name's; CONTRADICTED = under 25% in the name's district.

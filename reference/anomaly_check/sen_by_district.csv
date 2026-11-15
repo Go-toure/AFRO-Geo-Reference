@@ -1,0 +1,80 @@
+iso,country,region,district,records,GPS_EXACT_REPEAT,TELEPORT,TOO_FAST,DATE_IMPLAUSIBLE,COUNT_NEGATIVE,COUNT_EXTREME,DUP_COUNTS,GPS_COARSE,GPS_POOR_ACCURACY,TOO_LONG,LATE_SUBMIT,MODEL_OUTLIER,any_hard,any_flag,share_hard
+SEN,SENEGAL,RM Thies,Thiadiaye,102,0,0,0,0,18,0,24,0,6,3,0,0,42,48,0.412
+SEN,SENEGAL,RM Fatick,Dioffior,47,0,0,0,0,17,0,0,0,30,5,0,0,17,39,0.362
+SEN,SENEGAL,RM Kaolack,Kaolack,56,5,0,0,0,20,0,0,0,18,0,0,0,20,21,0.357
+SEN,SENEGAL,RM Louga,Linguere,59,0,0,0,0,19,0,0,0,19,7,0,0,19,26,0.322
+SEN,SENEGAL,RM Fatick,Passy,55,7,0,0,0,4,0,0,0,11,0,0,0,11,18,0.2
+SEN,SENEGAL,RM Kaffrine,Koungheul,52,6,0,0,0,0,0,4,0,32,0,0,0,9,32,0.173
+SEN,SENEGAL,RM Thies,Joal,74,3,1,0,0,9,0,0,0,24,5,0,0,12,33,0.162
+SEN,SENEGAL,RM Saint-Louis,Richard Toll,61,9,0,0,0,0,0,0,0,19,2,0,0,9,28,0.148
+SEN,SENEGAL,RM Tambacounda,Goudiry,44,4,0,0,0,0,0,0,0,6,2,0,0,4,8,0.091
+SEN,SENEGAL,RM Saint-Louis,Dagana,61,5,0,0,0,0,0,0,0,20,2,0,0,5,26,0.082
+SEN,SENEGAL,RM Sedhiou,Goudomp,54,4,0,0,0,0,0,0,0,4,3,0,0,4,10,0.074
+SEN,SENEGAL,RM Kaolack,Guinguineo,60,4,0,0,0,0,0,0,0,32,3,0,1,4,35,0.067
+SEN,SENEGAL,RM Dakar,Dakar Ouest,62,4,0,0,0,0,0,0,0,4,1,0,1,4,10,0.065
+SEN,SENEGAL,RM Dakar,Pikine,68,4,0,0,0,0,0,0,0,4,3,0,3,4,14,0.059
+SEN,SENEGAL,RM Sedhiou,Bounkiling,55,3,0,0,0,0,0,0,0,11,0,4,0,3,15,0.055
+SEN,SENEGAL,RM Fatick,Diakhao,60,3,0,0,0,0,0,0,0,32,2,0,0,3,33,0.05
+SEN,SENEGAL,RM Thies,Pout,60,0,1,0,0,0,0,0,0,10,4,0,1,1,15,0.017
+SEN,SENEGAL,RM Matam,Ranerou,63,0,1,0,0,0,0,0,0,6,10,0,0,1,16,0.016
+SEN,SENEGAL,RM Kaffrine,Kaffrine,61,0,1,0,0,0,0,0,0,18,1,0,1,1,20,0.016
+SEN,SENEGAL,RM Louga,Koki,68,0,1,0,0,0,0,0,0,4,3,0,0,1,8,0.015
+SEN,SENEGAL,RM Dakar,Sangalkam,61,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+SEN,SENEGAL,RM Diourbel,Bambey,71,0,0,0,0,0,0,0,0,0,8,0,2,0,10,0.0
+SEN,SENEGAL,RM Dakar,Yeumbeul,64,0,0,0,0,0,0,0,1,13,0,0,2,0,16,0.0
+SEN,SENEGAL,RM Dakar,Dakar Nord,60,0,0,0,0,0,0,0,0,10,0,0,6,0,15,0.0
+SEN,SENEGAL,RM Dakar,Guediawaye,60,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0.0
+SEN,SENEGAL,RM Dakar,Diamniadio,62,0,0,0,0,0,0,0,0,10,2,0,0,0,12,0.0
+SEN,SENEGAL,RM Dakar,Dakar Sud,53,0,0,0,0,0,0,0,0,4,2,0,1,0,6,0.0
+SEN,SENEGAL,RM Dakar,Dakar Centre,61,0,0,0,0,0,0,0,0,8,3,0,2,0,13,0.0
+SEN,SENEGAL,RM Dakar,Rufisque,60,0,0,0,0,0,0,0,0,17,1,0,3,0,20,0.0
+SEN,SENEGAL,RM Dakar,Mbao,58,0,0,0,0,0,0,0,0,11,3,0,2,0,14,0.0
+SEN,SENEGAL,RM Dakar,Keur Massar,60,0,0,0,0,0,0,0,0,22,0,0,2,0,23,0.0
+SEN,SENEGAL,RM Diourbel,Mbacke,67,0,0,0,0,0,0,0,0,21,1,0,1,0,22,0.0
+SEN,SENEGAL,RM Diourbel,Diourbel,55,0,0,0,0,0,0,0,0,0,2,0,3,0,5,0.0
+SEN,SENEGAL,RM Kaolack,Nioro,40,0,0,0,0,0,0,0,0,2,0,0,0,0,2,0.0
+SEN,SENEGAL,RM Kaffrine,Malem Hodar,60,0,0,0,0,0,0,0,0,25,7,0,1,0,28,0.0
+SEN,SENEGAL,RM Kolda,Kolda,71,0,0,0,0,0,0,0,0,2,2,1,0,0,4,0.0
+SEN,SENEGAL,RM Kolda,Medina Yoro Foulah,58,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+SEN,SENEGAL,RM Kedougou,Salemata,41,0,0,0,0,0,0,0,0,4,2,0,0,0,6,0.0
+SEN,SENEGAL,RM Kedougou,Kedougou,71,0,0,0,0,0,0,0,0,11,1,0,0,0,12,0.0
+SEN,SENEGAL,RM Kaolack,Ndoffane,61,0,0,0,0,0,0,0,0,10,1,0,0,0,10,0.0
+SEN,SENEGAL,RM Fatick,Gossas,59,0,0,0,0,0,0,0,0,19,2,0,1,0,21,0.0
+SEN,SENEGAL,RM Fatick,Niakhar,62,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0.0
+SEN,SENEGAL,RM Fatick,Fatick,60,0,0,0,0,0,0,0,0,21,3,0,0,0,23,0.0
+SEN,SENEGAL,RM Fatick,Sokone,60,0,0,0,0,0,0,0,0,11,3,0,0,0,14,0.0
+SEN,SENEGAL,RM Kaffrine,Birkelane,60,0,0,0,0,0,0,0,0,26,0,0,0,0,26,0.0
+SEN,SENEGAL,RM Fatick,Foundiougne,44,0,0,0,0,0,0,0,0,7,5,0,0,0,10,0.0
+SEN,SENEGAL,RM Diourbel,Touba,65,0,0,0,0,0,0,0,0,0,1,0,3,0,4,0.0
+SEN,SENEGAL,RM Matam,Kanel,65,0,0,0,0,0,0,0,0,1,6,0,0,0,7,0.0
+SEN,SENEGAL,RM Louga,Sakal,53,0,0,0,0,0,0,0,0,5,1,0,0,0,6,0.0
+SEN,SENEGAL,RM Louga,Louga,58,0,0,0,0,0,0,0,0,2,5,0,0,0,6,0.0
+SEN,SENEGAL,RM Louga,Keur Momar Sarr,60,0,0,0,0,0,0,0,0,11,2,0,0,0,12,0.0
+SEN,SENEGAL,RM Louga,Darou-Mousty,61,0,0,0,0,0,0,0,0,3,2,0,0,0,5,0.0
+SEN,SENEGAL,RM Louga,Kebemer,68,0,0,0,0,0,0,0,0,4,2,11,0,0,17,0.0
+SEN,SENEGAL,RM Kolda,Velingara,60,0,0,0,0,0,0,0,0,17,0,0,0,0,17,0.0
+SEN,SENEGAL,RM Louga,Dahra,48,0,0,0,0,0,0,0,0,20,3,1,0,0,24,0.0
+SEN,SENEGAL,RM Kedougou,Saraya,81,0,0,0,0,0,0,0,0,3,0,0,0,0,3,0.0
+SEN,SENEGAL,RM Saint-Louis,Saint-Louis,60,0,0,0,0,0,0,0,0,15,2,0,1,0,17,0.0
+SEN,SENEGAL,RM Saint-Louis,Pete,54,0,0,0,0,0,0,0,0,17,1,0,0,0,18,0.0
+SEN,SENEGAL,RM Sedhiou,Sedhiou,58,0,0,0,0,0,0,0,0,5,1,0,1,0,7,0.0
+SEN,SENEGAL,RM Tambacounda,Bakel,53,0,0,0,0,0,0,0,0,9,5,0,0,0,11,0.0
+SEN,SENEGAL,RM Saint-Louis,Podor,60,0,0,0,0,0,0,0,0,9,0,0,0,0,9,0.0
+SEN,SENEGAL,RM Matam,Thilogne,35,0,0,0,0,0,0,0,0,6,0,0,0,0,6,0.0
+SEN,SENEGAL,RM Matam,Matam,62,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0.0
+SEN,SENEGAL,RM Tambacounda,Koumpentoum,61,0,0,0,0,0,0,0,0,16,2,0,0,0,18,0.0
+SEN,SENEGAL,RM Tambacounda,Kidira,55,0,0,0,0,0,0,0,1,22,1,0,0,0,23,0.0
+SEN,SENEGAL,RM Tambacounda,Diankhe Makhan,60,0,0,0,0,0,0,0,0,7,1,0,0,0,7,0.0
+SEN,SENEGAL,RM Tambacounda,Tambacounda,61,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+SEN,SENEGAL,RM Thies,Khombole,61,0,0,0,0,0,0,0,0,1,2,0,0,0,3,0.0
+SEN,SENEGAL,RM Thies,Mbour,69,0,0,0,0,0,0,0,0,1,1,0,0,0,2,0.0
+SEN,SENEGAL,RM Thies,Mekhe,64,0,0,0,0,0,0,0,0,12,1,0,1,0,13,0.0
+SEN,SENEGAL,RM Tambacounda,Makacolibantang,61,0,0,0,0,0,0,0,0,1,4,1,2,0,8,0.0
+SEN,SENEGAL,RM Thies,Popenguine,46,0,0,0,0,0,0,0,0,1,1,0,0,0,2,0.0
+SEN,SENEGAL,RM Thies,Thies,68,0,0,0,0,0,0,0,0,4,1,0,1,0,5,0.0
+SEN,SENEGAL,RM Thies,Tivaouane,61,0,0,0,0,0,0,0,0,2,3,0,2,0,6,0.0
+SEN,SENEGAL,RM Ziguinchor,Bignona,47,0,0,0,0,0,0,0,0,10,0,0,0,0,10,0.0
+SEN,SENEGAL,RM Ziguinchor,Diouloulou,58,0,0,0,0,0,0,0,0,23,3,0,1,0,23,0.0
+SEN,SENEGAL,RM Ziguinchor,Oussouye,54,0,0,0,0,0,0,0,0,11,1,0,1,0,11,0.0
+SEN,SENEGAL,RM Ziguinchor,Thionck-Essyl,56,0,0,0,0,0,0,0,0,13,0,0,0,0,13,0.0
+SEN,SENEGAL,RM Ziguinchor,Ziguinchor,31,0,0,0,0,0,0,0,0,2,1,0,0,0,3,0.0

@@ -1,0 +1,15 @@
+GPS check of district names, NIGER, form 5212
+Records: 107,317; plausible GPS: 107,315 (100.0%); inside a NIGER district: 107,293; plausible GPS but outside NIGER: 22
+Exact repeated points (same coordinates): 782
+Points within 1 km of a district boundary (shape tolerance): 11.9% of those inside
+
+Raw district names by verdict:
+  CONFIRMED                         59 names,    75,403 records
+  CONFIRMED_MAJORITY                 9 names,    11,184 records
+  CONTRADICTED                       1 names,     1,292 records
+  MIXED                              1 names,       365 records
+  NAME_UNMATCHED_GPS_PROPOSAL       14 names,    16,600 records
+  NAME_UNMATCHED_NO_CLEAR_GPS        2 names,     2,473 records
+
+CONFIRMED = at least 90% of the households inside the name's district; CONFIRMED_MAJORITY 50-90%; CONFIRMED_WEAK under 50% but still the main district;
+MIXED = most households in another district but 25% or more in the name's; CONTRADICTED = under 25% in the name's district.

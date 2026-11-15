@@ -1,0 +1,16 @@
+GPS check of district names, MALI, form 4987
+Records: 51,070; plausible GPS: 51,068 (100.0%); inside a MALI district: 51,040; plausible GPS but outside MALI: 28
+Exact repeated points (same coordinates): 842
+Points within 1 km of a district boundary (shape tolerance): 8.0% of those inside
+
+Raw district names by verdict:
+  CONFIRMED                        109 names,    39,725 records
+  CONFIRMED_MAJORITY                16 names,     5,911 records
+  CONFIRMED_WEAK                     2 names,       707 records
+  CONTRADICTED                       4 names,     1,468 records
+  MIXED                              4 names,     1,448 records
+  NAME_UNMATCHED_GPS_PROPOSAL       11 names,     1,137 records
+  NAME_UNMATCHED_NO_CLEAR_GPS        9 names,       674 records
+
+CONFIRMED = at least 90% of the households inside the name's district; CONFIRMED_MAJORITY 50-90%; CONFIRMED_WEAK under 50% but still the main district;
+MIXED = most households in another district but 25% or more in the name's; CONTRADICTED = under 25% in the name's district.

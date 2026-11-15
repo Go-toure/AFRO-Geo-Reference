@@ -1,0 +1,14 @@
+GPS check of district names, SENEGAL, form 6348
+Records: 4,675; plausible GPS: 4,675 (100.0%); inside a SENEGAL district: 4,659; plausible GPS but outside SENEGAL: 16
+Exact repeated points (same coordinates): 148
+Points within 1 km of a district boundary (shape tolerance): 24.4% of those inside
+
+Raw district names by verdict:
+  CONFIRMED                         53 names,     3,143 records
+  CONFIRMED_MAJORITY                17 names,       985 records
+  CONTRADICTED                       2 names,       121 records
+  MIXED                              2 names,       117 records
+  NAME_UNMATCHED_GPS_PROPOSAL        5 names,       309 records
+
+CONFIRMED = at least 90% of the households inside the name's district; CONFIRMED_MAJORITY 50-90%; CONFIRMED_WEAK under 50% but still the main district;
+MIXED = most households in another district but 25% or more in the name's; CONTRADICTED = under 25% in the name's district.

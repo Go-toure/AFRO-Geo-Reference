@@ -1,0 +1,16 @@
+GPS check of district names, CONGO, form 4997
+Records: 16,000; plausible GPS: 15,997 (100.0%); inside a CONGO district: 15,968; plausible GPS but outside CONGO: 29
+Exact repeated points (same coordinates): 584
+Points within 1 km of a district boundary (shape tolerance): 14.8% of those inside
+
+Raw district names by verdict:
+  CONFIRMED                         18 names,     5,409 records
+  CONFIRMED_MAJORITY                11 names,     3,237 records
+  CONFIRMED_WEAK                     2 names,       630 records
+  CONTRADICTED                      16 names,     5,217 records
+  MIXED                              2 names,       608 records
+  NAME_UNMATCHED_GPS_PROPOSAL        2 names,       625 records
+  NAME_UNMATCHED_NO_CLEAR_GPS        1 names,       274 records
+
+CONFIRMED = at least 90% of the households inside the name's district; CONFIRMED_MAJORITY 50-90%; CONFIRMED_WEAK under 50% but still the main district;
+MIXED = most households in another district but 25% or more in the name's; CONTRADICTED = under 25% in the name's district.

@@ -1,0 +1,11 @@
+GPS check of district names, NAMIBIA, form 15780
+Records: 8,425; plausible GPS: 8,424 (100.0%); inside a NAMIBIA district: 8,421; plausible GPS but outside NAMIBIA: 3
+Exact repeated points (same coordinates): 33
+Points within 1 km of a district boundary (shape tolerance): 8.9% of those inside
+
+Raw district names by verdict:
+  CONFIRMED                         33 names,     7,627 records
+  CONFIRMED_MAJORITY                 4 names,       798 records
+
+CONFIRMED = at least 90% of the households inside the name's district; CONFIRMED_MAJORITY 50-90%; CONFIRMED_WEAK under 50% but still the main district;
+MIXED = most households in another district but 25% or more in the name's; CONTRADICTED = under 25% in the name's district.

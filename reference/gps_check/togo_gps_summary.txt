@@ -1,0 +1,16 @@
+GPS check of district names, TOGO, form 4413
+Records: 9,139; plausible GPS: 9,138 (100.0%); inside a TOGO district: 9,082; plausible GPS but outside TOGO: 56
+Exact repeated points (same coordinates): 45
+Points within 1 km of a district boundary (shape tolerance): 19.6% of those inside
+
+Raw district names by verdict:
+  CONFIRMED                         28 names,     5,745 records
+  CONFIRMED_MAJORITY                13 names,     2,412 records
+  MIXED                              1 names,        78 records
+  NAME_UNMATCHED_GPS_PROPOSAL        2 names,       381 records
+  NAME_UNMATCHED_NO_CLEAR_GPS        2 names,       523 records
+
+CONFIRMED = at least 90% of the households inside the name's district; CONFIRMED_MAJORITY 50-90%; CONFIRMED_WEAK under 50% but still the main district;
+MIXED = most households in another district but 25% or more in the name's; CONTRADICTED = under 25% in the name's district.
+
+Named settlements: 2,861; used in more than one district: 98; spread above 10 km (same name far apart or bad GPS): 54

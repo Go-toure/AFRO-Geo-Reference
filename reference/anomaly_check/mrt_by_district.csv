@@ -1,0 +1,93 @@
+iso,country,region,district,records,GPS_EXACT_REPEAT,TELEPORT,TOO_FAST,DATE_IMPLAUSIBLE,COUNT_NEGATIVE,COUNT_EXTREME,DUP_COUNTS,GPS_COARSE,GPS_POOR_ACCURACY,TOO_LONG,LATE_SUBMIT,MODEL_OUTLIER,any_hard,any_flag,share_hard
+MRT,MAURITANIA,Assaba,Barkeiwel,23,14,0,0,0,0,0,0,0,23,1,0,2,14,23,0.609
+MRT,MAURITANIA,Assaba,Kankossa,20,7,0,1,0,0,0,0,0,3,2,0,0,8,13,0.4
+MRT,MAURITANIA,Assaba,Guerou,17,4,1,0,0,0,0,0,0,16,0,0,0,5,16,0.294
+MRT,MAURITANIA,Gorgol,M_Bout,17,0,0,0,0,0,0,5,0,1,1,0,0,5,6,0.294
+MRT,MAURITANIA,Tagant,Moudjria,98,0,0,0,0,0,0,15,0,3,12,0,0,15,29,0.153
+MRT,MAURITANIA,Assaba,Boumdeid,167,17,0,0,0,0,0,12,0,2,4,0,0,23,29,0.138
+MRT,MAURITANIA,Hodh El Gharbi,Koubenni,23,3,0,0,0,0,0,0,0,6,1,0,0,3,10,0.13
+MRT,MAURITANIA,Hodh ECharghi,Amourj,81,7,0,0,0,0,0,0,0,19,12,0,0,7,31,0.086
+MRT,MAURITANIA,Tiris Ezmmour,Bir Oumgreine,94,0,0,0,1,0,0,7,0,5,2,0,1,8,16,0.085
+MRT,MAURITANIA,Adrar,Ouadane,118,10,0,0,0,0,0,0,0,24,5,0,0,10,29,0.085
+MRT,MAURITANIA,Gorgol,Maghama,164,12,0,0,0,0,0,0,0,28,10,0,0,12,33,0.073
+MRT,MAURITANIA,Inchiri,Binichabe,14,1,0,0,0,0,0,0,0,1,1,0,0,1,2,0.071
+MRT,MAURITANIA,Guidimagha,Ghabou,167,9,1,0,0,0,0,0,0,12,13,0,1,10,26,0.06
+MRT,MAURITANIA,Gorgol,Monguel,131,7,0,0,0,0,0,0,0,15,15,0,0,7,27,0.053
+MRT,MAURITANIA,Trarza,Ouad Naga,23,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0.043
+MRT,MAURITANIA,Assaba,Kankoussa,119,4,0,0,0,0,1,0,0,8,5,0,2,5,14,0.042
+MRT,MAURITANIA,Hodh ECharghi,Bassiknou,183,0,0,0,0,0,0,7,0,11,25,0,1,7,40,0.038
+MRT,MAURITANIA,Brakna,Bababe,107,4,0,0,0,0,0,0,0,6,9,0,0,4,15,0.037
+MRT,MAURITANIA,Brakna,Aleg,179,6,0,0,0,0,0,0,0,36,3,0,0,6,39,0.034
+MRT,MAURITANIA,Tiris Ezmmour,Zouerate,95,3,0,0,0,0,0,0,0,9,1,0,2,3,12,0.032
+MRT,MAURITANIA,Nouakchott Nord,Toujounine,251,6,0,0,1,0,0,0,0,42,2,1,5,6,53,0.024
+MRT,MAURITANIA,Adrar,Atar,176,4,0,0,0,0,0,0,0,21,12,0,1,4,33,0.023
+MRT,MAURITANIA,Guidimagha,Ould Yenge,188,4,0,0,0,0,0,0,0,15,8,0,1,4,23,0.021
+MRT,MAURITANIA,Guidimagha,Seilibaby,199,0,0,0,4,0,0,0,0,4,4,1,4,4,15,0.02
+MRT,MAURITANIA,Nouakchott Sud,Riyad,50,1,0,0,0,0,0,0,0,0,1,0,0,1,2,0.02
+MRT,MAURITANIA,Gorgol,Kaedi,272,3,0,0,2,0,0,0,0,38,15,0,1,5,54,0.018
+MRT,MAURITANIA,Assaba,Kiffa,292,5,0,0,0,0,0,0,1,39,14,0,2,5,56,0.017
+MRT,MAURITANIA,Gorgol,Lekseibe,149,0,1,0,1,0,0,0,0,2,53,0,0,2,53,0.013
+MRT,MAURITANIA,Nouakchott Ouest,Ksar,229,0,0,3,0,0,0,0,0,7,7,0,7,3,23,0.013
+MRT,MAURITANIA,Gorgol,M_bout,232,0,0,3,0,0,0,0,0,3,73,0,0,3,77,0.013
+MRT,MAURITANIA,Hodh El Gharbi,Tintane,226,3,0,0,0,0,0,0,0,41,6,0,0,3,47,0.013
+MRT,MAURITANIA,Hodh ECharghi,D_har,84,0,1,0,0,0,0,0,0,3,15,0,2,1,20,0.012
+MRT,MAURITANIA,Brakna,Male,81,0,0,0,1,0,0,0,0,1,16,0,2,1,20,0.012
+MRT,MAURITANIA,Hodh ECharghi,Timbedra,180,0,1,1,0,0,0,0,0,10,51,0,1,2,60,0.011
+MRT,MAURITANIA,Nouakchott Sud,Arafat,264,3,0,0,0,0,0,0,0,24,1,0,0,3,28,0.011
+MRT,MAURITANIA,Hodh El Gharbi,Touil,125,0,0,0,1,0,0,0,0,0,7,0,1,1,9,0.008
+MRT,MAURITANIA,Guidimagha,Wompou,121,0,1,0,0,0,0,0,0,0,42,0,1,1,43,0.008
+MRT,MAURITANIA,Assaba,Barkeol,128,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0.008
+MRT,MAURITANIA,Trarza,Rosso,220,0,0,1,0,0,0,0,1,22,7,0,0,1,31,0.005
+MRT,MAURITANIA,Nouakchott Nord,Dar Naim,326,1,0,0,0,0,0,0,0,27,12,0,5,1,42,0.003
+MRT,MAURITANIA,Adrar,Chinguitti,95,0,0,0,0,0,0,0,0,0,3,0,0,0,3,0.0
+MRT,MAURITANIA,Adrar,Aoujeft,115,0,0,0,0,0,0,0,0,15,33,0,2,0,47,0.0
+MRT,MAURITANIA,Assaba,Guerrou,131,0,0,0,0,0,0,0,0,0,5,0,0,0,5,0.0
+MRT,MAURITANIA,Brakna,Maghtalahjar,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+MRT,MAURITANIA,Dakhlet Nouadhibou,Nouadhibou,196,0,0,0,0,0,0,0,0,55,6,0,0,0,58,0.0
+MRT,MAURITANIA,Dakhlet Nouadhibou,Chami,80,0,0,0,0,0,0,0,0,10,1,0,9,0,19,0.0
+MRT,MAURITANIA,Gorgol,Kaédi,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0.0
+MRT,MAURITANIA,Brakna,Boghe,247,0,0,0,0,0,0,0,0,7,11,0,0,0,18,0.0
+MRT,MAURITANIA,Brakna,Boghé,4,0,0,0,0,0,0,0,0,2,0,0,0,0,2,0.0
+MRT,MAURITANIA,Brakna,M_Bagne,116,0,0,0,0,0,0,0,0,30,8,0,0,0,32,0.0
+MRT,MAURITANIA,Brakna,Maghta Lehjar,180,0,0,0,0,0,0,0,0,13,4,0,3,0,20,0.0
+MRT,MAURITANIA,Hodh El Gharbi,Kobenni,130,0,0,0,0,0,0,0,0,12,4,0,0,0,16,0.0
+MRT,MAURITANIA,Hodh ECharghi,Oualata,81,0,0,0,0,0,0,0,0,0,15,0,0,0,15,0.0
+MRT,MAURITANIA,Hodh ECharghi,Nema,158,0,0,0,0,0,0,0,0,3,7,0,0,0,10,0.0
+MRT,MAURITANIA,Hodh ECharghi,Djigueni,77,0,0,0,0,0,0,0,0,7,19,0,0,0,26,0.0
+MRT,MAURITANIA,Guidimakha,Selibabi,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+MRT,MAURITANIA,Guidimakha,Ould Yenge,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+MRT,MAURITANIA,Guidimakha,Ghabou,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+MRT,MAURITANIA,Gorgol,Mounguel,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+MRT,MAURITANIA,Hodh ECharghi,Adel Baghrou,97,0,0,0,0,0,0,0,0,0,21,0,0,0,21,0.0
+MRT,MAURITANIA,Inchiri,Akjoujt,25,0,0,0,0,0,0,0,0,4,0,0,0,0,4,0.0
+MRT,MAURITANIA,Inchiri,Akjoujet,93,0,0,0,0,0,0,0,1,1,2,0,0,0,4,0.0
+MRT,MAURITANIA,Hodh El chargui,Timbedra,31,0,0,0,0,0,0,0,0,7,0,0,0,0,7,0.0
+MRT,MAURITANIA,Hodh El chargui,Nema,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+MRT,MAURITANIA,Hodh El chargui,N_beikit Lahwach,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+MRT,MAURITANIA,Hodh El chargui,Djigueni,28,0,0,0,0,0,0,0,0,1,0,0,5,0,6,0.0
+MRT,MAURITANIA,Hodh El chargui,Basseknou,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+MRT,MAURITANIA,Hodh El chargui,Amourj,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+MRT,MAURITANIA,Hodh El Gharbi,Tamchekett,266,0,0,0,0,0,0,0,0,6,4,0,1,0,11,0.0
+MRT,MAURITANIA,Hodh El Gharbi,Aioun,192,0,0,0,0,0,0,0,0,8,10,0,3,0,21,0.0
+MRT,MAURITANIA,Hodh El Gharbi,Aioun Al atrouss,29,0,0,0,0,0,0,0,0,4,0,0,0,0,4,0.0
+MRT,MAURITANIA,Nouakchott Ouest,Tevragh Zeine,193,0,0,0,0,0,0,0,0,0,1,1,11,0,11,0.0
+MRT,MAURITANIA,Nouakchott Ouest,Tevragh Zeina,19,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0.0
+MRT,MAURITANIA,Nouakchott Ouest,Sebkha,215,0,0,0,0,0,0,0,0,14,14,0,6,0,30,0.0
+MRT,MAURITANIA,Inchiri,Benechabe,86,0,0,0,0,0,0,0,0,1,29,0,0,0,30,0.0
+MRT,MAURITANIA,Nouakchott Nord,Teyarett,229,0,0,0,0,0,0,0,0,1,2,0,4,0,7,0.0
+MRT,MAURITANIA,Tagant,Tidjikja,73,0,0,0,0,0,0,0,0,2,5,0,0,0,7,0.0
+MRT,MAURITANIA,Tagant,Tichitt,46,0,0,0,0,0,0,0,0,1,7,0,0,0,8,0.0
+MRT,MAURITANIA,Nouakchott Sud,Riyadh,201,0,0,0,0,0,0,0,0,15,6,0,1,0,21,0.0
+MRT,MAURITANIA,Nouakchott Sud,El Mina,283,0,0,0,0,0,0,0,0,13,16,0,7,0,31,0.0
+MRT,MAURITANIA,Tiris Zemmour,Birmougrein,26,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0.0
+MRT,MAURITANIA,Tiris Zemmour,F_Derick,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+MRT,MAURITANIA,Tagant,Tijikja,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+MRT,MAURITANIA,Tiris Ezmmour,F_Derik,81,0,0,0,0,0,0,0,0,5,11,0,0,0,15,0.0
+MRT,MAURITANIA,Trarza,Boutilimitt,186,0,0,0,0,0,0,0,0,1,2,0,2,0,5,0.0
+MRT,MAURITANIA,Tiris Zemmour,Zouerat,14,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0.0
+MRT,MAURITANIA,Trarza,Keurmacen,17,0,0,0,0,0,0,0,0,5,0,0,0,0,5,0.0
+MRT,MAURITANIA,Trarza,Keur Macene,117,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0.0
+MRT,MAURITANIA,Trarza,Mederdra,139,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0.0
+MRT,MAURITANIA,Trarza,Ouad-Naga,151,0,0,0,0,0,0,0,0,2,1,0,3,0,6,0.0
+MRT,MAURITANIA,Trarza,R_Kiz,174,0,0,0,0,0,0,0,0,0,14,0,3,0,17,0.0
+MRT,MAURITANIA,Trarza,Teikane,128,0,0,0,0,0,0,0,0,0,6,0,0,0,6,0.0

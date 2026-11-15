@@ -1,0 +1,15 @@
+GPS check of district names, SOUTH SUDAN, form 5772
+Records: 4,764; plausible GPS: 4,764 (100.0%); inside a SOUTH SUDAN district: 4,674; plausible GPS but outside SOUTH SUDAN: 90
+Exact repeated points (same coordinates): 38
+Points within 1 km of a district boundary (shape tolerance): 10.1% of those inside
+
+Raw district names by verdict:
+  CONFIRMED                         49 names,     3,216 records
+  CONFIRMED_MAJORITY                 7 names,       639 records
+  CONTRADICTED                       2 names,       169 records
+  MIXED                              1 names,       103 records
+  NAME_UNMATCHED_GPS_PROPOSAL       19 names,       581 records
+  NAME_UNMATCHED_NO_CLEAR_GPS        3 names,        56 records
+
+CONFIRMED = at least 90% of the households inside the name's district; CONFIRMED_MAJORITY 50-90%; CONFIRMED_WEAK under 50% but still the main district;
+MIXED = most households in another district but 25% or more in the name's; CONTRADICTED = under 25% in the name's district.

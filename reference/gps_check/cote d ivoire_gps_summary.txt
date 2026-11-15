@@ -1,0 +1,15 @@
+GPS check of district names, COTE D IVOIRE, form 4479
+Records: 61,265; plausible GPS: 61,259 (100.0%); inside a COTE D IVOIRE district: 61,183; plausible GPS but outside COTE D IVOIRE: 76
+Exact repeated points (same coordinates): 520
+Points within 1 km of a district boundary (shape tolerance): 14.7% of those inside
+
+Raw district names by verdict:
+  CONFIRMED                        107 names,    46,898 records
+  CONFIRMED_MAJORITY                14 names,     6,358 records
+  CONTRADICTED                       5 names,     2,034 records
+  MIXED                              1 names,     1,020 records
+  NAME_UNMATCHED_GPS_PROPOSAL       20 names,     4,845 records
+  NAME_UNMATCHED_NO_CLEAR_GPS        2 names,       110 records
+
+CONFIRMED = at least 90% of the households inside the name's district; CONFIRMED_MAJORITY 50-90%; CONFIRMED_WEAK under 50% but still the main district;
+MIXED = most households in another district but 25% or more in the name's; CONTRADICTED = under 25% in the name's district.

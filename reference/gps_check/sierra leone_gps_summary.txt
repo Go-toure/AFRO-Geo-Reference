@@ -1,0 +1,11 @@
+GPS check of district names, SIERRA LEONE, form 6102
+Records: 9,709; plausible GPS: 9,709 (100.0%); inside a SIERRA LEONE district: 9,635; plausible GPS but outside SIERRA LEONE: 74
+Exact repeated points (same coordinates): 40
+Points within 1 km of a district boundary (shape tolerance): 15.6% of those inside
+
+Raw district names by verdict:
+  CONFIRMED                         14 names,     7,880 records
+  NAME_UNMATCHED_GPS_PROPOSAL        2 names,     1,829 records
+
+CONFIRMED = at least 90% of the households inside the name's district; CONFIRMED_MAJORITY 50-90%; CONFIRMED_WEAK under 50% but still the main district;
+MIXED = most households in another district but 25% or more in the name's; CONTRADICTED = under 25% in the name's district.

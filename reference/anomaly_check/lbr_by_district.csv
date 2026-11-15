@@ -1,0 +1,194 @@
+iso,country,region,district,records,GPS_EXACT_REPEAT,TELEPORT,TOO_FAST,DATE_IMPLAUSIBLE,COUNT_NEGATIVE,COUNT_EXTREME,DUP_COUNTS,GPS_COARSE,GPS_POOR_ACCURACY,TOO_LONG,LATE_SUBMIT,MODEL_OUTLIER,any_hard,any_flag,share_hard
+LBR,LIBERIA,RIVERCESS,Doedian District,23,16,0,1,0,0,0,0,0,17,3,5,0,16,18,0.696
+LBR,LIBERIA,Montserrado,Somalia Drive District,392,42,0,0,0,0,0,213,1,122,194,3,5,215,283,0.548
+LBR,LIBERIA,Montserrado,Commonwealth District,267,21,0,0,0,0,0,138,0,23,87,1,8,139,174,0.521
+LBR,LIBERIA,Sinoe,Dugbe River District,52,4,0,0,3,0,24,0,0,6,12,0,0,24,36,0.462
+LBR,LIBERIA,Montserrado,Central Monrovia district,603,5,2,0,0,0,0,246,0,74,179,0,1,246,404,0.408
+LBR,LIBERIA,GRAND CAPE MOUNT,Porkpa District,27,11,0,0,0,0,0,0,0,18,1,0,0,11,19,0.407
+LBR,LIBERIA,SINOE,Jedepo District,18,0,0,0,0,0,0,6,0,0,5,0,0,6,11,0.333
+LBR,LIBERIA,BONG,Zota,33,0,0,0,0,0,0,9,0,0,5,0,0,9,12,0.273
+LBR,LIBERIA,Nimba,Twah-River,30,8,0,0,0,0,0,0,0,9,10,0,1,8,18,0.267
+LBR,LIBERIA,Grand Kru,Dorbor District,31,8,0,0,0,0,0,0,0,2,22,0,0,8,24,0.258
+LBR,LIBERIA,GRAND CAPE MOUNT,Tewor District,56,6,0,0,0,0,0,8,0,13,5,0,0,13,24,0.232
+LBR,LIBERIA,Lofa,Foya District,31,7,0,0,0,0,0,0,0,12,6,0,0,7,14,0.226
+LBR,LIBERIA,BONG,Sanoyea,30,0,0,0,0,0,0,6,0,0,3,0,0,6,8,0.2
+LBR,LIBERIA,RIVERCESS,Yarnie District,25,5,0,0,0,0,0,0,0,7,7,0,0,5,12,0.2
+LBR,LIBERIA,LOFA,Zorzor District,66,0,0,0,1,0,0,12,0,0,9,0,0,13,22,0.197
+LBR,LIBERIA,RIVERCESS,Joe River District,37,6,0,0,0,0,0,0,0,12,3,0,0,6,13,0.162
+LBR,LIBERIA,Grand Cape Mount,Gola konneh District,53,0,0,0,0,0,2,6,0,1,5,0,2,8,11,0.151
+LBR,LIBERIA,Grand Gedeh,Tchien District,80,0,0,0,0,0,0,12,0,2,33,0,0,12,38,0.15
+LBR,LIBERIA,GRAND CAPE MOUNT,Gola konneh District,20,0,0,3,0,0,0,0,0,0,5,0,0,3,8,0.15
+LBR,LIBERIA,MONTSERRADO,Bushrod District,65,6,0,0,0,0,3,0,0,23,12,0,11,9,37,0.138
+LBR,LIBERIA,LOFA,Salayea District,50,3,0,0,0,0,3,0,0,6,7,0,0,6,10,0.12
+LBR,LIBERIA,Grand Kru,Trehn District,34,3,0,0,0,0,1,0,0,6,13,0,1,4,19,0.118
+LBR,LIBERIA,Nimba,Tappita,28,0,0,3,0,0,0,0,0,5,1,0,0,3,9,0.107
+LBR,LIBERIA,BOMI,Senjeh,39,4,0,0,0,0,0,0,0,18,7,0,0,4,24,0.103
+LBR,LIBERIA,GBARPOLU,Bokomu District,69,0,6,0,0,0,0,0,0,0,49,0,0,6,49,0.087
+LBR,LIBERIA,Bomi,Klay,262,0,0,0,0,0,0,22,0,13,39,4,0,22,73,0.084
+LBR,LIBERIA,Sinoe,Greenville District,38,3,0,0,0,0,0,0,0,4,11,0,0,3,13,0.079
+LBR,LIBERIA,GRAND KRU,Jraoh District,39,0,1,2,0,0,0,0,0,2,8,0,0,3,12,0.077
+LBR,LIBERIA,Bong,Suakoko,29,0,2,0,0,0,0,0,0,8,2,0,0,2,12,0.069
+LBR,LIBERIA,Montserrado,Bushrod District,178,0,0,0,0,0,3,9,0,23,7,0,1,12,42,0.067
+LBR,LIBERIA,GBARPOLU,Kongba District,15,0,1,0,0,0,0,0,0,2,13,0,0,1,14,0.067
+LBR,LIBERIA,SINOE,Pynes Town District,15,0,0,0,1,0,0,0,0,0,8,0,0,1,9,0.067
+LBR,LIBERIA,NIMBA,Gbehlay-Geh District,49,2,1,0,1,0,0,0,0,3,10,0,2,3,16,0.061
+LBR,LIBERIA,SINOE,Kpanyan District,17,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0.059
+LBR,LIBERIA,River Gee,Webbo District,17,0,0,0,1,0,0,0,0,1,2,0,0,1,4,0.059
+LBR,LIBERIA,RIVER-GEE,Tienpo District,21,0,0,0,1,0,0,0,0,0,11,1,0,1,11,0.048
+LBR,LIBERIA,River Gee,Potupo District,25,0,1,0,0,0,0,0,0,2,3,0,1,1,5,0.04
+LBR,LIBERIA,GRAND GEDEH,Konobo District,32,0,0,1,0,0,0,0,0,0,1,0,0,1,2,0.031
+LBR,LIBERIA,Grand Gedeh,Cavalla District,35,0,0,0,0,0,0,1,0,1,13,0,2,1,15,0.029
+LBR,LIBERIA,Bong,Fuamah,43,0,0,0,0,0,1,0,0,8,5,0,0,1,13,0.023
+LBR,LIBERIA,NIMBA,Sanniquelleh Mahn District,50,1,0,0,0,0,0,0,0,6,6,0,6,1,16,0.02
+LBR,LIBERIA,Grand Gedeh,Konobo District,50,0,0,0,0,0,0,1,0,0,20,0,0,1,20,0.02
+LBR,LIBERIA,Bomi,Senjeh,220,3,0,0,1,0,0,0,0,14,40,0,0,4,54,0.018
+LBR,LIBERIA,MONTSERRADO,Somalia Drive District,56,0,0,1,0,0,0,0,0,16,2,0,1,1,18,0.018
+LBR,LIBERIA,Bong,Jorquelleh,61,0,0,1,0,0,0,0,0,4,12,0,0,1,15,0.016
+LBR,LIBERIA,Grand Kru,Barclayville District,87,0,0,0,0,0,1,0,0,9,22,0,0,1,32,0.011
+LBR,LIBERIA,GRAND BASSA,Buchanan District,59,0,0,0,0,0,0,0,0,4,3,0,0,0,7,0.0
+LBR,LIBERIA,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+LBR,LIBERIA,BONG,Jorquelleh,44,0,0,0,0,0,0,0,0,0,3,0,5,0,8,0.0
+LBR,LIBERIA,Bomi,Dowein,129,0,0,0,0,0,0,0,1,3,18,1,0,0,22,0.0
+LBR,LIBERIA,BONG,Panta,24,0,0,0,0,0,0,0,0,3,0,0,0,0,3,0.0
+LBR,LIBERIA,BONG,Salala,28,0,0,0,0,0,0,0,0,2,0,0,1,0,3,0.0
+LBR,LIBERIA,BONG,Suakoko,30,0,0,0,0,0,0,0,0,0,4,0,0,0,4,0.0
+LBR,LIBERIA,BONG,Fuamah,21,0,0,0,0,0,0,0,0,1,2,0,0,0,3,0.0
+LBR,LIBERIA,Bong,Kpaai,41,0,0,0,0,0,0,0,0,1,3,0,0,0,4,0.0
+LBR,LIBERIA,Bomi,Suehn Mecca,287,0,0,0,0,0,0,0,0,6,13,0,0,0,18,0.0
+LBR,LIBERIA,Bong,Kokoyah,59,0,0,0,0,0,0,0,0,3,10,0,0,0,13,0.0
+LBR,LIBERIA,Bong,Sanoyea,40,0,0,0,0,0,0,0,0,1,17,0,0,0,17,0.0
+LBR,LIBERIA,Bong,Salala,34,0,0,0,0,0,0,0,0,0,7,0,0,0,7,0.0
+LBR,LIBERIA,Bong,Panta,54,0,0,0,0,0,0,0,0,1,17,0,0,0,17,0.0
+LBR,LIBERIA,BONG,Kokoyah,60,0,0,0,0,0,0,0,0,1,1,0,0,0,2,0.0
+LBR,LIBERIA,BONG,Kpaai,20,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0.0
+LBR,LIBERIA,BOMI,Dowein,14,0,0,0,0,0,0,0,0,5,8,0,0,0,10,0.0
+LBR,LIBERIA,BOMI,Klay,13,0,0,0,0,0,0,0,0,0,4,0,0,0,4,0.0
+LBR,LIBERIA,BOMI,Suehn Mecca,69,0,0,0,0,0,0,0,0,14,12,0,0,0,21,0.0
+LBR,LIBERIA,Grand Bassa,District # 1,37,0,0,0,0,0,0,0,0,2,2,0,0,0,4,0.0
+LBR,LIBERIA,Grand Bassa,Campwood District,24,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0.0
+LBR,LIBERIA,Grand Bassa,Buchanan District,60,0,0,0,0,0,0,0,0,3,2,0,0,0,5,0.0
+LBR,LIBERIA,Gbarpolu,Kongba District,28,0,0,0,0,0,0,0,0,0,9,0,0,0,9,0.0
+LBR,LIBERIA,Gbarpolu,Gbarma District,38,0,0,0,0,0,0,0,0,3,2,0,0,0,4,0.0
+LBR,LIBERIA,Gbarpolu,Bopolu District,54,0,0,0,0,0,0,0,0,1,10,0,2,0,13,0.0
+LBR,LIBERIA,Gbarpolu,Bokomu District,31,0,0,0,0,0,0,0,0,0,6,0,0,0,6,0.0
+LBR,LIBERIA,Gbarpolu,Belleh District,18,0,0,0,0,0,0,0,0,0,3,0,0,0,3,0.0
+LBR,LIBERIA,GRAND KRU,Trehn District,21,0,0,0,0,0,0,0,0,3,1,0,0,0,4,0.0
+LBR,LIBERIA,GRAND KRU,Dorbor District,21,0,0,0,0,0,0,0,0,4,5,0,0,0,9,0.0
+LBR,LIBERIA,GRAND KRU,Buah District,21,0,0,0,0,0,0,0,0,1,6,2,0,0,7,0.0
+LBR,LIBERIA,GRAND KRU,Barclayville District,39,0,0,0,0,0,0,0,0,3,6,0,0,0,9,0.0
+LBR,LIBERIA,GRAND GEDEH,Putu District,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+LBR,LIBERIA,GRAND GEDEH,Tchien District,34,0,0,0,0,0,0,0,0,2,4,0,1,0,6,0.0
+LBR,LIBERIA,GRAND GEDEH,Cavalla District,43,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0.0
+LBR,LIBERIA,GRAND GEDEH,Gbao District,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+LBR,LIBERIA,GRAND BASSA,District # 3 A&B,42,0,0,0,0,0,0,0,0,0,1,0,1,0,2,0.0
+LBR,LIBERIA,GRAND BASSA,District # 2,37,0,0,0,0,0,0,0,0,0,3,0,2,0,5,0.0
+LBR,LIBERIA,GRAND GEDEH,B'Hai District,33,0,0,0,0,0,0,0,0,1,2,0,0,0,3,0.0
+LBR,LIBERIA,GRAND CAPE MOUNT,Commonwealth-C District,13,0,0,0,0,0,0,0,0,5,1,0,0,0,5,0.0
+LBR,LIBERIA,GRAND CAPE MOUNT,Garwula District,23,0,0,0,0,0,0,0,0,2,2,0,0,0,3,0.0
+LBR,LIBERIA,GRAND BASSA,District # 4,39,0,0,0,0,0,0,0,0,0,4,0,0,0,4,0.0
+LBR,LIBERIA,GRAND BASSA,District_2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+LBR,LIBERIA,GRAND BASSA,Owensgrove District,22,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0.0
+LBR,LIBERIA,GRAND BASSA,Campwood District,20,0,0,0,0,0,0,0,0,0,4,0,0,0,4,0.0
+LBR,LIBERIA,GRAND BASSA,District # 3 C,21,0,0,0,0,0,0,0,0,1,2,0,1,0,3,0.0
+LBR,LIBERIA,GRAND BASSA,District # 1,29,0,0,0,0,0,0,0,0,5,1,0,0,0,5,0.0
+LBR,LIBERIA,Bong,Zota,50,0,0,0,0,0,0,0,0,1,5,0,0,0,6,0.0
+LBR,LIBERIA,GBARPOLU,Belleh District,37,0,0,0,0,0,0,0,0,0,15,0,0,0,15,0.0
+LBR,LIBERIA,GBARPOLU,Bopolu District,61,0,0,0,0,0,0,0,0,12,8,0,1,0,21,0.0
+LBR,LIBERIA,GBARPOLU,Gbarma District,39,0,0,0,0,0,0,0,0,0,5,0,0,0,5,0.0
+LBR,LIBERIA,Grand Cape Mount,Garwula District,63,0,0,0,0,0,0,0,0,8,6,0,0,0,14,0.0
+LBR,LIBERIA,Lofa,Voinjama District,45,0,0,0,0,0,0,0,0,16,10,0,0,0,20,0.0
+LBR,LIBERIA,Lofa,Vahun District,29,0,0,0,0,0,0,0,0,2,11,0,0,0,12,0.0
+LBR,LIBERIA,Lofa,Salayea District,32,0,0,0,0,0,0,0,0,3,13,0,0,0,14,0.0
+LBR,LIBERIA,Lofa,Kolahun District,33,0,0,0,0,0,0,0,0,5,4,0,0,0,8,0.0
+LBR,LIBERIA,LOFA,Vahun District,16,0,0,0,0,0,0,0,0,0,4,0,0,0,4,0.0
+LBR,LIBERIA,MARGIBI,Mambah-Kaba District,42,0,0,0,0,0,0,0,0,3,3,0,2,0,8,0.0
+LBR,LIBERIA,Lofa,Zorzor District,29,0,0,0,0,0,0,0,0,1,14,0,0,0,15,0.0
+LBR,LIBERIA,MARGIBI,Firestone District,37,0,0,0,0,0,0,0,0,2,2,0,1,0,5,0.0
+LBR,LIBERIA,MARYLAND,Harper District,66,0,0,0,0,0,0,0,0,1,10,0,0,0,11,0.0
+LBR,LIBERIA,MARYLAND,Barrobo Whojah District,44,0,0,0,0,0,0,0,0,0,9,0,0,0,9,0.0
+LBR,LIBERIA,MARYLAND,Karluway 2 District,33,0,0,0,0,0,0,0,0,3,5,0,0,0,8,0.0
+LBR,LIBERIA,MARYLAND,Karluway 1 District,30,0,0,0,0,0,0,0,0,0,4,0,0,0,4,0.0
+LBR,LIBERIA,MARYLAND,Pleebo District,92,0,0,0,0,0,0,0,0,5,6,1,0,0,12,0.0
+LBR,LIBERIA,MARYLAND,Barrobo Farjah District,34,0,0,0,0,0,0,0,0,0,13,0,0,0,13,0.0
+LBR,LIBERIA,MARGIBI,Gibi District,28,0,0,0,0,0,0,0,0,0,1,0,1,0,2,0.0
+LBR,LIBERIA,MARGIBI,Kakata District,53,0,0,0,0,0,0,0,0,0,3,0,4,0,7,0.0
+LBR,LIBERIA,Grand Gedeh,Putu District,38,0,0,0,0,0,0,0,0,0,15,1,0,0,16,0.0
+LBR,LIBERIA,Grand Gedeh,Gbao District,38,0,0,0,0,0,0,0,0,3,10,0,0,0,12,0.0
+LBR,LIBERIA,Grand Cape Mount,Tewor District,54,0,0,0,0,0,0,0,0,1,3,0,0,0,4,0.0
+LBR,LIBERIA,Grand Gedeh,B-Hai District,32,0,0,0,0,0,0,0,0,1,19,1,0,0,21,0.0
+LBR,LIBERIA,Grand Cape Mount,Porkpa District,21,0,0,0,0,0,0,0,0,1,1,0,0,0,2,0.0
+LBR,LIBERIA,Grand Bassa,Owensgrove District,41,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0.0
+LBR,LIBERIA,Grand Kru,Jraoh District,34,0,0,0,0,0,0,0,0,2,16,0,0,0,17,0.0
+LBR,LIBERIA,Grand Kru,Buah District,29,0,0,0,0,0,0,0,0,9,18,0,1,0,21,0.0
+LBR,LIBERIA,LOFA,Kolahun District,5,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0.0
+LBR,LIBERIA,LOFA,Foya District,23,0,0,0,0,0,0,0,0,1,3,0,0,0,4,0.0
+LBR,LIBERIA,LOFA,Voinjama District,64,0,0,0,0,0,0,0,0,5,5,0,1,0,11,0.0
+LBR,LIBERIA,Grand Cape Mount,Commonwealth-C District,43,0,0,0,0,0,0,0,0,0,8,0,0,0,8,0.0
+LBR,LIBERIA,Grand Bassa,District # 4,24,0,0,0,0,0,0,0,0,0,9,0,0,0,9,0.0
+LBR,LIBERIA,Grand Bassa,District # 2,33,0,0,0,0,0,0,0,0,1,2,0,2,0,5,0.0
+LBR,LIBERIA,Grand Bassa,District # 3 C,25,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0.0
+LBR,LIBERIA,Grand Bassa,District # 3 A&B,44,0,0,0,0,0,0,0,0,0,13,0,0,0,13,0.0
+LBR,LIBERIA,Montserrado,Careysburg District,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+LBR,LIBERIA,Maryland,Karluway 1 District,35,0,0,0,0,0,0,0,0,0,4,0,0,0,4,0.0
+LBR,LIBERIA,Maryland,Karluway 2 District,30,0,0,0,0,0,0,0,0,0,15,0,0,0,15,0.0
+LBR,LIBERIA,Maryland,Pleebo District,48,0,0,0,0,0,0,0,0,1,12,0,0,0,13,0.0
+LBR,LIBERIA,Maryland,Harper District,51,0,0,0,0,0,0,0,0,0,12,0,0,0,12,0.0
+LBR,LIBERIA,Margibi,Mambah-Kaba District,61,0,0,0,0,0,0,0,0,3,25,0,0,0,28,0.0
+LBR,LIBERIA,Maryland,Barrobo Farjah District,25,0,0,0,0,0,0,0,0,0,16,0,0,0,16,0.0
+LBR,LIBERIA,Maryland,Barrobo Whojah District,32,0,0,0,0,0,0,0,0,0,14,0,0,0,14,0.0
+LBR,LIBERIA,Margibi,Gibi District,39,0,0,0,0,0,0,0,0,6,4,0,0,0,9,0.0
+LBR,LIBERIA,Margibi,Firestone District,35,0,0,0,0,0,0,0,0,0,16,0,0,0,16,0.0
+LBR,LIBERIA,MONTSERRADO,Todee District,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+LBR,LIBERIA,Margibi,Kakata District,41,0,0,0,0,0,0,0,0,2,5,0,4,0,9,0.0
+LBR,LIBERIA,MONTSERRADO,St Paul River District,10,0,0,0,0,0,0,0,0,1,2,0,1,0,4,0.0
+LBR,LIBERIA,MONTSERRADO,Careysburg District,11,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0.0
+LBR,LIBERIA,MONTSERRADO,Central Monrovia district,60,0,0,0,0,0,0,0,0,17,6,0,2,0,19,0.0
+LBR,LIBERIA,MONTSERRADO,Commonwealth District,68,0,0,0,0,0,0,0,0,18,12,0,7,0,31,0.0
+LBR,LIBERIA,Nimba,Saniquellie - Mah,37,0,0,0,0,0,0,0,0,14,4,0,2,0,15,0.0
+LBR,LIBERIA,Nimba,Saclepea-Mah,27,0,0,0,0,0,0,0,0,9,2,0,0,0,10,0.0
+LBR,LIBERIA,Nimba,Mehnpea-Mah,26,0,0,0,0,0,0,0,0,1,4,0,1,0,6,0.0
+LBR,LIBERIA,Nimba,Gbehlay-Geh,27,0,0,0,0,0,0,0,0,2,6,0,0,0,8,0.0
+LBR,LIBERIA,Nimba,Buu-Yao,22,0,0,0,0,0,0,0,0,1,6,0,0,0,7,0.0
+LBR,LIBERIA,Nimba,Boe-Quila,27,0,0,0,0,0,0,0,0,1,11,0,0,0,11,0.0
+LBR,LIBERIA,Nimba,Yarwin Mehnsonnoh,26,0,0,0,0,0,0,0,0,0,4,0,0,0,4,0.0
+LBR,LIBERIA,Nimba,Zoe-Geh,32,0,0,0,0,0,0,0,0,1,6,0,0,0,7,0.0
+LBR,LIBERIA,RIVER-GEE,Sarbo District,28,0,0,0,0,0,0,0,0,0,10,0,0,0,10,0.0
+LBR,LIBERIA,Nimba,Bain-Gar,27,0,0,0,0,0,0,0,0,8,0,0,0,0,8,0.0
+LBR,LIBERIA,NIMBA,Zoe-Geh District,24,0,0,0,0,0,0,0,0,2,4,0,0,0,5,0.0
+LBR,LIBERIA,Montserrado,St Paul River District,51,0,0,0,0,0,0,0,0,6,6,0,0,0,11,0.0
+LBR,LIBERIA,Montserrado,Todee District,36,0,0,0,0,0,0,0,0,1,5,0,0,0,5,0.0
+LBR,LIBERIA,NIMBA,Saclepea Mah District,27,0,0,0,0,0,0,0,0,8,6,0,1,0,13,0.0
+LBR,LIBERIA,NIMBA,Tappita District,25,0,0,0,0,0,0,0,0,0,5,0,0,0,5,0.0
+LBR,LIBERIA,NIMBA,Yarwein Mehnsohnneh District,12,0,0,0,0,0,0,0,0,0,3,0,1,0,4,0.0
+LBR,LIBERIA,RIVERCESS,Timbo District,56,0,0,0,0,0,0,0,0,7,3,0,0,0,10,0.0
+LBR,LIBERIA,RIVERCESS,Jowein District,16,0,0,0,0,0,0,0,0,1,2,0,0,0,3,0.0
+LBR,LIBERIA,RIVER-GEE,Webbo District,26,0,0,0,0,0,0,0,1,0,10,0,0,0,11,0.0
+LBR,LIBERIA,RIVERCESS,Central C District,47,0,0,0,0,0,0,0,0,1,2,0,0,0,3,0.0
+LBR,LIBERIA,RIVER-GEE,Chedepo District,21,0,0,0,0,0,0,0,0,0,11,0,0,0,11,0.0
+LBR,LIBERIA,RIVER-GEE,Gbeapo District,18,0,0,0,0,0,0,0,0,0,7,0,0,0,7,0.0
+LBR,LIBERIA,RIVER-GEE,Potupo District,32,0,0,0,0,0,0,0,0,1,9,0,0,0,10,0.0
+LBR,LIBERIA,River Gee,Gbeapo District,19,0,0,0,0,0,0,0,0,0,9,0,0,0,9,0.0
+LBR,LIBERIA,Rivercess,Joe River District,66,0,0,0,0,0,0,0,0,0,12,0,0,0,12,0.0
+LBR,LIBERIA,Rivercess,Jowein District,30,0,0,0,0,0,0,0,0,0,14,0,0,0,14,0.0
+LBR,LIBERIA,Rivercess,Timbo District,73,0,0,0,0,0,0,0,0,1,4,0,0,0,5,0.0
+LBR,LIBERIA,River Gee,Chedepo District,22,0,0,0,0,0,0,0,0,0,9,0,0,0,9,0.0
+LBR,LIBERIA,River Gee,Sarbo District,14,0,0,0,0,0,0,0,0,0,11,0,0,0,11,0.0
+LBR,LIBERIA,River Gee,Tienpo District,21,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0.0
+LBR,LIBERIA,Rivercess,Central C District,44,0,0,0,0,0,0,0,0,0,4,0,0,0,4,0.0
+LBR,LIBERIA,Rivercess,Doedian District,39,0,0,0,0,0,0,0,0,0,13,0,1,0,14,0.0
+LBR,LIBERIA,SINOE,Greenville District,20,0,0,0,0,0,0,0,0,2,0,0,0,0,2,0.0
+LBR,LIBERIA,SINOE,Gblonee District,17,0,0,0,0,0,0,0,0,3,6,0,0,0,9,0.0
+LBR,LIBERIA,SINOE,Dugbe River District,25,0,0,0,0,0,0,0,0,6,12,0,0,0,18,0.0
+LBR,LIBERIA,SINOE,Butaw District,25,0,0,0,0,0,0,0,0,9,5,0,0,0,13,0.0
+LBR,LIBERIA,Rivercess,Yarnie District,43,0,0,0,0,0,0,0,0,2,10,1,0,0,12,0.0
+LBR,LIBERIA,SINOE,Jeade District,15,0,0,0,0,0,0,0,0,3,10,0,0,0,11,0.0
+LBR,LIBERIA,SINOE,Tarsue District,15,0,0,0,0,0,0,0,0,0,6,0,0,0,6,0.0
+LBR,LIBERIA,SINOE,Tarjuwon District,25,0,0,0,0,0,0,0,0,5,4,0,0,0,7,0.0
+LBR,LIBERIA,Sinoe,Butaw District,28,0,0,0,0,0,0,0,0,1,8,0,0,0,9,0.0
+LBR,LIBERIA,Sinoe,Gblonee District,45,0,0,0,0,0,0,0,0,0,19,0,0,0,19,0.0
+LBR,LIBERIA,Sinoe,Jeade District,35,0,0,0,0,0,0,0,0,0,25,0,0,0,25,0.0
+LBR,LIBERIA,Sinoe,Jedepo District,20,0,0,0,0,0,0,0,0,0,16,0,0,0,16,0.0
+LBR,LIBERIA,Sinoe,Kpanyan District,45,0,0,0,0,0,0,0,0,2,21,1,1,0,22,0.0
+LBR,LIBERIA,Sinoe,Pynes Town District,37,0,0,0,0,0,0,0,0,0,18,0,0,0,18,0.0
+LBR,LIBERIA,Sinoe,Tarjuwon District,30,0,0,0,0,0,0,0,0,0,12,0,0,0,12,0.0
+LBR,LIBERIA,Sinoe,Tarsue District,26,0,0,0,0,0,0,0,0,0,20,0,0,0,20,0.0

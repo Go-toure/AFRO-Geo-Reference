@@ -1,0 +1,14 @@
+GPS check of district names, ZIMBABWE, form 7980
+Records: 62,001; plausible GPS: 61,995 (100.0%); inside a ZIMBABWE district: 61,922; plausible GPS but outside ZIMBABWE: 73
+Exact repeated points (same coordinates): 2,031
+Points within 1 km of a district boundary (shape tolerance): 10.5% of those inside
+
+Raw district names by verdict:
+  CONFIRMED                         61 names,    50,244 records
+  CONFIRMED_MAJORITY                 1 names,       634 records
+  MIXED                              1 names,     1,191 records
+  NAME_UNMATCHED_GPS_PROPOSAL       19 names,     9,215 records
+  NAME_UNMATCHED_NO_CLEAR_GPS        2 names,       717 records
+
+CONFIRMED = at least 90% of the households inside the name's district; CONFIRMED_MAJORITY 50-90%; CONFIRMED_WEAK under 50% but still the main district;
+MIXED = most households in another district but 25% or more in the name's; CONTRADICTED = under 25% in the name's district.

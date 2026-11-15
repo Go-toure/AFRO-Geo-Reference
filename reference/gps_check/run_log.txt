@@ -1,0 +1,86 @@
+11:19:06 AGO ANGOLA form 10267: FAILED in 2s | ValueError: Cannot mask with non-boolean array containing NA / NaN values
+11:19:08 NAM NAMIBIA form 15780: FAILED in 1s | ValueError: Cannot mask with non-boolean array containing NA / NaN values
+11:19:09 GHA GHANA form 3550: FAILED in 2s | ValueError: Cannot mask with non-boolean array containing NA / NaN values
+11:19:11 ZMB ZAMBIA form 4344: FAILED in 2s | ValueError: Cannot mask with non-boolean array containing NA / NaN values
+11:19:13 BEN BENIN form 4385: FAILED in 1s | ValueError: Cannot mask with non-boolean array containing NA / NaN values
+11:19:14 TGO TOGO form 4413: FAILED in 1s | ValueError: Cannot mask with non-boolean array containing NA / NaN values
+11:19:15 CAF CENTRAL AFRICAN REPUBLIC form 4434: FAILED in 1s | ValueError: Cannot mask with non-boolean array containing NA / NaN values
+11:19:17 TCD CHAD form 4445: FAILED in 2s | ValueError: Cannot mask with non-boolean array containing NA / NaN values
+11:19:18 BFA BURKINA FASO form 4459: FAILED in 1s | ValueError: Cannot mask with non-boolean array containing NA / NaN values
+11:19:20 CIV COTE D IVOIRE form 4479: FAILED in 1s | ValueError: Cannot mask with non-boolean array containing NA / NaN values
+11:19:28 COD DEMOCRATIC REPUBLIC OF THE CONGO form 4498: FAILED in 8s | ValueError: Cannot mask with non-boolean array containing NA / NaN values
+11:19:29 COG CONGO form 4997: FAILED in 1s | ValueError: Cannot mask with non-boolean array containing NA / NaN values
+11:19:31 NER NIGER form 5212: FAILED in 2s | ValueError: Cannot mask with non-boolean array containing NA / NaN values
+11:19:32 GIN GUINEA form 5297: FAILED in 2s | ValueError: Cannot mask with non-boolean array containing NA / NaN values
+11:19:34 CMR CAMEROON form 5710: FAILED in 2s | ValueError: Cannot mask with non-boolean array containing NA / NaN values
+11:19:35 SSD SOUTH SUDAN form 5772: FAILED in 2s | ValueError: Cannot mask with non-boolean array containing NA / NaN values
+11:19:37 LBR LIBERIA form 5887: FAILED in 2s | ValueError: Cannot mask with non-boolean array containing NA / NaN values
+11:19:39 SLE SIERRA LEONE form 6102: FAILED in 1s | ValueError: Cannot mask with non-boolean array containing NA / NaN values
+11:19:40 SEN SENEGAL form 6348: FAILED in 1s | ValueError: Cannot mask with non-boolean array containing NA / NaN values
+11:19:42 KEN KENYA form 6418: FAILED in 2s | ValueError: Cannot mask with non-boolean array containing NA / NaN values
+11:19:43 MRT MAURITANIA form 6427: FAILED in 1s | ValueError: Cannot mask with non-boolean array containing NA / NaN values
+11:19:44 UGA UGANDA form 6767: FAILED in 1s | ValueError: Cannot mask with non-boolean array containing NA / NaN values
+11:19:46 ETH ETHIOPIA form 6839: FAILED in 2s | ValueError: Cannot mask with non-boolean array containing NA / NaN values
+11:19:47 NGA NIGERIA form 7178: FAILED in 1s | SKIPPED: column Region not found in 7178.parquet
+11:19:49 GNB GUINEA-BISSAU form 7585: FAILED in 1s | ValueError: Cannot mask with non-boolean array containing NA / NaN values
+11:27:36 NAM NAMIBIA form 15780: ok in 2s
+11:27:39 BEN BENIN form 4385: ok in 4s
+11:27:42 TGO TOGO form 4413: ok in 3s
+11:27:42 written all_countries_gps_vs_names.csv (181 names) and all_countries_review.csv (25 names)
+11:29:32 AGO ANGOLA form 10267: ok in 104s
+11:30:35 GHA GHANA form 3550: ok in 63s
+11:33:55 AGO ANGOLA form 10267: ok in 106s
+11:33:55 written all_countries_gps_vs_names.csv (560 names) and all_countries_review.csv (51 names)
+11:35:03 GHA GHANA form 3550: ok in 65s
+11:35:04 written all_countries_gps_vs_names.csv (828 names) and all_countries_review.csv (72 names)
+11:36:20 ZMB ZAMBIA form 4344: ok in 70s
+11:36:38 CAF CENTRAL AFRICAN REPUBLIC form 4434: ok in 17s
+11:36:38 written all_countries_gps_vs_names.csv (967 names) and all_countries_review.csv (84 names)
+11:38:06 BFA BURKINA FASO form 4459: TIMEOUT after 1.4 min
+11:38:17 CIV COTE D IVOIRE form 4479: ok in 11s
+11:38:17 written all_countries_gps_vs_names.csv (1116 names) and all_countries_review.csv (110 names)
+11:40:32 BFA BURKINA FASO form 4459: ok in 130s
+11:40:32 written all_countries_gps_vs_names.csv (1189 names) and all_countries_review.csv (177 names)
+11:40:38 COG CONGO form 4997: ok in 2s
+11:40:46 NER NIGER form 5212: ok in 8s
+11:40:49 GIN GUINEA form 5297: ok in 3s
+11:40:50 written all_countries_gps_vs_names.csv (1365 names) and all_countries_review.csv (218 names)
+11:41:18 CMR CAMEROON form 5710: TIMEOUT after 0.4 min
+11:41:20 SSD SOUTH SUDAN form 5772: ok in 2s
+11:41:22 LBR LIBERIA form 5887: ok in 2s
+11:41:25 SLE SIERRA LEONE form 6102: ok in 3s
+11:41:27 SEN SENEGAL form 6348: ok in 2s
+11:41:29 MRT MAURITANIA form 6427: ok in 2s
+11:41:31 GNB GUINEA-BISSAU form 7585: ok in 2s
+11:41:31 written all_countries_gps_vs_names.csv (1848 names) and all_countries_review.csv (335 names)
+11:43:50 CMR CAMEROON form 5710: ok in 134s
+11:43:50 written all_countries_gps_vs_names.csv (2065 names) and all_countries_review.csv (346 names)
+11:44:25 KEN KENYA form 6418: TIMEOUT after 0.5 min
+11:44:34 UGA UGANDA form 6767: ok in 9s
+11:44:43 MWI MALAWI form 7600: ok in 9s
+11:44:44 BWA BOTSWANA form 8832: FAILED in 1s | SKIPPED: no column for Region in 8832.parquet
+11:44:47 RWA RWANDA form 9793: ok in 3s
+11:44:53 MLI MALI form 4987: ok in 5s
+11:44:53 written all_countries_gps_vs_names.csv (2561 names) and all_countries_review.csv (387 names)
+11:45:27 TZA UNITED REPUBLIC OF TANZANIA form 7612: TIMEOUT after 0.5 min
+11:45:57 MOZ MOZAMBIQUE form 7621: TIMEOUT after 0.5 min
+11:46:09 ZWE ZIMBABWE form 7980: ok in 12s
+11:46:39 MDG MADAGASCAR form 8279: TIMEOUT after 0.5 min
+11:46:47 DZA ALGERIA form 8587: ok in 8s
+11:46:57 BDI BURUNDI form 9597: ok in 9s
+11:46:57 written all_countries_gps_vs_names.csv (3019 names) and all_countries_review.csv (550 names)
+12:07:43 TZA UNITED REPUBLIC OF TANZANIA form 7612: ok in 121s
+12:07:44 written all_countries_gps_vs_names.csv (3216 names) and all_countries_review.csv (554 names)
+12:10:36 MOZ MOZAMBIQUE form 7621: TIMEOUT after 2.8 min
+12:11:08 KEN KENYA form 6418: ok in 5s
+12:11:17 MDG MADAGASCAR form 8279: ok in 9s
+12:11:18 written all_countries_gps_vs_names.csv (3503 names) and all_countries_review.csv (578 names)
+12:12:05 COD DEMOCRATIC REPUBLIC OF THE CONGO form 4498: TIMEOUT after 0.7 min
+12:12:23 ETH ETHIOPIA form 6839: ok in 19s
+12:12:34 NGA NIGERIA form 7178: ok in 11s
+12:12:58 MOZ MOZAMBIQUE form 7621: ok in 23s
+12:12:58 written all_countries_gps_vs_names.csv (4734 names) and all_countries_review.csv (763 names)
+12:14:12 COD DEMOCRATIC REPUBLIC OF THE CONGO form 4498: ok in 69s
+12:14:13 written all_countries_gps_vs_names.csv (5320 names) and all_countries_review.csv (856 names)
+12:15:15 TCD CHAD form 4445: ok in 56s
+12:15:16 written all_countries_gps_vs_names.csv (5588 names) and all_countries_review.csv (921 names)

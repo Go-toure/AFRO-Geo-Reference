@@ -1,0 +1,13 @@
+GPS check of district names, BURUNDI, form 9597
+Records: 14,728; plausible GPS: 14,725 (100.0%); inside a BURUNDI district: 14,724; plausible GPS but outside BURUNDI: 1
+Exact repeated points (same coordinates): 226
+Points within 1 km of a district boundary (shape tolerance): 15.7% of those inside
+
+Raw district names by verdict:
+  CONFIRMED                         45 names,    13,616 records
+  CONFIRMED_MAJORITY                 4 names,     1,112 records
+
+CONFIRMED = at least 90% of the households inside the name's district; CONFIRMED_MAJORITY 50-90%; CONFIRMED_WEAK under 50% but still the main district;
+MIXED = most households in another district but 25% or more in the name's; CONTRADICTED = under 25% in the name's district.
+
+Named settlements: 8,397; used in more than one district: 973; spread above 10 km (same name far apart or bad GPS): 94

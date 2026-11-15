@@ -1,0 +1,14 @@
+GPS check of district names, BENIN, form 4385
+Records: 37,536; plausible GPS: 37,534 (100.0%); inside a BENIN district: 37,462; plausible GPS but outside BENIN: 72
+Exact repeated points (same coordinates): 740
+Points within 1 km of a district boundary (shape tolerance): 17.2% of those inside
+
+Raw district names by verdict:
+  CONFIRMED                         48 names,    24,414 records
+  CONFIRMED_MAJORITY                25 names,     8,068 records
+  CONTRADICTED                      10 names,     2,806 records
+  NAME_UNMATCHED_GPS_PROPOSAL       12 names,     1,841 records
+  NAME_UNMATCHED_NO_CLEAR_GPS        3 names,       407 records
+
+CONFIRMED = at least 90% of the households inside the name's district; CONFIRMED_MAJORITY 50-90%; CONFIRMED_WEAK under 50% but still the main district;
+MIXED = most households in another district but 25% or more in the name's; CONTRADICTED = under 25% in the name's district.

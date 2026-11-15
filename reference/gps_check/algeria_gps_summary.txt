@@ -1,0 +1,15 @@
+GPS check of district names, ALGERIA, form 8587
+Records: 22,564; plausible GPS: 22,563 (100.0%); inside a ALGERIA district: 22,544; plausible GPS but outside ALGERIA: 19
+Exact repeated points (same coordinates): 177
+Points within 1 km of a district boundary (shape tolerance): 12.8% of those inside
+
+Raw district names by verdict:
+  CONFIRMED                         22 names,     1,332 records
+  CONFIRMED_MAJORITY                 4 names,       240 records
+  CONTRADICTED                      10 names,       602 records
+  MIXED                              2 names,       127 records
+  NAME_UNMATCHED_GPS_PROPOSAL      131 names,    10,153 records
+  NAME_UNMATCHED_NO_CLEAR_GPS      156 names,    10,110 records
+
+CONFIRMED = at least 90% of the households inside the name's district; CONFIRMED_MAJORITY 50-90%; CONFIRMED_WEAK under 50% but still the main district;
+MIXED = most households in another district but 25% or more in the name's; CONTRADICTED = under 25% in the name's district.

@@ -1,0 +1,16 @@
+GPS check of district names, CENTRAL AFRICAN REPUBLIC, form 4434
+Records: 22,826; plausible GPS: 22,823 (100.0%); inside a CENTRAL AFRICAN REPUBLIC district: 22,762; plausible GPS but outside CENTRAL AFRICAN REPUBLIC: 61
+Exact repeated points (same coordinates): 961
+Points within 1 km of a district boundary (shape tolerance): 12.6% of those inside
+
+Raw district names by verdict:
+  CONFIRMED                         33 names,    19,365 records
+  CONFIRMED_MAJORITY                 1 names,       146 records
+  CONTRADICTED                       3 names,     2,009 records
+  MIXED                              1 names,       665 records
+  NAME_UNMATCHED_GPS_PROPOSAL        2 names,       641 records
+
+CONFIRMED = at least 90% of the households inside the name's district; CONFIRMED_MAJORITY 50-90%; CONFIRMED_WEAK under 50% but still the main district;
+MIXED = most households in another district but 25% or more in the name's; CONTRADICTED = under 25% in the name's district.
+
+Named settlements: 7,227; used in more than one district: 380; spread above 10 km (same name far apart or bad GPS): 210

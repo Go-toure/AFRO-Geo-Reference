@@ -37,6 +37,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--form", required=True)
     ap.add_argument("--country", required=True, help="country name as in AFROGDB, e.g. CHAD")
+    ap.add_argument("--iso", default="", help="ISO3 code (prefix of the geo_code), e.g. TCD: used to pick the districts when given")
     ap.add_argument("--boundary-km", type=float, default=1.0, help="points closer to a district boundary than this are 'near the boundary'")
     a = ap.parse_args()
     country = a.country.upper()
@@ -46,10 +47,15 @@ def main():
     # 1 raw records: names, GPS, settlement
     raw_file = IM / "data" / "raw" / f"{a.form}.parquet"
     names = pq.ParquetFile(raw_file).schema_arrow.names
-    want = [c for c in ("Country", "Region", "District", "Settlement_name", "Settlement_Type", "_geolocation[1]", "_geolocation[2]", "_GPS_hh_precision") if c in names]
-    for need in ("Region", "District", "_geolocation[1]", "_geolocation[2]"):
-        if need not in want: sys.exit(f"column {need} not found in {raw_file.name}")
+    alias = {"Region": ("Region", "states", "state"), "District": ("District", "lgas", "lga")}   # Nigeria names its columns states and lgas
+    pick = {k: next((c for c in v if c in names), None) for k, v in alias.items()}
+    for need in ("Region", "District"):
+        if not pick[need]: sys.exit(f"SKIPPED: no column for {need} in {raw_file.name}")
+    for need in ("_geolocation[1]", "_geolocation[2]"):
+        if need not in names: sys.exit(f"SKIPPED: column {need} not found in {raw_file.name}")
+    want = sorted({c for c in (pick["Region"], pick["District"], "Settlement_name", "Settlement_Type", "_geolocation[1]", "_geolocation[2]") if c in names})
     d = pq.read_table(raw_file, columns=want).to_pandas()
+    d = d.rename(columns={pick["Region"]: "Region", pick["District"]: "District"})
     d["lat"] = pd.to_numeric(d["_geolocation[1]"], errors="coerce"); d["lon"] = pd.to_numeric(d["_geolocation[2]"], errors="coerce")
     n_all = len(d)
     d["gps_ok"] = d["lat"].between(-36, 38) & d["lon"].between(-20, 56) & ~((d["lat"] == 0) & (d["lon"] == 0))
@@ -64,7 +70,7 @@ def main():
 
     # 3 point in polygon
     dist = gpd.read_file(HERE / "data" / "clean" / "africa_districts_simplified.gpkg")
-    dist = dist[dist["ADM0_NAME"].map(norm) == norm(country)].reset_index(drop=True)
+    dist = (dist[dist["GEO_CODE"].astype(str).str.startswith(a.iso.upper() + "-", na=False)] if a.iso else dist[dist["ADM0_NAME"].map(norm) == norm(country)]).reset_index(drop=True)
     if dist.empty: sys.exit(f"no districts for {country} in the layer")
     pts = gpd.GeoDataFrame(d.loc[d["gps_ok"], ["lat", "lon"]].copy(), geometry=gpd.points_from_xy(d.loc[d["gps_ok"], "lon"], d.loc[d["gps_ok"], "lat"]), crs=4326)
     j = gpd.sjoin(pts, dist[["GEO_CODE", "ADM1_NAME", "ADM2_NAME", "geometry"]], how="left", predicate="within")
@@ -76,9 +82,10 @@ def main():
     inside = d["gps_code"].notna()
     bnd = dist.to_crs(crs_m).boundary
     pm = gpd.GeoSeries(gpd.points_from_xy(d.loc[inside, "lon"], d.loc[inside, "lat"]), index=d.index[inside], crs=4326).to_crs(crs_m)
-    from shapely.ops import unary_union
-    bu = unary_union(list(bnd.values))
-    d.loc[inside, "bnd_m"] = [p.distance(bu) for p in pm.values]
+    from shapely import STRtree   # indexed nearest-boundary lookup (same distance as against the merged boundary, much faster)
+    tree = STRtree(np.asarray(bnd.values))
+    _, dist_m = tree.query_nearest(np.asarray(pm.values), return_distance=True, all_matches=False)
+    d.loc[inside, "bnd_m"] = dist_m
     d["near_bnd"] = d["bnd_m"] < a.boundary_km * 1000
 
     # 4 one line per raw district name

@@ -1,0 +1,13 @@
+GPS check of district names, ZAMBIA, form 4344
+Records: 221,623; plausible GPS: 221,619 (100.0%); inside a ZAMBIA district: 221,322; plausible GPS but outside ZAMBIA: 297
+Exact repeated points (same coordinates): 2,047
+Points within 1 km of a district boundary (shape tolerance): 10.3% of those inside
+
+Raw district names by verdict:
+  CONFIRMED                         61 names,    51,400 records
+  CONFIRMED_MAJORITY                 9 names,     6,112 records
+  NAME_UNMATCHED_GPS_PROPOSAL        6 names,       805 records
+  NAME_UNMATCHED_NO_CLEAR_GPS       23 names,   163,306 records
+
+CONFIRMED = at least 90% of the households inside the name's district; CONFIRMED_MAJORITY 50-90%; CONFIRMED_WEAK under 50% but still the main district;
+MIXED = most households in another district but 25% or more in the name's; CONTRADICTED = under 25% in the name's district.

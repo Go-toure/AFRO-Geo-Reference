@@ -170,3 +170,15 @@ that contains it and compares that with the district the name-based pipeline gav
 `reference/gps_check/<country>_gps_vs_names.csv`: verdict per raw district name (CONFIRMED, CONFIRMED_MAJORITY, CONFIRMED_WEAK, MIXED, CONTRADICTED) and, for names not matched,
 the district where the households are (NAME_UNMATCHED_GPS_PROPOSAL). `data/gps_check_local/<country>_settlements.csv`: named settlements with a median position and spread (local only).
 Together with step 6 (old shapes), names, old shapes and GPS are three independent checks of the same match.
+
+## Step 8 - Anomaly check on the raw IM records (`py/anomaly_check.py`)
+
+Finds raw records that look copied, invented or impossible, for all 35 IM forms (3.7 million records).
+
+```bash
+python py/anomaly_check.py --only TCD,NGA     # chosen countries (DR Congo needs about 80 s on its own)
+```
+
+* Exact rules: same GPS point on different days or by different monitors, a device that "travels" over 150 km/h, forms filled in under 60 s, impossible dates, negative or extreme counts, and one monitor repeating the same set of counts far more than chance explains.
+* A model (Isolation Forest) marks the 1% most unusual records per country. It is tested by planting known errors: it finds 85-100% of counts that are 10 times too high, but almost none of the 15-second forms, which is why those are caught by an exact rule.
+* A flag means "look at this", not "this is wrong". Shareable output is in `reference/anomaly_check/` (by country and district, no names). Monitor names and device ids stay in `data/anomaly_local/` (not in git).

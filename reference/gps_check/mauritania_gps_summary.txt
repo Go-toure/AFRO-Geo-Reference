@@ -1,0 +1,14 @@
+GPS check of district names, MAURITANIA, form 6427
+Records: 10,628; plausible GPS: 10,628 (100.0%); inside a MAURITANIA district: 10,607; plausible GPS but outside MAURITANIA: 21
+Exact repeated points (same coordinates): 239
+Points within 1 km of a district boundary (shape tolerance): 17.4% of those inside
+
+Raw district names by verdict:
+  CONFIRMED                         34 names,     4,565 records
+  CONFIRMED_MAJORITY                10 names,     1,248 records
+  CONTRADICTED                       6 names,       972 records
+  NAME_UNMATCHED_GPS_PROPOSAL       31 names,     2,931 records
+  NAME_UNMATCHED_NO_CLEAR_GPS        7 names,       912 records
+
+CONFIRMED = at least 90% of the households inside the name's district; CONFIRMED_MAJORITY 50-90%; CONFIRMED_WEAK under 50% but still the main district;
+MIXED = most households in another district but 25% or more in the name's; CONTRADICTED = under 25% in the name's district.

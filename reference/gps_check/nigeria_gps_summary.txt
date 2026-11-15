@@ -1,0 +1,16 @@
+GPS check of district names, NIGERIA, form 7178
+Records: 176,827; plausible GPS: 176,761 (100.0%); inside a NIGERIA district: 176,618; plausible GPS but outside NIGERIA: 143
+Exact repeated points (same coordinates): 5,065
+Points within 1 km of a district boundary (shape tolerance): 18.2% of those inside
+
+Raw district names by verdict:
+  CONFIRMED                        509 names,   121,275 records
+  CONFIRMED_MAJORITY               223 names,    46,653 records
+  CONFIRMED_WEAK                     8 names,     1,445 records
+  CONTRADICTED                       8 names,     1,462 records
+  MIXED                              4 names,       710 records
+  NAME_UNMATCHED_GPS_PROPOSAL       19 names,     5,174 records
+  NAME_UNMATCHED_NO_CLEAR_GPS        2 names,       108 records
+
+CONFIRMED = at least 90% of the households inside the name's district; CONFIRMED_MAJORITY 50-90%; CONFIRMED_WEAK under 50% but still the main district;
+MIXED = most households in another district but 25% or more in the name's; CONTRADICTED = under 25% in the name's district.

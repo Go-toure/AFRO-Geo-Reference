@@ -1,0 +1,10 @@
+GPS check of district names, RWANDA, form 9793
+Records: 26,079; plausible GPS: 26,061 (99.9%); inside a RWANDA district: 26,034; plausible GPS but outside RWANDA: 27
+Exact repeated points (same coordinates): 846
+Points within 1 km of a district boundary (shape tolerance): 13.3% of those inside
+
+Raw district names by verdict:
+  CONFIRMED                         30 names,    26,079 records
+
+CONFIRMED = at least 90% of the households inside the name's district; CONFIRMED_MAJORITY 50-90%; CONFIRMED_WEAK under 50% but still the main district;
+MIXED = most households in another district but 25% or more in the name's; CONTRADICTED = under 25% in the name's district.

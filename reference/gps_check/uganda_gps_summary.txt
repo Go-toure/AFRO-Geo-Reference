@@ -1,0 +1,16 @@
+GPS check of district names, UGANDA, form 6767
+Records: 28,525; plausible GPS: 28,522 (100.0%); inside a UGANDA district: 28,503; plausible GPS but outside UGANDA: 19
+Exact repeated points (same coordinates): 1,248
+Points within 1 km of a district boundary (shape tolerance): 12.1% of those inside
+
+Raw district names by verdict:
+  CONFIRMED                        227 names,    24,501 records
+  CONFIRMED_MAJORITY                37 names,     2,675 records
+  CONFIRMED_WEAK                     1 names,        25 records
+  CONTRADICTED                       1 names,         3 records
+  MIXED                              2 names,        37 records
+  NAME_UNMATCHED_GPS_PROPOSAL       13 names,     1,262 records
+  NAME_UNMATCHED_NO_CLEAR_GPS        1 names,        22 records
+
+CONFIRMED = at least 90% of the households inside the name's district; CONFIRMED_MAJORITY 50-90%; CONFIRMED_WEAK under 50% but still the main district;
+MIXED = most households in another district but 25% or more in the name's; CONTRADICTED = under 25% in the name's district.

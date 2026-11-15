@@ -1,0 +1,18 @@
+GPS check of district names, DEMOCRATIC REPUBLIC OF THE CONGO, form 4498
+Records: 1,153,774; plausible GPS: 1,106,041 (95.9%); inside a DEMOCRATIC REPUBLIC OF THE CONGO district: 1,102,469; plausible GPS but outside DEMOCRATIC REPUBLIC OF THE CONGO: 3,572
+Exact repeated points (same coordinates): 61,147
+Points within 1 km of a district boundary (shape tolerance): 26.9% of those inside
+
+Raw district names by verdict:
+  CONFIRMED                        295 names,   586,474 records
+  CONFIRMED_MAJORITY               183 names,   342,025 records
+  CONFIRMED_WEAK                    12 names,    13,393 records
+  CONTRADICTED                      63 names,   119,902 records
+  MIXED                             28 names,    42,770 records
+  NAME_UNMATCHED_GPS_PROPOSAL        2 names,       617 records
+  NAME_UNMATCHED_NO_CLEAR_GPS        3 names,    48,593 records
+
+CONFIRMED = at least 90% of the households inside the name's district; CONFIRMED_MAJORITY 50-90%; CONFIRMED_WEAK under 50% but still the main district;
+MIXED = most households in another district but 25% or more in the name's; CONTRADICTED = under 25% in the name's district.
+
+Named settlements: 771; used in more than one district: 4; spread above 10 km (same name far apart or bad GPS): 363

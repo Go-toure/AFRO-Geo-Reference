@@ -1,0 +1,13 @@
+GPS check of district names, MADAGASCAR, form 8279
+Records: 128,875; plausible GPS: 128,864 (100.0%); inside a MADAGASCAR district: 128,180; plausible GPS but outside MADAGASCAR: 684
+Exact repeated points (same coordinates): 3,727
+Points within 1 km of a district boundary (shape tolerance): 10.3% of those inside
+
+Raw district names by verdict:
+  CONFIRMED                        128 names,   125,348 records
+  CONFIRMED_MAJORITY                 2 names,       951 records
+  NAME_UNMATCHED_GPS_PROPOSAL        4 names,     2,575 records
+  NAME_UNMATCHED_NO_CLEAR_GPS        1 names,         1 records
+
+CONFIRMED = at least 90% of the households inside the name's district; CONFIRMED_MAJORITY 50-90%; CONFIRMED_WEAK under 50% but still the main district;
+MIXED = most households in another district but 25% or more in the name's; CONTRADICTED = under 25% in the name's district.

@@ -1,0 +1,15 @@
+GPS check of district names, LIBERIA, form 5887
+Records: 8,823; plausible GPS: 8,822 (100.0%); inside a LIBERIA district: 8,692; plausible GPS but outside LIBERIA: 130
+Exact repeated points (same coordinates): 261
+Points within 1 km of a district boundary (shape tolerance): 27.5% of those inside
+
+Raw district names by verdict:
+  CONFIRMED                         65 names,     4,798 records
+  CONFIRMED_MAJORITY                22 names,     2,765 records
+  CONTRADICTED                       8 names,       908 records
+  MIXED                              2 names,       143 records
+  NAME_UNMATCHED_GPS_PROPOSAL        7 names,       208 records
+  NAME_UNMATCHED_NO_CLEAR_GPS        1 names,         1 records
+
+CONFIRMED = at least 90% of the households inside the name's district; CONFIRMED_MAJORITY 50-90%; CONFIRMED_WEAK under 50% but still the main district;
+MIXED = most households in another district but 25% or more in the name's; CONTRADICTED = under 25% in the name's district.

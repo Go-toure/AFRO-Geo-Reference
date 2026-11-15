@@ -1,0 +1,16 @@
+GPS check of district names, KENYA, form 6418
+Records: 55,495; plausible GPS: 55,492 (100.0%); inside a KENYA district: 55,450; plausible GPS but outside KENYA: 42
+Exact repeated points (same coordinates): 340
+Points within 1 km of a district boundary (shape tolerance): 40.8% of those inside
+
+Raw district names by verdict:
+  CONFIRMED                         76 names,    27,799 records
+  CONFIRMED_MAJORITY                52 names,    23,560 records
+  CONFIRMED_WEAK                     1 names,       745 records
+  CONTRADICTED                       1 names,       918 records
+  MIXED                              3 names,       304 records
+  NAME_UNMATCHED_GPS_PROPOSAL       16 names,     2,025 records
+  NAME_UNMATCHED_NO_CLEAR_GPS        3 names,       144 records
+
+CONFIRMED = at least 90% of the households inside the name's district; CONFIRMED_MAJORITY 50-90%; CONFIRMED_WEAK under 50% but still the main district;
+MIXED = most households in another district but 25% or more in the name's; CONTRADICTED = under 25% in the name's district.
