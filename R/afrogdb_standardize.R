@@ -20,6 +20,9 @@
 # spaces and "RM "; the district name exists once in the country under another province;
 # the decision in reference/crosswalk_geonames.csv (ok / auto; no_shape = known gap);
 # optionally "relaxed" (generic words such as DISTRICT, DC, COUNCIL, CITY, TOWN ignored).
+# With extended = TRUE the last layers of reference/crosswalk_extended.csv (py/build_extended_crosswalk.py) are used for names
+# that are still without a unit: manual decisions, Ethiopia woreda -> zone, relaxed, old-shape overlay, name similarity.
+# geo_match is then "extended: <method>", with "(probable)" for the old-shape and name-similarity layers. Off by default.
 # Country aliases (TANZANIA, CAMEROUN ...) are in reference/crosswalk_country.csv.
 # ============================================================================
 
@@ -47,17 +50,19 @@ afrogdb_reference <- function(dir = Sys.getenv("AFRO_GEO_REFERENCE_DIR", unset =
     if (nrow(d)) ref_d <- rbind(ref_d, data.frame(country = d$country, province = d$province, district = d$district, geo_code = NA_character_, stringsAsFactors = FALSE))
   }
   cw <- if (ex("crosswalk_country.csv")) rd("crosswalk_country.csv") else data.frame(raw_name = character(), std_country = character())
+  xe <- if (ex("crosswalk_extended.csv")) rd("crosswalk_extended.csv") else NULL     # last layers, built by py/build_extended_crosswalk.py
+  if (!is.null(xe) && nrow(xe)) xe$key <- paste(afro_nk(xe$country), afro_nk(xe$province), afro_nk(xe$district)) else xe <- NULL
   xw <- if (ex("crosswalk_geonames.csv")) rd("crosswalk_geonames.csv") else NULL
   if (!is.null(xw) && nrow(xw)) xw$key <- paste(afro_nk(xw$country), afro_nk(xw$province), afro_nk(xw$district)) else xw <- NULL
   ref_c$ck <- afro_nk(ref_c$country)
   ref_p$ck <- afro_nk(ref_p$country); ref_p$pk <- afro_nk(ref_p$province)
   ref_d$ck <- afro_nk(ref_d$country); ref_d$pk <- afro_nk(ref_d$province); ref_d$dk <- afro_nk(ref_d$district); ref_d$rk <- afro_rl(ref_d$district)
   ref_d$ex <- paste(afro_up(ref_d$country), afro_up(ref_d$province), afro_up(ref_d$district), sep = "|")
-  list(c = ref_c, p = ref_p, d = ref_d, xw = xw, alias = setNames(afro_nk(cw$std_country), afro_nk(cw$raw_name)), dir = dir)
+  list(c = ref_c, p = ref_p, d = ref_d, xw = xw, xe = xe, alias = setNames(afro_nk(cw$std_country), afro_nk(cw$raw_name)), dir = dir)
 }
 
 # d: data frame with columns country, province, district (distinct units; a "rows" column is kept if present)
-afrogdb_match <- function(d, ref, suggest = FALSE, relaxed = TRUE) {
+afrogdb_match <- function(d, ref, suggest = FALSE, relaxed = TRUE, extended = FALSE) {
   d$ck0 <- afro_nk(d$country); hit <- unname(ref$alias[d$ck0]); d$ck <- ifelse(is.na(hit), d$ck0, hit)
   d$pk <- afro_nk(d$province); d$dk <- afro_nk(d$district)
   rc <- ref$c; rp <- ref$p; rd_ <- ref$d
@@ -94,6 +99,17 @@ afrogdb_match <- function(d, ref, suggest = FALSE, relaxed = TRUE) {
       else if (!is.na(r$std_district)) { d$std_district[i] <- r$std_district; d$std_province2[i] <- r$std_province; d$status[i] <- lab }
     }
   }
+  if (extended && !is.null(ref$xe)) {            # manual decisions, Ethiopia woreda -> zone, relaxed, old shape, name similarity
+    ei <- match(paste(d$ck0, d$pk, d$dk), ref$xe$key)
+    for (i in which(!is.na(ei) & d$status %in% c("unmatched", "ambiguous"))) {
+      r <- ref$xe[ei[i], ]
+      if (r$method == "no shape") { d$status[i] <- "no shape"; next }
+      j <- match(r$geo_code, rd_$geo_code)
+      if (is.na(j)) next
+      d$std_district[i] <- rd_$district[j]; d$std_province2[i] <- rd_$province[j]; d$geo_code[i] <- rd_$geo_code[j]
+      d$status[i] <- paste0("extended: ", r$method, if (identical(r$confidence, "probable")) " (probable)" else "")
+    }
+  }
   if (relaxed) {
     d$rk <- afro_rl(d$district)
     for (i in which(d$status %in% c("unmatched", "ambiguous") & d$ck %in% rc$ck)) {
@@ -120,14 +136,14 @@ afrogdb_match <- function(d, ref, suggest = FALSE, relaxed = TRUE) {
 FOUND <- c("exact", "normalized", "other province", "crosswalk", "crosswalk (auto)")
 
 afrogdb_standardize <- function(df, country = "country", province = "province", district = "district",
-                                ref = afrogdb_reference(), relaxed = FALSE, replace_names = TRUE, verbose = TRUE) {
+                                ref = afrogdb_reference(), relaxed = FALSE, replace_names = TRUE, verbose = TRUE, extended = FALSE) {
   stopifnot(all(c(country, province, district) %in% names(df)))
   raw <- data.frame(country = as.character(df[[country]]), province = as.character(df[[province]]), district = as.character(df[[district]]), stringsAsFactors = FALSE)
   key <- paste(raw$country, raw$province, raw$district, sep = "\r")
   u <- raw[!duplicated(key), , drop = FALSE]; ukey <- key[!duplicated(key)]
-  m <- afrogdb_match(u, ref, suggest = FALSE, relaxed = relaxed)
+  m <- afrogdb_match(u, ref, suggest = FALSE, relaxed = relaxed, extended = extended)
   i <- match(key, ukey)
-  found <- m$status %in% c(FOUND, if (relaxed) "relaxed")
+  found <- m$status %in% c(FOUND, if (relaxed) "relaxed") | grepl("^extended", m$status)
   df$geo_code  <- ifelse(found, m$geo_code, NA_character_)[i]
   df$geo_match <- m$status[i]
   if (replace_names) {

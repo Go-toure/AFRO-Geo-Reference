@@ -182,3 +182,7 @@ python py/anomaly_check.py --only TCD,NGA     # chosen countries (DR Congo needs
 * Exact rules: same GPS point on different days or by different monitors, a device that "travels" over 150 km/h, forms filled in under 60 s, impossible dates, negative or extreme counts, and one monitor repeating the same set of counts far more than chance explains.
 * A model (Isolation Forest) marks the 1% most unusual records per country. It is tested by planting known errors: it finds 85-100% of counts that are 10 times too high, but almost none of the 15-second forms, which is why those are caught by an exact rule.
 * A flag means "look at this", not "this is wrong". Shareable output is in `reference/anomaly_check/` (by country and district, no names). Monitor names and device ids stay in `data/anomaly_local/` (not in git).
+
+## Extended matching layers (added 16 Nov 2026)
+
+`py/build_extended_crosswalk.py` writes `reference/crosswalk_extended.csv`: the last answers for names that the standard matching leaves without a unit (manual decisions, Ethiopia woreda to zone, relaxed, old-shape overlay with probability 0.90 or more, name similarity). The last two are marked probable. Use `--names` with the unmatched-name lists of the SCOPE and admin builds so that new names are included. The R functions use it only with `extended = TRUE`.
