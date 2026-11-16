@@ -135,56 +135,198 @@ DEMOCRATIC REPUBLIC OF THE CONGO,SUD KIVU,HAUT PLATEAU,COD-SKU-HAU,manual,probab
 DEMOCRATIC REPUBLIC OF THE CONGO,SUD-KIVU,BAGIRA,COD-SKU-BAG,manual,certain,manual decision (ok): BAGIRA-KASHA
 DEMOCRATIC REPUBLIC OF THE CONGO,SUD-KIVU,RIZIZI,COD-SKU-RUZ,name similarity,probable,closest name SUD-KIVU / RUZIZI (distance 0.17)
 DEMOCRATIC REPUBLIC OF THE CONGO,SUD-KIVU,SHABUNDA,COD-SKU-SHA,manual,probable,manual decision (auto): SHABUNDA CENTRE: to confirm
+ETHIOPIA,ADDIS ABABA,ADDIS KETEMA,ETH-ADD-REG,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
 ETHIOPIA,ADDIS ABABA,ADDIS KETEMA SUB CITY,ETH-ADD-REG,woreda to zone,certain,woreda of zone REGION 14
 ETHIOPIA,ADDIS ABABA,AKAKI KALITY SUB CITY,ETH-ADD-REG,woreda to zone,certain,woreda of zone REGION 14
+ETHIOPIA,ADDIS ABABA,ARADA,ETH-ADD-REG,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
 ETHIOPIA,ADDIS ABABA,ARADA SUB CITY,ETH-ADD-REG,woreda to zone,certain,woreda of zone REGION 14
+ETHIOPIA,ADDIS ABABA,ARADA WOREDA 1,ETH-ADD-REG,name similarity,probable,closest woreda / zone name ARADA (distance 0.17)
+ETHIOPIA,ADDIS ABABA,ARADA WOREDA 2,ETH-ADD-REG,name similarity,probable,closest woreda / zone name ARADA (distance 0.17)
+ETHIOPIA,ADDIS ABABA,ARADA WOREDA 4,ETH-ADD-REG,name similarity,probable,closest woreda / zone name ARADA (distance 0.17)
+ETHIOPIA,ADDIS ABABA,ARADA WOREDA 5,ETH-ADD-REG,name similarity,probable,closest woreda / zone name ARADA (distance 0.17)
+ETHIOPIA,ADDIS ABABA,ARADA WOREDA 6,ETH-ADD-REG,name similarity,probable,closest woreda / zone name ARADA (distance 0.17)
+ETHIOPIA,ADDIS ABABA,ARADA WOREDA 7,ETH-ADD-REG,name similarity,probable,closest woreda / zone name ARADA (distance 0.17)
+ETHIOPIA,ADDIS ABABA,ARADA WOREDA 8,ETH-ADD-REG,name similarity,probable,closest woreda / zone name ARADA (distance 0.17)
+ETHIOPIA,ADDIS ABABA,ARADA WOREDA 9,ETH-ADD-REG,name similarity,probable,closest woreda / zone name ARADA (distance 0.17)
+ETHIOPIA,ADDIS ABABA,BOLE,ETH-ADD-REG,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
 ETHIOPIA,ADDIS ABABA,BOLE SUB CITY,ETH-ADD-REG,woreda to zone,certain,woreda of zone REGION 14
+ETHIOPIA,ADDIS ABABA,GULELE,ETH-ADD-REG,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
 ETHIOPIA,ADDIS ABABA,GULELE SUB CITY,ETH-ADD-REG,woreda to zone,certain,woreda of zone REGION 14
+ETHIOPIA,ADDIS ABABA,GULELLE,ETH-ADD-REG,name similarity,probable,closest woreda / zone name GULELE (distance 0.14)
+ETHIOPIA,ADDIS ABABA,GULLELE,ETH-ADD-REG,name similarity,probable,closest woreda / zone name GULELE (distance 0.14)
+ETHIOPIA,ADDIS ABABA,GULLELE 1,ETH-ADD-REG,name similarity,probable,closest woreda / zone name GULELE (distance 0.25)
+ETHIOPIA,ADDIS ABABA,GULLELE 2,ETH-ADD-REG,name similarity,probable,closest woreda / zone name GULELE (distance 0.25)
+ETHIOPIA,ADDIS ABABA,GULLELE 3,ETH-ADD-REG,name similarity,probable,closest woreda / zone name GULELE (distance 0.25)
+ETHIOPIA,ADDIS ABABA,GULLELE 4,ETH-ADD-REG,name similarity,probable,closest woreda / zone name GULELE (distance 0.25)
+ETHIOPIA,ADDIS ABABA,GULLELE 5,ETH-ADD-REG,name similarity,probable,closest woreda / zone name GULELE (distance 0.25)
+ETHIOPIA,ADDIS ABABA,GULLELE 6,ETH-ADD-REG,name similarity,probable,closest woreda / zone name GULELE (distance 0.25)
+ETHIOPIA,ADDIS ABABA,GULLELE 7,ETH-ADD-REG,name similarity,probable,closest woreda / zone name GULELE (distance 0.25)
+ETHIOPIA,ADDIS ABABA,GULLELE 8,ETH-ADD-REG,name similarity,probable,closest woreda / zone name GULELE (distance 0.25)
+ETHIOPIA,ADDIS ABABA,GULLELE 9,ETH-ADD-REG,name similarity,probable,closest woreda / zone name GULELE (distance 0.25)
+ETHIOPIA,ADDIS ABABA,KIRKOS,ETH-ADD-REG,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
 ETHIOPIA,ADDIS ABABA,KIRKOS SUB CITY,ETH-ADD-REG,woreda to zone,certain,woreda of zone REGION 14
+ETHIOPIA,ADDIS ABABA,KIRKOS WOREDA 01,ETH-ADD-REG,name similarity,probable,closest woreda / zone name KIRKOS (distance 0.25)
+ETHIOPIA,ADDIS ABABA,KIRKOS WOREDA 02,ETH-ADD-REG,name similarity,probable,closest woreda / zone name KIRKOS (distance 0.25)
+ETHIOPIA,ADDIS ABABA,KIRKOS WOREDA 03,ETH-ADD-REG,name similarity,probable,closest woreda / zone name KIRKOS (distance 0.25)
+ETHIOPIA,ADDIS ABABA,KIRKOS WOREDA 04,ETH-ADD-REG,name similarity,probable,closest woreda / zone name KIRKOS (distance 0.25)
+ETHIOPIA,ADDIS ABABA,KIRKOS WOREDA 05,ETH-ADD-REG,name similarity,probable,closest woreda / zone name KIRKOS (distance 0.25)
+ETHIOPIA,ADDIS ABABA,KIRKOS WOREDA 06,ETH-ADD-REG,name similarity,probable,closest woreda / zone name KIRKOS (distance 0.25)
+ETHIOPIA,ADDIS ABABA,KIRKOS WOREDA 07,ETH-ADD-REG,name similarity,probable,closest woreda / zone name KIRKOS (distance 0.25)
+ETHIOPIA,ADDIS ABABA,KIRKOS WOREDA 08,ETH-ADD-REG,name similarity,probable,closest woreda / zone name KIRKOS (distance 0.25)
+ETHIOPIA,ADDIS ABABA,KIRKOS WOREDA 09,ETH-ADD-REG,name similarity,probable,closest woreda / zone name KIRKOS (distance 0.25)
+ETHIOPIA,ADDIS ABABA,KIRKOS WOREDA 10,ETH-ADD-REG,name similarity,probable,closest woreda / zone name KIRKOS (distance 0.25)
+ETHIOPIA,ADDIS ABABA,KIRKOS WOREDA 11,ETH-ADD-REG,name similarity,probable,closest woreda / zone name KIRKOS (distance 0.25)
+ETHIOPIA,ADDIS ABABA,KIRKOS1,ETH-ADD-REG,name similarity,probable,closest woreda / zone name KIRKOS (distance 0.14)
+ETHIOPIA,ADDIS ABABA,KIRKOS2,ETH-ADD-REG,name similarity,probable,closest woreda / zone name KIRKOS (distance 0.14)
+ETHIOPIA,ADDIS ABABA,KIRKOS3,ETH-ADD-REG,name similarity,probable,closest woreda / zone name KIRKOS (distance 0.14)
+ETHIOPIA,ADDIS ABABA,KIRKOS4,ETH-ADD-REG,name similarity,probable,closest woreda / zone name KIRKOS (distance 0.14)
+ETHIOPIA,ADDIS ABABA,KIRKOS5,ETH-ADD-REG,name similarity,probable,closest woreda / zone name KIRKOS (distance 0.14)
+ETHIOPIA,ADDIS ABABA,KIRKOS6,ETH-ADD-REG,name similarity,probable,closest woreda / zone name KIRKOS (distance 0.14)
+ETHIOPIA,ADDIS ABABA,KIRKOS7,ETH-ADD-REG,name similarity,probable,closest woreda / zone name KIRKOS (distance 0.14)
+ETHIOPIA,ADDIS ABABA,KIRKOS8,ETH-ADD-REG,name similarity,probable,closest woreda / zone name KIRKOS (distance 0.14)
+ETHIOPIA,ADDIS ABABA,KIRKOS9,ETH-ADD-REG,name similarity,probable,closest woreda / zone name KIRKOS (distance 0.14)
+ETHIOPIA,ADDIS ABABA,KOLFE KERANIO,ETH-ADD-REG,name similarity,probable,closest woreda / zone name KOLFEKERANIYO (distance 0.08)
+ETHIOPIA,ADDIS ABABA,KOLFE KERANIYO WOREDA 01,ETH-ADD-REG,name similarity,probable,closest woreda / zone name KOLFEKERANIYO (distance 0.13)
+ETHIOPIA,ADDIS ABABA,KOLFE KERANIYO WOREDA 02,ETH-ADD-REG,name similarity,probable,closest woreda / zone name KOLFEKERANIYO (distance 0.13)
+ETHIOPIA,ADDIS ABABA,KOLFE KERANIYO WOREDA 03,ETH-ADD-REG,name similarity,probable,closest woreda / zone name KOLFEKERANIYO (distance 0.13)
+ETHIOPIA,ADDIS ABABA,KOLFE KERANIYO WOREDA 04,ETH-ADD-REG,name similarity,probable,closest woreda / zone name KOLFEKERANIYO (distance 0.13)
+ETHIOPIA,ADDIS ABABA,KOLFE KERANIYO WOREDA 05,ETH-ADD-REG,name similarity,probable,closest woreda / zone name KOLFEKERANIYO (distance 0.13)
+ETHIOPIA,ADDIS ABABA,KOLFE KERANIYO WOREDA 06,ETH-ADD-REG,name similarity,probable,closest woreda / zone name KOLFEKERANIYO (distance 0.13)
+ETHIOPIA,ADDIS ABABA,KOLFE KERANIYO WOREDA 07,ETH-ADD-REG,name similarity,probable,closest woreda / zone name KOLFEKERANIYO (distance 0.13)
+ETHIOPIA,ADDIS ABABA,KOLFE KERANIYO WOREDA 08,ETH-ADD-REG,name similarity,probable,closest woreda / zone name KOLFEKERANIYO (distance 0.13)
+ETHIOPIA,ADDIS ABABA,KOLFE KERANIYO WOREDA 09,ETH-ADD-REG,name similarity,probable,closest woreda / zone name KOLFEKERANIYO (distance 0.13)
+ETHIOPIA,ADDIS ABABA,KOLFE KERANIYO WOREDA 10,ETH-ADD-REG,name similarity,probable,closest woreda / zone name KOLFEKERANIYO (distance 0.13)
+ETHIOPIA,ADDIS ABABA,KOLFE KERANIYO WOREDA 11,ETH-ADD-REG,name similarity,probable,closest woreda / zone name KOLFEKERANIYO (distance 0.13)
+ETHIOPIA,ADDIS ABABA,KOLFE_KERANYO,ETH-ADD-REG,name similarity,probable,closest woreda / zone name KOLFEKERANIYO (distance 0.08)
+ETHIOPIA,ADDIS ABABA,LEMI KURA,ETH-ADD-REG,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
 ETHIOPIA,ADDIS ABABA,LEMI KURA SUB CITY,ETH-ADD-REG,woreda to zone,certain,woreda of zone REGION 14
+ETHIOPIA,ADDIS ABABA,LEMI KURA WOREDA 02,ETH-ADD-REG,name similarity,probable,closest woreda / zone name LEMIKURA (distance 0.20)
+ETHIOPIA,ADDIS ABABA,LEMI KURA WOREDA 03,ETH-ADD-REG,name similarity,probable,closest woreda / zone name LEMIKURA (distance 0.20)
+ETHIOPIA,ADDIS ABABA,LEMI KURA WOREDA 04,ETH-ADD-REG,name similarity,probable,closest woreda / zone name LEMIKURA (distance 0.20)
+ETHIOPIA,ADDIS ABABA,LEMI KURA WOREDA 05,ETH-ADD-REG,name similarity,probable,closest woreda / zone name LEMIKURA (distance 0.20)
+ETHIOPIA,ADDIS ABABA,LEMI KURA WOREDA 06,ETH-ADD-REG,name similarity,probable,closest woreda / zone name LEMIKURA (distance 0.20)
+ETHIOPIA,ADDIS ABABA,LEMI KURA WOREDA 08,ETH-ADD-REG,name similarity,probable,closest woreda / zone name LEMIKURA (distance 0.20)
+ETHIOPIA,ADDIS ABABA,LEMI KURA WOREDA 09,ETH-ADD-REG,name similarity,probable,closest woreda / zone name LEMIKURA (distance 0.20)
+ETHIOPIA,ADDIS ABABA,LEMI KURA WOREDA 10,ETH-ADD-REG,name similarity,probable,closest woreda / zone name LEMIKURA (distance 0.20)
+ETHIOPIA,ADDIS ABABA,LEMI KURA WOREDA 13,ETH-ADD-REG,name similarity,probable,closest woreda / zone name LEMIKURA (distance 0.20)
+ETHIOPIA,ADDIS ABABA,LEMI KURA WOREDA 14,ETH-ADD-REG,name similarity,probable,closest woreda / zone name LEMIKURA (distance 0.20)
+ETHIOPIA,ADDIS ABABA,LEMI KURA WOREDA 2,ETH-ADD-REG,name similarity,probable,closest woreda / zone name LEMIKURA (distance 0.11)
+ETHIOPIA,ADDIS ABABA,LEMI KURA WOREDA 3,ETH-ADD-REG,name similarity,probable,closest woreda / zone name LEMIKURA (distance 0.11)
+ETHIOPIA,ADDIS ABABA,LEMI KURA WOREDA 4,ETH-ADD-REG,name similarity,probable,closest woreda / zone name LEMIKURA (distance 0.11)
+ETHIOPIA,ADDIS ABABA,LEMI KURA WOREDA 5,ETH-ADD-REG,name similarity,probable,closest woreda / zone name LEMIKURA (distance 0.11)
+ETHIOPIA,ADDIS ABABA,LEMI KURA WOREDA 6,ETH-ADD-REG,name similarity,probable,closest woreda / zone name LEMIKURA (distance 0.11)
+ETHIOPIA,ADDIS ABABA,LEMI KURA WOREDA 8,ETH-ADD-REG,name similarity,probable,closest woreda / zone name LEMIKURA (distance 0.11)
+ETHIOPIA,ADDIS ABABA,LEMI KURA WOREDA 9,ETH-ADD-REG,name similarity,probable,closest woreda / zone name LEMIKURA (distance 0.11)
+ETHIOPIA,ADDIS ABABA,LIDETA,ETH-ADD-REG,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
 ETHIOPIA,ADDIS ABABA,LIDETA SUB CITY,ETH-ADD-REG,woreda to zone,certain,woreda of zone REGION 14
+ETHIOPIA,ADDIS ABABA,LIDETA W 4,ETH-ADD-REG,name similarity,probable,closest woreda / zone name LIDETA (distance 0.25)
+ETHIOPIA,ADDIS ABABA,LIDETA W 5,ETH-ADD-REG,name similarity,probable,closest woreda / zone name LIDETA (distance 0.25)
+ETHIOPIA,ADDIS ABABA,LIDETA W 6,ETH-ADD-REG,name similarity,probable,closest woreda / zone name LIDETA (distance 0.25)
+ETHIOPIA,ADDIS ABABA,LIDETA W 7,ETH-ADD-REG,name similarity,probable,closest woreda / zone name LIDETA (distance 0.25)
+ETHIOPIA,ADDIS ABABA,LIDETA W 8,ETH-ADD-REG,name similarity,probable,closest woreda / zone name LIDETA (distance 0.25)
+ETHIOPIA,ADDIS ABABA,LIDETA W 9,ETH-ADD-REG,name similarity,probable,closest woreda / zone name LIDETA (distance 0.25)
+ETHIOPIA,ADDIS ABABA,LIDETA W1,ETH-ADD-REG,name similarity,probable,closest woreda / zone name LIDETA (distance 0.25)
+ETHIOPIA,ADDIS ABABA,LIDETA W2,ETH-ADD-REG,name similarity,probable,closest woreda / zone name LIDETA (distance 0.25)
+ETHIOPIA,ADDIS ABABA,LIDETA W3,ETH-ADD-REG,name similarity,probable,closest woreda / zone name LIDETA (distance 0.25)
+ETHIOPIA,ADDIS ABABA,NEFAS-SILK LAFTO,ETH-ADD-REG,name similarity,probable,closest woreda / zone name NIFASSILKLAFTO (distance 0.07)
 ETHIOPIA,ADDIS ABABA,NIFAS SILK LAFTO SUB CITY,ETH-ADD-REG,woreda to zone,certain,woreda of zone REGION 14
+ETHIOPIA,ADDIS ABABA,NIFAS SILK LAFTO WOREDA 01,ETH-ADD-REG,name similarity,probable,closest woreda / zone name NIFASSILKLAFTO (distance 0.12)
+ETHIOPIA,ADDIS ABABA,NIFAS SILK LAFTO WOREDA 02,ETH-ADD-REG,name similarity,probable,closest woreda / zone name NIFASSILKLAFTO (distance 0.12)
+ETHIOPIA,ADDIS ABABA,NIFAS SILK LAFTO WOREDA 05,ETH-ADD-REG,name similarity,probable,closest woreda / zone name NIFASSILKLAFTO (distance 0.12)
+ETHIOPIA,ADDIS ABABA,NIFAS SILK LAFTO WOREDA 06,ETH-ADD-REG,name similarity,probable,closest woreda / zone name NIFASSILKLAFTO (distance 0.12)
+ETHIOPIA,ADDIS ABABA,NIFAS SILK LAFTO WOREDA 07,ETH-ADD-REG,name similarity,probable,closest woreda / zone name NIFASSILKLAFTO (distance 0.12)
+ETHIOPIA,ADDIS ABABA,NIFAS SILK LAFTO WOREDA 08,ETH-ADD-REG,name similarity,probable,closest woreda / zone name NIFASSILKLAFTO (distance 0.12)
+ETHIOPIA,ADDIS ABABA,NIFAS SILK LAFTO WOREDA 09,ETH-ADD-REG,name similarity,probable,closest woreda / zone name NIFASSILKLAFTO (distance 0.12)
+ETHIOPIA,ADDIS ABABA,NIFAS SILK LAFTO WOREDA 10,ETH-ADD-REG,name similarity,probable,closest woreda / zone name NIFASSILKLAFTO (distance 0.12)
+ETHIOPIA,ADDIS ABABA,NIFAS SILK LAFTO WOREDA 11,ETH-ADD-REG,name similarity,probable,closest woreda / zone name NIFASSILKLAFTO (distance 0.12)
+ETHIOPIA,ADDIS ABABA,NIFAS SILK LAFTO WOREDA 12,ETH-ADD-REG,name similarity,probable,closest woreda / zone name NIFASSILKLAFTO (distance 0.12)
+ETHIOPIA,ADDIS ABABA,NIFAS SILK LAFTO WOREDA 13,ETH-ADD-REG,name similarity,probable,closest woreda / zone name NIFASSILKLAFTO (distance 0.12)
+ETHIOPIA,ADDIS ABABA,NIFAS SILK LAFTO WOREDA 14,ETH-ADD-REG,name similarity,probable,closest woreda / zone name NIFASSILKLAFTO (distance 0.12)
+ETHIOPIA,ADDIS ABABA,NIFAS SILK LAFTO WOREDA 15,ETH-ADD-REG,name similarity,probable,closest woreda / zone name NIFASSILKLAFTO (distance 0.12)
+ETHIOPIA,ADDIS ABABA,YEKA,ETH-ADD-REG,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
 ETHIOPIA,ADDIS ABABA,YEKA SUB CITY,ETH-ADD-REG,woreda to zone,certain,woreda of zone REGION 14
+ETHIOPIA,ADDIS ABABA CITY,ADDIS KETEMA,ETH-ADD-REG,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
+ETHIOPIA,ADDIS ABABA CITY,ARADA SC,ETH-ADD-REG,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
+ETHIOPIA,ADDIS ABABA CITY,BOLE SC,ETH-ADD-REG,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
+ETHIOPIA,ADDIS ABABA CITY,GULELE SC,ETH-ADD-REG,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
+ETHIOPIA,ADDIS ABABA CITY,KIRKOS,ETH-ADD-REG,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
+ETHIOPIA,ADDIS ABABA CITY,KOLFE KERANIYO SC,ETH-ADD-REG,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
+ETHIOPIA,ADDIS ABABA CITY,LEMI KURA SC,ETH-ADD-REG,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
+ETHIOPIA,ADDIS ABABA CITY,LIDETA SC,ETH-ADD-REG,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
+ETHIOPIA,ADDIS ABABA CITY,NIFAS SILK LAFTO SC,ETH-ADD-REG,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
+ETHIOPIA,ADDIS ABABA CITY,YEKA SC,ETH-ADD-REG,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
 ETHIOPIA,AFAR,ABIDA,ETH-AFA-GAB,woreda to zone,certain,woreda of zone GABI /ZONE 3
 ETHIOPIA,AFAR,CHIFRA TOWN,ETH-AFA-AWS,woreda to zone,certain,woreda of zone AWSI /ZONE 1
+ETHIOPIA,AFAR,GERENI,ETH-AFA-MAH,name similarity,probable,closest woreda / zone name GERANI (distance 0.17)
 ETHIOPIA,AFAR,WASAMA,ETH-AFA-KIL,woreda to zone,certain,woreda of zone KILBATI /ZONE2
 ETHIOPIA,AFAR,YANGUDI,ETH-AFA-MAH,woreda to zone,certain,woreda of zone MAHI /ZONE 6
+ETHIOPIA,AFAR,ZONE1,ETH-AFA-AWS,woreda to zone,certain,ZONE 1 of the region
+ETHIOPIA,AFAR,ZONE2,ETH-AFA-KIL,woreda to zone,certain,ZONE 2 of the region
+ETHIOPIA,AFAR,ZONE3,ETH-AFA-GAB,woreda to zone,certain,ZONE 3 of the region
+ETHIOPIA,AFAR,ZONE4,ETH-AFA-FAN,woreda to zone,certain,ZONE 4 of the region
+ETHIOPIA,AFAR,ZONE5,ETH-AFA-HAR,woreda to zone,certain,ZONE 5 of the region
+ETHIOPIA,AFAR,ZONE6,ETH-AFA-MAH,woreda to zone,certain,ZONE 6 of the region
+ETHIOPIA,AMHARA,ADAGNAGER CHACKO,ETH-AMH-WGR,name similarity,probable,closest woreda / zone name ADAGNAGERCHAQO (distance 0.13)
 ETHIOPIA,AMHARA,ALAMATA TOWN,ETH-TIG-SOS,woreda to zone,certain,woreda of zone SOUTHERN
 ETHIOPIA,AMHARA,ALBUKO,ETH-AMH-SWO,woreda to zone,certain,woreda of zone SOUTH WELLO
 ETHIOPIA,AMHARA,ALEFA,ETH-AMH-CEN,woreda to zone,certain,woreda of zone CENTRAL GONDAR
+ETHIOPIA,AMHARA,AMBASSEL,ETH-AMH-SWO,name similarity,probable,closest woreda / zone name AMBASEL (distance 0.12)
 ETHIOPIA,AMHARA,ANEDED,ETH-AMH-EAS,woreda to zone,certain,woreda of zone EAST GOJAM
 ETHIOPIA,AMHARA,ANGOT,ETH-AMH-NWO,woreda to zone,certain,woreda of zone NORTH WELLO
 ETHIOPIA,AMHARA,ANKOBER,ETH-AMH-NSA,woreda to zone,certain,woreda of zone NORTH SHEWA (AM)
+ETHIOPIA,AMHARA,ANTSOKIA,ETH-AMH-NSA,name similarity,probable,closest woreda / zone name ANTSOKIYA (distance 0.11)
 ETHIOPIA,AMHARA,ARGOBA,ETH-AMH-SWO,woreda to zone,certain,woreda of zone SOUTH WELLO
 ETHIOPIA,AMHARA,ARTUMA FURSI,ETH-AMH-ORO,woreda to zone,certain,woreda of zone OROMIA
+ETHIOPIA,AMHARA,ASAGIRT,ETH-AMH-NSA,name similarity,probable,closest woreda / zone name ASSAGIRT (distance 0.12)
 ETHIOPIA,AMHARA,AWABEL,ETH-AMH-EAS,woreda to zone,certain,woreda of zone EAST GOJAM
+ETHIOPIA,AMHARA,AYEHU GUAGUSA,ETH-AMH-AWI,name similarity,probable,closest woreda / zone name AYEHUGUWAGUSA (distance 0.08)
+ETHIOPIA,AMHARA,BAHIR DAR,ETH-AMH-BAH,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
+ETHIOPIA,AMHARA,BAHIR DAR CITY,ETH-AMH-BAH,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
 ETHIOPIA,AMHARA,BAHIR DAR TOWN,ETH-AMH-BAH,woreda to zone,certain,woreda of zone BAHIR DAR TOWN ADMIN
 ETHIOPIA,AMHARA,BAHIR DAR ZURIA,ETH-AMH-BAH,woreda to zone,certain,woreda of zone BAHIR DAR TOWN ADMIN
+ETHIOPIA,AMHARA,BAHIRD DAR CITY,ETH-AMH-BAH,name similarity,probable,closest woreda / zone name BAHIRDAR (distance 0.11)
 ETHIOPIA,AMHARA,BANJA,ETH-AMH-AWI,woreda to zone,certain,woreda of zone AWI
+ETHIOPIA,AMHARA,BASO WORANA,ETH-AMH-NSA,name similarity,probable,closest woreda / zone name BASONAWORENA (distance 0.25)
 ETHIOPIA,AMHARA,BATI TOWN,ETH-AMH-ORO,woreda to zone,certain,woreda of zone OROMIA
 ETHIOPIA,AMHARA,BEREHET,ETH-AMH-NSA,woreda to zone,certain,woreda of zone NORTH SHEWA (AM)
 ETHIOPIA,AMHARA,BEYEDA,ETH-AMH-NGR,woreda to zone,certain,woreda of zone NORTH GONDAR
 ETHIOPIA,AMHARA,BIBUGN,ETH-AMH-EAS,woreda to zone,certain,woreda of zone EAST GOJAM
 ETHIOPIA,AMHARA,BUGNA,ETH-AMH-NWO,woreda to zone,certain,woreda of zone NORTH WELLO
 ETHIOPIA,AMHARA,BURE TOWN,ETH-AMH-WES,woreda to zone,certain,woreda of zone WEST GOJAM
+ETHIOPIA,AMHARA,CHAGNI,ETH-AMH-AWI,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
+ETHIOPIA,AMHARA,CHILGA 01,ETH-AMH-CEN,name similarity,probable,closest woreda / zone name CHILGA1 (distance 0.12)
 ETHIOPIA,AMHARA,DABAT,ETH-AMH-NGR,woreda to zone,certain,woreda of zone NORTH GONDAR
 ETHIOPIA,AMHARA,DANGILA TOWN,ETH-AMH-AWI,woreda to zone,certain,woreda of zone AWI
+ETHIOPIA,AMHARA,DANSHA,ETH-TIG-WES,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
+ETHIOPIA,AMHARA,DAWA CHEFA,ETH-AMH-ORO,name similarity,probable,closest woreda / zone name DEWACHEFFA (distance 0.20)
+ETHIOPIA,AMHARA,DAWA HAREWA,ETH-AMH-ORO,name similarity,probable,closest woreda / zone name DEWAHAREWA (distance 0.10)
 ETHIOPIA,AMHARA,DAWUNT,ETH-AMH-NWO,woreda to zone,certain,woreda of zone NORTH WELLO
 ETHIOPIA,AMHARA,DEBARK TOWN,ETH-AMH-NGR,woreda to zone,certain,woreda of zone NORTH GONDAR
+ETHIOPIA,AMHARA,DEBRE BIRHAN CITY,ETH-AMH-NSA,name similarity,probable,closest woreda / zone name DEBREBERHAN (distance 0.09)
+ETHIOPIA,AMHARA,DEBRE BIRHAN TOWN,ETH-AMH-NSA,name similarity,probable,closest woreda / zone name DEBREBERHAN (distance 0.09)
 ETHIOPIA,AMHARA,DEBRE ELIAS,ETH-AMH-EAS,woreda to zone,certain,woreda of zone EAST GOJAM
+ETHIOPIA,AMHARA,DEBRE MARKOS CITY,ETH-AMH-EAS,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
+ETHIOPIA,AMHARA,DEBRE TABOR CITY,ETH-AMH-SOU,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
+ETHIOPIA,AMHARA,DEBREMARKOS,ETH-AMH-EAS,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
 ETHIOPIA,AMHARA,DEBREMARKOS TOWN,ETH-AMH-EAS,woreda to zone,certain,woreda of zone EAST GOJAM
+ETHIOPIA,AMHARA,DEBRETABOR,ETH-AMH-SOU,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
 ETHIOPIA,AMHARA,DEBRETABOR TOWN,ETH-AMH-SOU,woreda to zone,certain,woreda of zone SOUTH GONDAR
 ETHIOPIA,AMHARA,DEGA DAMOT,ETH-AMH-WES,woreda to zone,certain,woreda of zone WEST GOJAM
 ETHIOPIA,AMHARA,DEHANA,ETH-AMH-WAG,woreda to zone,certain,woreda of zone WAG HAMRA
 ETHIOPIA,AMHARA,DEJEN,ETH-AMH-EAS,woreda to zone,certain,woreda of zone EAST GOJAM
 ETHIOPIA,AMHARA,DELANTA,ETH-AMH-SWO,woreda to zone,certain,woreda of zone SOUTH WELLO
 ETHIOPIA,AMHARA,DEMBECHA,ETH-AMH-WES,woreda to zone,certain,woreda of zone WEST GOJAM
+ETHIOPIA,AMHARA,DERA,ETH-ORO-ARS,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
+ETHIOPIA,AMHARA,DESSIE,ETH-AMH-SWO,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
+ETHIOPIA,AMHARA,DESSIE CITY,ETH-AMH-SWO,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
 ETHIOPIA,AMHARA,DESSIE TOWN,ETH-AMH-SWO,woreda to zone,certain,woreda of zone SOUTH WELLO
 ETHIOPIA,AMHARA,DESSIE ZURIA,ETH-AMH-SWO,woreda to zone,certain,woreda of zone SOUTH WELLO
 ETHIOPIA,AMHARA,EAST BELESA,ETH-AMH-CEN,woreda to zone,certain,woreda of zone CENTRAL GONDAR
 ETHIOPIA,AMHARA,EAST DEMBIA,ETH-AMH-CEN,woreda to zone,certain,woreda of zone CENTRAL GONDAR
+ETHIOPIA,AMHARA,EBINAT,ETH-AMH-SOU,name similarity,probable,closest woreda / zone name EBENAT (distance 0.17)
 ETHIOPIA,AMHARA,ENEMAY,ETH-AMH-EAS,woreda to zone,certain,woreda of zone EAST GOJAM
 ETHIOPIA,AMHARA,ENSARO,ETH-AMH-NSA,woreda to zone,certain,woreda of zone NORTH SHEWA (AM)
+ETHIOPIA,AMHARA,FAGITA LOKOMA,ETH-AMH-AWI,name similarity,probable,closest woreda / zone name FAGTALAKOMA (distance 0.17)
 ETHIOPIA,AMHARA,FARTA,ETH-AMH-SOU,woreda to zone,certain,woreda of zone SOUTH GONDAR
 ETHIOPIA,AMHARA,FINOTE SELAM TOWN,ETH-AMH-WES,woreda to zone,certain,woreda of zone WEST GOJAM
 ETHIOPIA,AMHARA,FOGERA,ETH-AMH-SOU,woreda to zone,certain,woreda of zone SOUTH GONDAR
@@ -192,14 +334,25 @@ ETHIOPIA,AMHARA,GAZGIBLA,ETH-AMH-WAG,woreda to zone,certain,woreda of zone WAG H
 ETHIOPIA,AMHARA,GAZO,ETH-AMH-NWO,woreda to zone,certain,woreda of zone NORTH WELLO
 ETHIOPIA,AMHARA,GENDAWUHA TOWN,ETH-AMH-WGR,woreda to zone,certain,woreda of zone WEST GONDAR
 ETHIOPIA,AMHARA,GIDAN,ETH-AMH-NWO,woreda to zone,certain,woreda of zone NORTH WELLO
+ETHIOPIA,AMHARA,GONDAR,ETH-AMH-CEN,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
+ETHIOPIA,AMHARA,GONDAR CITY,ETH-AMH-CEN,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
+ETHIOPIA,AMHARA,GONDAR ZURIA,ETH-AMH-CEN,name similarity,probable,closest woreda / zone name GONDERZURIA (distance 0.09)
+ETHIOPIA,AMHARA,GONDER CITY,ETH-AMH-CEN,name similarity,probable,closest woreda / zone name GONDAR (distance 0.17)
+ETHIOPIA,AMHARA,GONDER TOWN,ETH-AMH-CEN,name similarity,probable,closest woreda / zone name GONDAR (distance 0.17)
+ETHIOPIA,AMHARA,GUAGUSA SHEKUDAD,ETH-AMH-AWI,name similarity,probable,closest woreda / zone name GUAGUSASHIKUDAD (distance 0.07)
 ETHIOPIA,AMHARA,GUANGUA,ETH-AMH-AWI,woreda to zone,certain,woreda of zone AWI
+ETHIOPIA,AMHARA,GUBALAFTU,ETH-AMH-NWO,name similarity,probable,closest woreda / zone name GUBALAFTO (distance 0.11)
+ETHIOPIA,AMHARA,GUNA BEGEMIDIR,ETH-AMH-SOU,name similarity,probable,closest woreda / zone name GUNABEGEMIDER (distance 0.08)
 ETHIOPIA,AMHARA,HABRU,ETH-AMH-NWO,woreda to zone,certain,woreda of zone NORTH WELLO
 ETHIOPIA,AMHARA,HAGERE MARIAM,ETH-AMH-NSA,woreda to zone,certain,woreda of zone NORTH SHEWA (AM)
 ETHIOPIA,AMHARA,INJIBARA TOWN,ETH-AMH-AWI,woreda to zone,certain,woreda of zone AWI
 ETHIOPIA,AMHARA,JABI TEHNAN,ETH-AMH-WES,woreda to zone,certain,woreda of zone WEST GOJAM
 ETHIOPIA,AMHARA,JANAMORA,ETH-AMH-NGR,woreda to zone,certain,woreda of zone NORTH GONDAR
 ETHIOPIA,AMHARA,JAWI,ETH-AMH-AWI,woreda to zone,certain,woreda of zone AWI
+ETHIOPIA,AMHARA,JILE TIMUGA,ETH-AMH-ORO,name similarity,probable,closest woreda / zone name JILYETUMUGA (distance 0.18)
 ETHIOPIA,AMHARA,KAFTA HUMERA,ETH-TIG-WES,woreda to zone,certain,woreda of zone WESTERN
+ETHIOPIA,AMHARA,KELLALA,ETH-AMH-SWO,name similarity,probable,closest woreda / zone name KELALA (distance 0.14)
+ETHIOPIA,AMHARA,KEMISE TOWN,ETH-AMH-ORO,name similarity,probable,closest woreda / zone name KEMISIE (distance 0.14)
 ETHIOPIA,AMHARA,KINFAZ BEGELA,ETH-AMH-CEN,woreda to zone,certain,woreda of zone CENTRAL GONDAR
 ETHIOPIA,AMHARA,KOBO TOWN,ETH-AMH-NWO,woreda to zone,certain,woreda of zone NORTH WELLO
 ETHIOPIA,AMHARA,KOMBOLCHA,ETH-ORO-EHE,woreda to zone,certain,woreda of zone EAST HARARGE
@@ -211,122 +364,218 @@ ETHIOPIA,AMHARA,LAY ARMACHO,ETH-AMH-CEN,woreda to zone,certain,woreda of zone CE
 ETHIOPIA,AMHARA,LAY GAYINT,ETH-AMH-SOU,woreda to zone,certain,woreda of zone SOUTH GONDAR
 ETHIOPIA,AMHARA,LEGAMBO,ETH-AMH-SWO,woreda to zone,certain,woreda of zone SOUTH WELLO
 ETHIOPIA,AMHARA,LEGEHIDA,ETH-AMH-SWO,woreda to zone,certain,woreda of zone SOUTH WELLO
+ETHIOPIA,AMHARA,LIBO KEMKEM,ETH-AMH-SOU,name similarity,probable,closest woreda / zone name LIBOKEMEKEM (distance 0.09)
+ETHIOPIA,AMHARA,MACHAKEL,ETH-AMH-EAS,name similarity,probable,closest woreda / zone name MICHAKEL (distance 0.12)
 ETHIOPIA,AMHARA,MEHAL SAYINT,ETH-AMH-SWO,woreda to zone,certain,woreda of zone SOUTH WELLO
+ETHIOPIA,AMHARA,MEKDELLA,ETH-AMH-SWO,name similarity,probable,closest woreda / zone name MEKDELA (distance 0.12)
+ETHIOPIA,AMHARA,MEKIET,ETH-AMH-NWO,name similarity,probable,closest woreda / zone name MEKET (distance 0.17)
 ETHIOPIA,AMHARA,MERHABETE,ETH-AMH-NSA,woreda to zone,certain,woreda of zone NORTH SHEWA (AM)
+ETHIOPIA,AMHARA,METEMA WOREDA,ETH-AMH-WGR,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
 ETHIOPIA,AMHARA,MIDA WOREMO,ETH-AMH-NSA,woreda to zone,certain,woreda of zone NORTH SHEWA (AM)
 ETHIOPIA,AMHARA,MINJAR SHENKORA,ETH-AMH-NSA,woreda to zone,certain,woreda of zone NORTH SHEWA (AM)
+ETHIOPIA,AMHARA,MOJANA WEDERA,ETH-AMH-NSA,name similarity,probable,closest woreda / zone name MOJANWEDERA (distance 0.08)
 ETHIOPIA,AMHARA,MORETNA JIRU,ETH-AMH-NSA,woreda to zone,certain,woreda of zone NORTH SHEWA (AM)
+ETHIOPIA,AMHARA,MYTSEBRY TOWN,ETH-TIG-NOR,name similarity,probable,closest woreda / zone name MAYTSEBRI (distance 0.22)
 ETHIOPIA,AMHARA,NORTH_SHEWA,ETH-AMH-NSA,manual,certain,manual decision (ok): North Shewa in Amhara
+ETHIOPIA,AMHARA,OROMIA SPECIAL,ETH-AMH-ORO,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
+ETHIOPIA,AMHARA,OROMIA SPECIAL ZONE,ETH-AMH-ORO,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
+ETHIOPIA,AMHARA,QUARA WOREDA,ETH-AMH-WGR,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
 ETHIOPIA,AMHARA,QUARIT,ETH-AMH-WES,woreda to zone,certain,woreda of zone WEST GOJAM
 ETHIOPIA,AMHARA,RAYA KOBO,ETH-AMH-NWO,woreda to zone,certain,woreda of zone NORTH WELLO
 ETHIOPIA,AMHARA,SAYINT,ETH-AMH-SWO,woreda to zone,certain,woreda of zone SOUTH WELLO
+ETHIOPIA,AMHARA,SEDIE MUJA,ETH-AMH-SOU,name similarity,probable,closest woreda / zone name SEDEMUJA (distance 0.11)
+ETHIOPIA,AMHARA,SEHALA,ETH-ORO-WES,name similarity,probable,closest woreda / zone name SHALA (distance 0.17)
 ETHIOPIA,AMHARA,SEKELA,ETH-AMH-WES,woreda to zone,certain,woreda of zone WEST GOJAM
 ETHIOPIA,AMHARA,SEKOTA TOWN,ETH-AMH-WAG,woreda to zone,certain,woreda of zone WAG HAMRA
+ETHIOPIA,AMHARA,SETIT HUMERA,ETH-TIG-WES,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
+ETHIOPIA,AMHARA,SIMADA,ETH-AMH-SOU,name similarity,probable,closest woreda / zone name SEMADA (distance 0.17)
+ETHIOPIA,AMHARA,SIYADEBRINA WAYU,ETH-AMH-NSA,name similarity,probable,closest woreda / zone name SIYADEBIRNAWAYU (distance 0.13)
 ETHIOPIA,AMHARA,TACH ARMACHO,ETH-AMH-CEN,woreda to zone,certain,woreda of zone CENTRAL GONDAR
 ETHIOPIA,AMHARA,TACH GAYINT,ETH-AMH-SOU,woreda to zone,certain,woreda of zone SOUTH GONDAR
 ETHIOPIA,AMHARA,TAKUSA,ETH-AMH-CEN,woreda to zone,certain,woreda of zone CENTRAL GONDAR
+ETHIOPIA,AMHARA,TARMABER,ETH-AMH-NSA,name similarity,probable,closest woreda / zone name TAREMABER (distance 0.11)
 ETHIOPIA,AMHARA,TEGEDE,ETH-AMH-CEN,woreda to zone,certain,woreda of zone CENTRAL GONDAR
+ETHIOPIA,AMHARA,TEGEDIE,ETH-AMH-CEN,name similarity,probable,closest woreda / zone name TEGEDE (distance 0.14)
+ETHIOPIA,AMHARA,TEHULEDERIE,ETH-AMH-SWO,name similarity,probable,closest woreda / zone name THEHULEDERIE (distance 0.08)
 ETHIOPIA,AMHARA,TELEMT,ETH-AMH-NGR,woreda to zone,certain,woreda of zone NORTH GONDAR
 ETHIOPIA,AMHARA,TENTA,ETH-AMH-SWO,woreda to zone,certain,woreda of zone SOUTH WELLO
-ETHIOPIA,AMHARA,WAGHEMIRA,ETH-AMH-WAG,name similarity,probable,closest name AMHARA / WAG HAMRA (distance 0.22)
-ETHIOPIA,AMHARA,WAGHIMERA,ETH-AMH-WAG,name similarity,probable,closest name AMHARA / WAG HAMRA (distance 0.22)
+ETHIOPIA,AMHARA,TSAGBIJI,ETH-AMH-WAG,name similarity,probable,closest woreda / zone name TSAGBEJI (distance 0.12)
+ETHIOPIA,AMHARA,TSAGIBJI,ETH-AMH-WAG,name similarity,probable,closest woreda / zone name TSAGBEJI (distance 0.25)
+ETHIOPIA,AMHARA,WADILA,ETH-AMH-NWO,name similarity,probable,closest woreda / zone name WADLA (distance 0.17)
+ETHIOPIA,AMHARA,WAGHEMIRA,ETH-AMH-WAG,name similarity,probable,closest woreda / zone name WAGHAMRA (distance 0.22)
+ETHIOPIA,AMHARA,WAGHIMERA,ETH-AMH-WAG,name similarity,probable,closest woreda / zone name WAGHAMRA (distance 0.22)
 ETHIOPIA,AMHARA,WELKAIT,ETH-TIG-WES,woreda to zone,certain,woreda of zone WESTERN
 ETHIOPIA,AMHARA,WEST BELESA,ETH-AMH-CEN,woreda to zone,certain,woreda of zone CENTRAL GONDAR
+ETHIOPIA,AMHARA,WEST DEMBIA,ETH-AMH-CEN,name similarity,probable,closest woreda / zone name WESTDEMBIYA (distance 0.09)
+ETHIOPIA,AMHARA,WOLDIA CITY,ETH-AMH-NWO,name similarity,probable,closest woreda / zone name WOLDIYA (distance 0.14)
+ETHIOPIA,AMHARA,WOLDIYA CITY,ETH-AMH-NWO,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
 ETHIOPIA,AMHARA,WOLDIYA TOWN,ETH-AMH-NWO,woreda to zone,certain,woreda of zone NORTH WELLO
+ETHIOPIA,AMHARA,WOLKAIT,ETH-TIG-WES,name similarity,probable,closest woreda / zone name WELKAIT (distance 0.14)
+ETHIOPIA,AMHARA,WOMBERMA,ETH-AMH-WES,name similarity,probable,closest woreda / zone name WEMBERMA (distance 0.12)
+ETHIOPIA,AMHARA,WOREBABO,ETH-AMH-SWO,name similarity,probable,closest woreda / zone name WOREBABU (distance 0.12)
+ETHIOPIA,AMHARA,WOREILLU,ETH-AMH-SWO,name similarity,probable,closest woreda / zone name WEREILU (distance 0.25)
+ETHIOPIA,AMHARA,WORETA,ETH-AMH-SOU,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
+ETHIOPIA,AMHARA,YILIMANA DIENSA,ETH-AMH-NOR,name similarity,probable,closest woreda / zone name YILMANADENSA (distance 0.14)
+ETHIOPIA,AMHARA,ZIGEM,ETH-AMH-AWI,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
+ETHIOPIA,AMHARA,ZIQUALA,ETH-AMH-WAG,name similarity,probable,closest woreda / zone name ZEQUALA (distance 0.14)
+ETHIOPIA,B/GUMUZ,METEKEL ZONE,ETH-BGZ-MET,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
+ETHIOPIA,BENISHANGUL,MAOKOMO SP,ETH-BGZ-MAO,name similarity,probable,closest woreda / zone name MAOKOMO (distance 0.22)
 ETHIOPIA,BENISHANGUL GUMUZ,ABRAHMO,ETH-BGZ-ASS,woreda to zone,certain,woreda of zone ASSOSA
 ETHIOPIA,BENISHANGUL GUMUZ,ASOSA,ETH-BGZ-ASS,old shape,probable,"old shape falls inside this unit (p=0.98, overlap 0.737)"
 ETHIOPIA,BENISHANGUL GUMUZ,BAMBASI,ETH-BGZ-ASS,woreda to zone,certain,woreda of zone ASSOSA
+ETHIOPIA,BENISHANGUL GUMUZ,BILDIGLU,ETH-BGZ-ASS,name similarity,probable,closest woreda / zone name BILIDIGILU (distance 0.20)
+ETHIOPIA,BENISHANGUL GUMUZ,BULLEN,ETH-BGZ-MET,name similarity,probable,closest woreda / zone name BULEN (distance 0.17)
 ETHIOPIA,BENISHANGUL GUMUZ,DANGUR,ETH-BGZ-MET,woreda to zone,certain,woreda of zone METEKEL
 ETHIOPIA,BENISHANGUL GUMUZ,DIBATE,ETH-BGZ-MET,woreda to zone,certain,woreda of zone METEKEL
 ETHIOPIA,BENISHANGUL GUMUZ,GUBA,ETH-BGZ-MET,woreda to zone,certain,woreda of zone METEKEL
 ETHIOPIA,BENISHANGUL GUMUZ,HOMOSHA,ETH-BGZ-ASS,woreda to zone,certain,woreda of zone ASSOSA
 ETHIOPIA,BENISHANGUL GUMUZ,KURMUK,ETH-BGZ-ASS,woreda to zone,certain,woreda of zone ASSOSA
 ETHIOPIA,BENISHANGUL GUMUZ,MANDURA,ETH-BGZ-MET,woreda to zone,certain,woreda of zone METEKEL
+ETHIOPIA,BENISHANGUL GUMUZ,MAOKOMO SP.,ETH-BGZ-MAO,name similarity,probable,closest woreda / zone name MAOKOMO (distance 0.22)
 ETHIOPIA,BENISHANGUL GUMUZ,MENGE,ETH-BGZ-ASS,woreda to zone,certain,woreda of zone ASSOSA
 ETHIOPIA,BENISHANGUL GUMUZ,PAWE,ETH-BGZ-MET,woreda to zone,certain,woreda of zone METEKEL
 ETHIOPIA,BENISHANGUL GUMUZ,SEDAL,ETH-BGZ-KAM,woreda to zone,certain,woreda of zone KAMASHI
+ETHIOPIA,BENISHANGUL GUMUZ,SHERKOLLE,ETH-BGZ-ASS,name similarity,probable,closest woreda / zone name SHERKOLE (distance 0.11)
+ETHIOPIA,BENISHANGUL GUMUZ,UNDULLU,ETH-BGZ-ASS,name similarity,probable,closest woreda / zone name UNDULU (distance 0.14)
 ETHIOPIA,BENSHANGUL GUMUZ,ABRAHMO,ETH-BGZ-ASS,woreda to zone,certain,woreda of zone ASSOSA
 ETHIOPIA,BENSHANGUL GUMUZ,BAMBASI,ETH-BGZ-ASS,woreda to zone,certain,woreda of zone ASSOSA
+ETHIOPIA,BENSHANGUL GUMUZ,BILDIGLU,ETH-BGZ-ASS,name similarity,probable,closest woreda / zone name BILIDIGILU (distance 0.20)
+ETHIOPIA,BENSHANGUL GUMUZ,BULLEN,ETH-BGZ-MET,name similarity,probable,closest woreda / zone name BULEN (distance 0.17)
 ETHIOPIA,BENSHANGUL GUMUZ,DANGUR,ETH-BGZ-MET,woreda to zone,certain,woreda of zone METEKEL
 ETHIOPIA,BENSHANGUL GUMUZ,DIBATE,ETH-BGZ-MET,woreda to zone,certain,woreda of zone METEKEL
 ETHIOPIA,BENSHANGUL GUMUZ,GUBA,ETH-BGZ-MET,woreda to zone,certain,woreda of zone METEKEL
 ETHIOPIA,BENSHANGUL GUMUZ,HOMOSHA,ETH-BGZ-ASS,woreda to zone,certain,woreda of zone ASSOSA
 ETHIOPIA,BENSHANGUL GUMUZ,KURMUK,ETH-BGZ-ASS,woreda to zone,certain,woreda of zone ASSOSA
 ETHIOPIA,BENSHANGUL GUMUZ,MANDURA,ETH-BGZ-MET,woreda to zone,certain,woreda of zone METEKEL
+ETHIOPIA,BENSHANGUL GUMUZ,MAOKOMO SP.,ETH-BGZ-MAO,name similarity,probable,closest woreda / zone name MAOKOMO (distance 0.22)
 ETHIOPIA,BENSHANGUL GUMUZ,MENGE,ETH-BGZ-ASS,woreda to zone,certain,woreda of zone ASSOSA
 ETHIOPIA,BENSHANGUL GUMUZ,PAWE,ETH-BGZ-MET,woreda to zone,certain,woreda of zone METEKEL
 ETHIOPIA,BENSHANGUL GUMUZ,SEDAL,ETH-BGZ-KAM,woreda to zone,certain,woreda of zone KAMASHI
+ETHIOPIA,BENSHANGUL GUMUZ,SHERKOLLE,ETH-BGZ-ASS,name similarity,probable,closest woreda / zone name SHERKOLE (distance 0.11)
+ETHIOPIA,BENSHANGUL GUMUZ,UNDULLU,ETH-BGZ-ASS,name similarity,probable,closest woreda / zone name UNDULU (distance 0.14)
 ETHIOPIA,BG,ASOSA,ETH-BGZ-ASS,old shape,probable,"old shape falls inside this unit (p=0.95, overlap 0.737)"
-ETHIOPIA,CENTERAL ETHIOPIA,MAREKO SP/WO,ETH-CEN-MAR,name similarity,probable,closest name CENTRAL ETHIOPIA / MAREKO SP WOREDA (distance 0.29)
+ETHIOPIA,BG,MAOKOMO SP,ETH-BGZ-MAO,name similarity,probable,closest woreda / zone name MAOKOMO (distance 0.22)
+ETHIOPIA,CENTERAL ETHIOPIA,MAREKO SP/WO,ETH-CEN-MAR,name similarity,probable,closest woreda / zone name MAREKOSP (distance 0.20)
 ETHIOPIA,CENTERAL ETHIOPIA,SILTE,ETH-CEN-SIL,old shape,probable,"old shape falls inside this unit (p=0.99, overlap 0.945)"
+ETHIOPIA,CENTERAL ETHIOPIA,TEMBARO SW,ETH-CEN-TEM,name similarity,probable,closest woreda / zone name TEMBAROSP (distance 0.11)
+ETHIOPIA,CENTRAL ETHIOPIA,ABESHGE,ETH-CEN-GUR,name similarity,probable,closest woreda / zone name ABESHEGE (distance 0.12)
+ETHIOPIA,CENTRAL ETHIOPIA,ALICHO WIRIRO,ETH-CEN-SIL,name similarity,probable,closest woreda / zone name ALICHOWORIRO (distance 0.08)
 ETHIOPIA,CENTRAL ETHIOPIA,AMEKA,ETH-CEN-HAD,woreda to zone,certain,woreda of zone HADIYA
+ETHIOPIA,CENTRAL ETHIOPIA,AMEKA WOREDA,ETH-CEN-HAD,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
+ETHIOPIA,CENTRAL ETHIOPIA,ANALEMO,ETH-CEN-HAD,name similarity,probable,closest woreda / zone name ANALEMMO (distance 0.12)
+ETHIOPIA,CENTRAL ETHIOPIA,ANGECHA TOWN,ETH-CEN-KEM,name similarity,probable,closest woreda / zone name ANGACHA (distance 0.14)
+ETHIOPIA,CENTRAL ETHIOPIA,ANN LEMO WOREDA,ETH-CEN-HAD,name similarity,probable,closest woreda / zone name ANALEMMO (distance 0.25)
+ETHIOPIA,CENTRAL ETHIOPIA,ATOTI ULLO,ETH-CEN-HAL,name similarity,probable,closest woreda / zone name ATOTEULO (distance 0.22)
+ETHIOPIA,CENTRAL ETHIOPIA,BUTAJERA,ETH-CEN-EAS,name similarity,probable,closest woreda / zone name BUTAJIRA (distance 0.12)
 ETHIOPIA,CENTRAL ETHIOPIA,CHEHA,ETH-CEN-GUR,woreda to zone,certain,woreda of zone GURAGHE
 ETHIOPIA,CENTRAL ETHIOPIA,DALOCHA,ETH-CEN-SIL,woreda to zone,certain,woreda of zone SILTIE
+ETHIOPIA,CENTRAL ETHIOPIA,DALOCHA TOWN,ETH-CEN-SIL,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
+ETHIOPIA,CENTRAL ETHIOPIA,DAMBOYA TOWN,ETH-CEN-KEM,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
 ETHIOPIA,CENTRAL ETHIOPIA,DEBUB SODO,ETH-CEN-EAS,woreda to zone,certain,woreda of zone EAST GURAGHE
+ETHIOPIA,CENTRAL ETHIOPIA,DOYOGENA TOWN,ETH-CEN-KEM,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
 ETHIOPIA,CENTRAL ETHIOPIA,DUNA,ETH-CEN-HAD,woreda to zone,certain,woreda of zone HADIYA
+ETHIOPIA,CENTRAL ETHIOPIA,DUNA WOREDA,ETH-CEN-HAD,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
 ETHIOPIA,CENTRAL ETHIOPIA,DURAME TOWN,ETH-CEN-KEM,woreda to zone,certain,woreda of zone KEMBATA
+ETHIOPIA,CENTRAL ETHIOPIA,ENIDGUAGN,ETH-CEN-GUR,name similarity,probable,closest woreda / zone name ENDIGUAGN (distance 0.22)
 ETHIOPIA,CENTRAL ETHIOPIA,EZHA,ETH-CEN-GUR,woreda to zone,certain,woreda of zone GURAGHE
+ETHIOPIA,CENTRAL ETHIOPIA,GEDEBANO GUTAZER WOLENE,ETH-CEN-GUR,name similarity,probable,closest woreda / zone name GEDEBANOGUTAZERWELENE (distance 0.05)
 ETHIOPIA,CENTRAL ETHIOPIA,GETA,ETH-CEN-GUR,woreda to zone,certain,woreda of zone GURAGHE
 ETHIOPIA,CENTRAL ETHIOPIA,GIBE,ETH-CEN-HAD,woreda to zone,certain,woreda of zone HADIYA
+ETHIOPIA,CENTRAL ETHIOPIA,GIBE WOREDA,ETH-CEN-HAD,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
 ETHIOPIA,CENTRAL ETHIOPIA,GIMBICHU,ETH-ORO-ESA,woreda to zone,certain,woreda of zone EAST SHEWA
 ETHIOPIA,CENTRAL ETHIOPIA,GOMBORA,ETH-CEN-HAD,woreda to zone,certain,woreda of zone HADIYA
+ETHIOPIA,CENTRAL ETHIOPIA,GOMBORA WOREDA,ETH-CEN-HAD,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
 ETHIOPIA,CENTRAL ETHIOPIA,GUMER,ETH-CEN-GUR,woreda to zone,certain,woreda of zone GURAGHE
+ETHIOPIA,CENTRAL ETHIOPIA,HADERO TUNTO ZU,ETH-CEN-KEM,name similarity,probable,closest woreda / zone name HADEROTUNTO (distance 0.15)
 ETHIOPIA,CENTRAL ETHIOPIA,HADEROTOWN,ETH-CEN-KEM,woreda to zone,certain,woreda of zone KEMBATA
 ETHIOPIA,CENTRAL ETHIOPIA,HOSAENA TOWN,ETH-CEN-HAD,woreda to zone,certain,woreda of zone HADIYA
+ETHIOPIA,CENTRAL ETHIOPIA,HULBAREG,ETH-CEN-SIL,name similarity,probable,closest woreda / zone name WULBAREG (distance 0.12)
+ETHIOPIA,CENTRAL ETHIOPIA,JAJURA,ETH-CEN-HAD,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
 ETHIOPIA,CENTRAL ETHIOPIA,JAJURA TOWN,ETH-CEN-HAD,woreda to zone,certain,woreda of zone HADIYA
 ETHIOPIA,CENTRAL ETHIOPIA,KIBET TOWN,ETH-CEN-SIL,woreda to zone,certain,woreda of zone SILTIE
+ETHIOPIA,CENTRAL ETHIOPIA,KULITO,ETH-CEN-HAL,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
 ETHIOPIA,CENTRAL ETHIOPIA,KULITO TOWN,ETH-CEN-HAL,woreda to zone,certain,woreda of zone HALABA
+ETHIOPIA,CENTRAL ETHIOPIA,LANFURO,ETH-CEN-SIL,name similarity,probable,closest woreda / zone name LANFERO (distance 0.14)
 ETHIOPIA,CENTRAL ETHIOPIA,MESKAN,ETH-CEN-EAS,woreda to zone,certain,woreda of zone EAST GURAGHE
+ETHIOPIA,CENTRAL ETHIOPIA,MESQAN,ETH-CEN-EAS,name similarity,probable,closest woreda / zone name MESKAN (distance 0.17)
+ETHIOPIA,CENTRAL ETHIOPIA,MIHUR AKLIL,ETH-CEN-GUR,name similarity,probable,closest woreda / zone name MUHURNAAKLIL (distance 0.25)
 ETHIOPIA,CENTRAL ETHIOPIA,MIRAB SORO,ETH-CEN-HAD,woreda to zone,certain,woreda of zone HADIYA
+ETHIOPIA,CENTRAL ETHIOPIA,MIRAB SORO WOREDA,ETH-CEN-HAD,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
 ETHIOPIA,CENTRAL ETHIOPIA,MISHA,ETH-CEN-HAD,woreda to zone,certain,woreda of zone HADIYA
+ETHIOPIA,CENTRAL ETHIOPIA,MISRAQ MESKAN,ETH-CEN-EAS,name similarity,probable,closest woreda / zone name MISRAKMESKAN (distance 0.08)
+ETHIOPIA,CENTRAL ETHIOPIA,MISRAQ MESQAN,ETH-CEN-EAS,name similarity,probable,closest woreda / zone name MISRAKMESKAN (distance 0.17)
 ETHIOPIA,CENTRAL ETHIOPIA,SANKURA,ETH-CEN-SIL,woreda to zone,certain,woreda of zone SILTIE
+ETHIOPIA,CENTRAL ETHIOPIA,SHASHEGO,ETH-CEN-HAD,name similarity,probable,closest woreda / zone name SHASHOGO (distance 0.12)
+ETHIOPIA,CENTRAL ETHIOPIA,SHASHOGO WOREDA,ETH-CEN-HAD,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
+ETHIOPIA,CENTRAL ETHIOPIA,SHINSHICHO TOWN,ETH-CEN-KEM,name similarity,probable,closest woreda / zone name SHINSHINCHO (distance 0.09)
+ETHIOPIA,CENTRAL ETHIOPIA,SHONE,ETH-CEN-HAD,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
 ETHIOPIA,CENTRAL ETHIOPIA,SHONE TOWN,ETH-CEN-HAD,woreda to zone,certain,woreda of zone HADIYA
 ETHIOPIA,CENTRAL ETHIOPIA,SILTE,ETH-CEN-SIL,old shape,probable,"old shape falls inside this unit (p=1.00, overlap 0.945)"
-ETHIOPIA,CENTRAL ETHIOPIA,SILTI,ETH-CEN-SIL,name similarity,probable,closest name CENTRAL ETHIOPIA / SILTIE (distance 0.17)
+ETHIOPIA,CENTRAL ETHIOPIA,SIRARO BADEWACHO,ETH-CEN-HAD,name similarity,probable,closest woreda / zone name SIRAROBADAWACHO (distance 0.07)
 ETHIOPIA,CENTRAL ETHIOPIA,SODO,ETH-CEN-EAS,woreda to zone,certain,woreda of zone EAST GURAGHE
 ETHIOPIA,CENTRAL ETHIOPIA,SORO,ETH-CEN-HAD,woreda to zone,certain,woreda of zone HADIYA
+ETHIOPIA,CENTRAL ETHIOPIA,SORO WOREDA,ETH-CEN-HAD,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
+ETHIOPIA,CENTRAL ETHIOPIA,TEMBARO,ETH-CEN-TEM,name similarity,probable,closest woreda / zone name TEMBAROSP (distance 0.22)
+ETHIOPIA,CENTRAL ETHIOPIA,TEMBARO SW,ETH-CEN-TEM,name similarity,probable,closest woreda / zone name TEMBAROSP (distance 0.11)
 ETHIOPIA,CENTRAL ETHIOPIA,TORA TOWN,ETH-CEN-SIL,woreda to zone,certain,woreda of zone SILTIE
+ETHIOPIA,CENTRAL ETHIOPIA,WELKITE TOWN AD.,ETH-CEN-GUR,name similarity,probable,closest woreda / zone name WELKITE (distance 0.22)
 ETHIOPIA,CENTRAL ETHIOPIA,WERA,ETH-CEN-HAL,woreda to zone,certain,woreda of zone HALABA
+ETHIOPIA,CENTRAL ETHIOPIA,WERA DIJO,ETH-CEN-HAL,name similarity,probable,closest woreda / zone name WERADJO (distance 0.12)
 ETHIOPIA,CENTRAL ETHIOPIA,WORABE TOWN,ETH-CEN-SIL,woreda to zone,certain,woreda of zone SILTIE
+ETHIOPIA,DIRE DAWA,ADDIS KETEMA,ETH-ADD-REG,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
+ETHIOPIA,DIRE DAWA,ADIS KETEMA,ETH-ADD-REG,name similarity,probable,closest woreda / zone name ADDISKETEMA (distance 0.09)
 ETHIOPIA,DIRE DAWA,BIYO AWALE,ETH-DIR-DIR,woreda to zone,certain,woreda of zone DIRE DAWA RURAL
 ETHIOPIA,DIRE DAWA,GENDE KORE,ETH-DIR-DDU,woreda to zone,certain,woreda of zone DIRE DAWA URBAN
 ETHIOPIA,DIRE DAWA,JELDESSA,ETH-DIR-DIR,woreda to zone,certain,woreda of zone DIRE DAWA RURAL
+ETHIOPIA,DIRE DAWA,LEGAHARE,ETH-DIR-DDU,name similarity,probable,closest woreda / zone name LEGEHARE (distance 0.12)
 ETHIOPIA,DIRE DAWA,LEGEHARE,ETH-DIR-DDU,woreda to zone,certain,woreda of zone DIRE DAWA URBAN
 ETHIOPIA,DIRE DAWA,SABIAN,ETH-DIR-DDU,woreda to zone,certain,woreda of zone DIRE DAWA URBAN
 ETHIOPIA,DIRE DAWA,WAHIL,ETH-DIR-DIR,woreda to zone,certain,woreda of zone DIRE DAWA RURAL
+ETHIOPIA,GAMBELA,GAMBELLA TOWN,ETH-GAM-AGN,name similarity,probable,closest woreda / zone name GAMBELA (distance 0.12)
 ETHIOPIA,GAMBELLA,ABOBO,ETH-GAM-AGN,woreda to zone,certain,woreda of zone AGNEWAK
 ETHIOPIA,GAMBELLA,AGNIWA,ETH-GAM-AGN,old shape,probable,"old shape falls inside this unit (p=0.97, overlap 0.915)"
-ETHIOPIA,GAMBELLA,AGNUAK,ETH-GAM-AGN,name similarity,probable,closest name GAMBELA / AGNEWAK (distance 0.29)
 ETHIOPIA,GAMBELLA,AKOBO,ETH-GAM-NUW,woreda to zone,certain,woreda of zone NUWER
-ETHIOPIA,GAMBELLA,DIMMA,ETH-ORO-JIM,name similarity,probable,closest name OROMIA / JIMMA (distance 0.20)
+ETHIOPIA,GAMBELLA,GAMBELLA,ETH-GAM-AGN,name similarity,probable,closest woreda / zone name GAMBELA (distance 0.12)
+ETHIOPIA,GAMBELLA,GAMBELLA TOWN,ETH-GAM-AGN,name similarity,probable,closest woreda / zone name GAMBELA (distance 0.12)
+ETHIOPIA,GAMBELLA,GAMBELLA ZURIA,ETH-GAM-AGN,name similarity,probable,closest woreda / zone name GAMBELAZURIA (distance 0.08)
 ETHIOPIA,GAMBELLA,GODERE,ETH-GAM-MAJ,woreda to zone,certain,woreda of zone MAJANG
 ETHIOPIA,GAMBELLA,GOG,ETH-GAM-AGN,woreda to zone,certain,woreda of zone AGNEWAK
 ETHIOPIA,GAMBELLA,ITANG,ETH-GAM-ITA,woreda to zone,certain,woreda of zone ITANG SPECIAL WOREDA
 ETHIOPIA,GAMBELLA,JIKAWO,ETH-GAM-NUW,woreda to zone,certain,woreda of zone NUWER
 ETHIOPIA,GAMBELLA,LARE,ETH-GAM-NUW,woreda to zone,certain,woreda of zone NUWER
 ETHIOPIA,GAMBELLA,MAKUEY,ETH-GAM-NUW,woreda to zone,certain,woreda of zone NUWER
+ETHIOPIA,GAMBELLA,MENGESHI,ETH-GAM-MAJ,name similarity,probable,closest woreda / zone name MENGESH (distance 0.12)
 ETHIOPIA,GAMBELLA,NUER,ETH-GAM-NUW,old shape,probable,"old shape falls inside this unit (p=0.97, overlap 0.838)"
 ETHIOPIA,HARARI,ABADIR,ETH-HAR-HAR,woreda to zone,certain,woreda of zone HARARI
 ETHIOPIA,HARARI,ABOKER,ETH-HAR-HAR,woreda to zone,certain,woreda of zone HARARI
 ETHIOPIA,HARARI,AMIRNUR,ETH-HAR-HAR,woreda to zone,certain,woreda of zone HARARI
 ETHIOPIA,HARARI,DIRETEYARA,ETH-HAR-HAR,woreda to zone,certain,woreda of zone HARARI
 ETHIOPIA,HARARI,HAKIM,ETH-HAR-HAR,woreda to zone,certain,woreda of zone HARARI
+ETHIOPIA,HARARI,JENELA,ETH-HAR-HAR,name similarity,probable,closest woreda / zone name JINELA (distance 0.17)
 ETHIOPIA,HARARI,SHENKOR,ETH-HAR-HAR,woreda to zone,certain,woreda of zone HARARI
 ETHIOPIA,HARARI,SOFI,ETH-HAR-HAR,woreda to zone,certain,woreda of zone HARARI
-ETHIOPIA,HARERI,HARERI,ETH-HAR-HAR,name similarity,probable,closest name HARARI / HARARI (distance 0.17)
+ETHIOPIA,HARERI,HARERI,ETH-HAR-HAR,name similarity,probable,closest woreda / zone name HARARI (distance 0.17)
 ETHIOPIA,OROMIA,ABAY CHOMEN,ETH-ORO-HOR,woreda to zone,certain,woreda of zone HORO GUDRU WELLEGA
 ETHIOPIA,OROMIA,ABAYA,ETH-ORO-WGI,woreda to zone,certain,woreda of zone WEST GUJI
 ETHIOPIA,OROMIA,ABE DONGORO,ETH-ORO-HOR,woreda to zone,certain,woreda of zone HORO GUDRU WELLEGA
+ETHIOPIA,OROMIA,ABICHU GNEA,ETH-ORO-NOR,name similarity,probable,closest woreda / zone name ABICHUGNAGNEA (distance 0.23)
 ETHIOPIA,OROMIA,ABUNA GINDEBERET,ETH-ORO-WSA,woreda to zone,certain,woreda of zone WEST SHEWA
+ETHIOPIA,OROMIA,ABUNA GINDEBERT,ETH-ORO-WSA,name similarity,probable,closest woreda / zone name ABUNAGINDEBERET (distance 0.07)
 ETHIOPIA,OROMIA,ADABA,ETH-ORO-WES,woreda to zone,certain,woreda of zone WEST ARSI
 ETHIOPIA,OROMIA,ADAMA,ETH-ORO-ESA,woreda to zone,certain,woreda of zone EAST SHEWA
+ETHIOPIA,OROMIA,ADAMA CITY,ETH-ORO-ESA,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
+ETHIOPIA,OROMIA,ADAMA T.,ETH-ORO-ESA,name similarity,probable,closest woreda / zone name ADAMA (distance 0.17)
+ETHIOPIA,OROMIA,ADAMI TULU JIDO KOMBOLICHA,ETH-ORO-ESA,name similarity,probable,closest woreda / zone name ADAMATULUJIDOKOMBOLCHA (distance 0.09)
+ETHIOPIA,OROMIA,ADEA BERGA,ETH-ORO-WSA,name similarity,probable,closest woreda / zone name ADDABERGA (distance 0.11)
 ETHIOPIA,OROMIA,ADOLA TOWN,ETH-ORO-GUJ,woreda to zone,certain,woreda of zone GUJI
+ETHIOPIA,OROMIA,AGA WOYU,ETH-ORO-GUJ,name similarity,probable,closest woreda / zone name AGAWAYU (distance 0.14)
 ETHIOPIA,OROMIA,AGARFA,ETH-ORO-BAL,woreda to zone,certain,woreda of zone BALE
 ETHIOPIA,OROMIA,AGARO TOWN,ETH-ORO-JIM,woreda to zone,certain,woreda of zone JIMMA
 ETHIOPIA,OROMIA,AKAKI,ETH-ORO-ESA,woreda to zone,certain,woreda of zone EAST SHEWA
 ETHIOPIA,OROMIA,ALE,ETH-ORO-ILU,woreda to zone,certain,woreda of zone ILU ABA BORA
 ETHIOPIA,OROMIA,ALELTU,ETH-ORO-NOR,woreda to zone,certain,woreda of zone NORTH SHEWA (OR)
 ETHIOPIA,OROMIA,ALGE SACHI,ETH-ORO-ILU,woreda to zone,certain,woreda of zone ILU ABA BORA
+ETHIOPIA,OROMIA,AMBO,ETH-ORO-WSA,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
 ETHIOPIA,OROMIA,AMBO TOWN,ETH-ORO-WSA,woreda to zone,certain,woreda of zone WEST SHEWA
 ETHIOPIA,OROMIA,AMEYA,ETH-ORO-SOU,woreda to zone,certain,woreda of zone SOUTH WEST SHEWA
 ETHIOPIA,OROMIA,AMIGNA,ETH-ORO-ARS,woreda to zone,certain,woreda of zone ARSI
@@ -336,44 +585,75 @@ ETHIOPIA,OROMIA,ANCHAR,ETH-ORO-WHE,woreda to zone,certain,woreda of zone WEST HA
 ETHIOPIA,OROMIA,ANFILO,ETH-ORO-KEL,woreda to zone,certain,woreda of zone KELEM WELLEGA
 ETHIOPIA,OROMIA,ARERO,ETH-ORO-EBA,woreda to zone,certain,woreda of zone EAST BORENA
 ETHIOPIA,OROMIA,ASEKO,ETH-ORO-ARS,woreda to zone,certain,woreda of zone ARSI
+ETHIOPIA,OROMIA,ASELA T.,ETH-ORO-ARS,name similarity,probable,closest woreda / zone name ASELA (distance 0.17)
+ETHIOPIA,OROMIA,ASELLA,ETH-ORO-ARS,name similarity,probable,closest woreda / zone name ASELA (distance 0.17)
+ETHIOPIA,OROMIA,ASELLA TOWN,ETH-ORO-ARS,name similarity,probable,closest woreda / zone name ASELA (distance 0.17)
+ETHIOPIA,OROMIA,ASSELA TOWN,ETH-ORO-ARS,name similarity,probable,closest woreda / zone name ASELA (distance 0.17)
+ETHIOPIA,OROMIA,AWASHO,ETH-AFA-GAB,name similarity,probable,closest woreda / zone name AWASH (distance 0.17)
 ETHIOPIA,OROMIA,AYIRA,ETH-ORO-WWA,woreda to zone,certain,woreda of zone WEST WELLEGA
 ETHIOPIA,OROMIA,BABILE TOWN,ETH-ORO-EHE,woreda to zone,certain,woreda of zone EAST HARARGE
+ETHIOPIA,OROMIA,BABILE WOREDA,ETH-ORO-EHE,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
 ETHIOPIA,OROMIA,BAKO TIBE,ETH-ORO-WSA,woreda to zone,certain,woreda of zone WEST SHEWA
+ETHIOPIA,OROMIA,BALE GASGAR,ETH-ORO-ARS,name similarity,probable,closest woreda / zone name BELEGESGAR (distance 0.20)
+ETHIOPIA,OROMIA,BALE GESGER,ETH-ORO-ARS,name similarity,probable,closest woreda / zone name BELEGESGAR (distance 0.20)
+ETHIOPIA,OROMIA,BARECHA,ETH-ORO-BUN,name similarity,probable,closest woreda / zone name BORECHA (distance 0.14)
+ETHIOPIA,OROMIA,BATU,ETH-ORO-ESA,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
 ETHIOPIA,OROMIA,BATU TOWN,ETH-ORO-ESA,woreda to zone,certain,woreda of zone EAST SHEWA
 ETHIOPIA,OROMIA,BEDELE TOWN,ETH-ORO-BUN,woreda to zone,certain,woreda of zone BUNO BEDELE
+ETHIOPIA,OROMIA,BEDESA,ETH-ORO-WHE,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
 ETHIOPIA,OROMIA,BEGI,ETH-ORO-WWA,woreda to zone,certain,woreda of zone WEST WELLEGA
+ETHIOPIA,OROMIA,BEKOJI TOWN,ETH-ORO-ARS,name similarity,probable,closest woreda / zone name BOKOJI (distance 0.17)
 ETHIOPIA,OROMIA,BERBERE,ETH-ORO-BAL,woreda to zone,certain,woreda of zone BALE
 ETHIOPIA,OROMIA,BERO,ETH-SOU-WES,woreda to zone,certain,woreda of zone WEST OMO
+ETHIOPIA,OROMIA,BILO NOPA,ETH-ORO-ILU,name similarity,probable,closest woreda / zone name BILONOPHA (distance 0.11)
+ETHIOPIA,OROMIA,BIRBIRSAA KOJOA,ETH-ORO-WGI,name similarity,probable,closest woreda / zone name BIRBIRSAKOJOWA (distance 0.14)
+ETHIOPIA,OROMIA,BISHOFTU T.,ETH-ORO-ESA,name similarity,probable,closest woreda / zone name BISHOFTU (distance 0.11)
 ETHIOPIA,OROMIA,BISHOFTU TOWN,ETH-ORO-ESA,woreda to zone,certain,woreda of zone EAST SHEWA
+ETHIOPIA,OROMIA,BODJI CHEKORSA,ETH-ORO-WWA,name similarity,probable,closest woreda / zone name BOJICHEKORSA (distance 0.08)
+ETHIOPIA,OROMIA,BODJI DIRMAJI,ETH-ORO-WWA,name similarity,probable,closest woreda / zone name BOJIDIRMEJI (distance 0.17)
+ETHIOPIA,OROMIA,BOJI CHOQORSA,ETH-ORO-WWA,name similarity,probable,closest woreda / zone name BOJICHEKORSA (distance 0.17)
 ETHIOPIA,OROMIA,BOJI DIRMEJI,ETH-ORO-WWA,woreda to zone,certain,woreda of zone WEST WELLEGA
 ETHIOPIA,OROMIA,BOKE,ETH-ORO-WHE,woreda to zone,certain,woreda of zone WEST HARARGE
 ETHIOPIA,OROMIA,BOKOJI TOWN,ETH-ORO-ARS,woreda to zone,certain,woreda of zone ARSI
 ETHIOPIA,OROMIA,BONEYA BOSHE,ETH-ORO-EWA,woreda to zone,certain,woreda of zone EAST WELLEGA
-ETHIOPIA,OROMIA,BORANA,ETH-ORO-BOR,name similarity,probable,closest name OROMIA / BORENA (distance 0.17)
+ETHIOPIA,OROMIA,BORANA,ETH-ORO-BOR,name similarity,probable,closest woreda / zone name BORENA (distance 0.17)
 ETHIOPIA,OROMIA,BORE,ETH-ORO-GUJ,woreda to zone,certain,woreda of zone GUJI
 ETHIOPIA,OROMIA,BOSET,ETH-ORO-ESA,woreda to zone,certain,woreda of zone EAST SHEWA
+ETHIOPIA,OROMIA,BOTOR XOLAY,ETH-ORO-JIM,name similarity,probable,closest woreda / zone name BOTORTOLAY (distance 0.10)
 ETHIOPIA,OROMIA,BULE HORA,ETH-ORO-WGI,woreda to zone,certain,woreda of zone WEST GUJI
 ETHIOPIA,OROMIA,BULE HORA TOWN,ETH-ORO-WGI,woreda to zone,certain,woreda of zone WEST GUJI
 ETHIOPIA,OROMIA,BURAYU,ETH-ORO-SHA,woreda to zone,certain,woreda of zone SHAGER CITY
+ETHIOPIA,OROMIA,BURE,ETH-AMH-WES,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
+ETHIOPIA,OROMIA,BURKA DHINTU,ETH-ORO-WHE,name similarity,probable,closest woreda / zone name BURQUADHINTU (distance 0.17)
+ETHIOPIA,OROMIA,CHANCHO,ETH-ORO-NOR,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
 ETHIOPIA,OROMIA,CHANCHO TOWN,ETH-ORO-NOR,woreda to zone,certain,woreda of zone NORTH SHEWA (OR)
+ETHIOPIA,OROMIA,CHELIA,ETH-ORO-WSA,name similarity,probable,closest woreda / zone name CHELIYA (distance 0.14)
+ETHIOPIA,OROMIA,CHINAKSAN,ETH-ORO-EHE,name similarity,probable,closest woreda / zone name CHINAKSEN (distance 0.11)
 ETHIOPIA,OROMIA,CHIRO TOWN,ETH-ORO-WHE,woreda to zone,certain,woreda of zone WEST HARARGE
 ETHIOPIA,OROMIA,CHOLE,ETH-ORO-ARS,woreda to zone,certain,woreda of zone ARSI
+ETHIOPIA,OROMIA,CHOMEN GUDURU,ETH-ORO-HOR,name similarity,probable,closest woreda / zone name CHOMANGUDURU (distance 0.08)
 ETHIOPIA,OROMIA,DABO HANA,ETH-ORO-BUN,woreda to zone,certain,woreda of zone BUNO BEDELE
 ETHIOPIA,OROMIA,DALE SADI,ETH-ORO-KEL,woreda to zone,certain,woreda of zone KELEM WELLEGA
 ETHIOPIA,OROMIA,DALE WABERA,ETH-ORO-KEL,woreda to zone,certain,woreda of zone KELEM WELLEGA
 ETHIOPIA,OROMIA,DAMA,ETH-ORO-GUJ,woreda to zone,certain,woreda of zone GUJI
 ETHIOPIA,OROMIA,DANO,ETH-ORO-WSA,woreda to zone,certain,woreda of zone WEST SHEWA
 ETHIOPIA,OROMIA,DARIMU,ETH-ORO-ILU,woreda to zone,certain,woreda of zone ILU ABA BORA
+ETHIOPIA,OROMIA,DARO LABU,ETH-ORO-WHE,name similarity,probable,closest woreda / zone name DAROLEBU (distance 0.12)
+ETHIOPIA,OROMIA,DAWE KACHEN,ETH-ORO-EAS,name similarity,probable,closest woreda / zone name DAWEKETCHEN (distance 0.18)
 ETHIOPIA,OROMIA,DAWO,ETH-ORO-SOU,woreda to zone,certain,woreda of zone SOUTH WEST SHEWA
 ETHIOPIA,OROMIA,DEBRE LIBANOS,ETH-ORO-NOR,woreda to zone,certain,woreda of zone NORTH SHEWA (OR)
 ETHIOPIA,OROMIA,DEDO,ETH-ORO-JIM,woreda to zone,certain,woreda of zone JIMMA
 ETHIOPIA,OROMIA,DEGA,ETH-ORO-BUN,woreda to zone,certain,woreda of zone BUNO BEDELE
 ETHIOPIA,OROMIA,DEGEM,ETH-ORO-NOR,woreda to zone,certain,woreda of zone NORTH SHEWA (OR)
 ETHIOPIA,OROMIA,DENDI,ETH-ORO-WSA,woreda to zone,certain,woreda of zone WEST SHEWA
+ETHIOPIA,OROMIA,DERA,ETH-ORO-ARS,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
 ETHIOPIA,OROMIA,DERA TOWN,ETH-ORO-ARS,woreda to zone,certain,woreda of zone ARSI
 ETHIOPIA,OROMIA,DHAS,ETH-ORO-EBA,woreda to zone,certain,woreda of zone EAST BORENA
+ETHIOPIA,OROMIA,DIDESA,ETH-ORO-BUN,name similarity,probable,closest woreda / zone name DEDESA (distance 0.17)
 ETHIOPIA,OROMIA,DIDU,ETH-ORO-ILU,woreda to zone,certain,woreda of zone ILU ABA BORA
 ETHIOPIA,OROMIA,DIGA,ETH-ORO-EWA,woreda to zone,certain,woreda of zone EAST WELLEGA
+ETHIOPIA,OROMIA,DIGELUNA TIJO,ETH-ORO-ARS,name similarity,probable,closest woreda / zone name DEGELUNATIJO (distance 0.08)
+ETHIOPIA,OROMIA,DIKSIIS,ETH-ORO-ARS,name similarity,probable,closest woreda / zone name DIKSIS (distance 0.14)
 ETHIOPIA,OROMIA,DIKSIS,ETH-ORO-ARS,woreda to zone,certain,woreda of zone ARSI
 ETHIOPIA,OROMIA,DINSHO,ETH-ORO-BAL,woreda to zone,certain,woreda of zone BALE
 ETHIOPIA,OROMIA,DIRE,ETH-ORO-BOR,woreda to zone,certain,woreda of zone BORENA
@@ -381,57 +661,87 @@ ETHIOPIA,OROMIA,DOBA,ETH-ORO-WHE,woreda to zone,certain,woreda of zone WEST HARA
 ETHIOPIA,OROMIA,DODOLA,ETH-ORO-WES,woreda to zone,certain,woreda of zone WEST ARSI
 ETHIOPIA,OROMIA,DODOLA TOWN,ETH-ORO-WES,woreda to zone,certain,woreda of zone WEST ARSI
 ETHIOPIA,OROMIA,DODOTA,ETH-ORO-ARS,woreda to zone,certain,woreda of zone ARSI
+ETHIOPIA,OROMIA,DOLO MENA,ETH-CEN-KEM,name similarity,probable,closest woreda / zone name DOYOGENA (distance 0.25)
+ETHIOPIA,OROMIA,DORENI,ETH-ORO-ILU,name similarity,probable,closest woreda / zone name DORANI (distance 0.17)
 ETHIOPIA,OROMIA,DUGDA,ETH-ORO-ESA,woreda to zone,certain,woreda of zone EAST SHEWA
 ETHIOPIA,OROMIA,DUGDA DAWA,ETH-ORO-WGI,woreda to zone,certain,woreda of zone WEST GUJI
 ETHIOPIA,OROMIA,EAST HARERGHE,ETH-ORO-EHE,old shape,probable,"old shape falls inside this unit (p=0.99, overlap 0.918)"
+ETHIOPIA,OROMIA,EBANTU,ETH-ORO-EWA,name similarity,probable,closest woreda / zone name IBANTU (distance 0.17)
 ETHIOPIA,OROMIA,EJERSA LAFO,ETH-ORO-WSA,woreda to zone,certain,woreda of zone WEST SHEWA
 ETHIOPIA,OROMIA,EKA TAFO,ETH-ORO-SHA,woreda to zone,certain,woreda of zone SHAGER CITY
 ETHIOPIA,OROMIA,ELWAYA,ETH-ORO-BOR,woreda to zone,certain,woreda of zone BORENA
-ETHIOPIA,OROMIA,ESAT BORENA,ETH-ORO-EBA,name similarity,probable,closest name OROMIA / EAST BORENA (distance 0.20)
+ETHIOPIA,OROMIA,ENKOLO WABE,ETH-ORO-ARS,name similarity,probable,closest woreda / zone name INKOLOWABE (distance 0.10)
+ETHIOPIA,OROMIA,ESAT BORENA,ETH-ORO-EBA,name similarity,probable,closest woreda / zone name EASTBORENA (distance 0.20)
 ETHIOPIA,OROMIA,FENTALE,ETH-ORO-ESA,woreda to zone,certain,woreda of zone EAST SHEWA
+ETHIOPIA,OROMIA,FITCHE,ETH-ORO-NOR,name similarity,probable,closest woreda / zone name FICHE (distance 0.17)
+ETHIOPIA,OROMIA,FITCHE TOWN,ETH-ORO-NOR,name similarity,probable,closest woreda / zone name FICHE (distance 0.17)
 ETHIOPIA,OROMIA,FURI,ETH-ORO-SHA,woreda to zone,certain,woreda of zone SHAGER CITY
+ETHIOPIA,OROMIA,GAFERSA GUJE,ETH-ORO-SHA,name similarity,probable,closest woreda / zone name GEFERSAGUJE (distance 0.09)
+ETHIOPIA,OROMIA,GALANA,ETH-ORO-SHA,name similarity,probable,closest woreda / zone name GALAN (distance 0.17)
 ETHIOPIA,OROMIA,GASERA,ETH-ORO-BAL,woreda to zone,certain,woreda of zone BALE
 ETHIOPIA,OROMIA,GAWO KEBE,ETH-ORO-KEL,woreda to zone,certain,woreda of zone KELEM WELLEGA
+ETHIOPIA,OROMIA,GEDEB HASASA,ETH-ORO-WES,name similarity,probable,closest woreda / zone name GEDEBASASA (distance 0.09)
 ETHIOPIA,OROMIA,GEFERSA GUJE,ETH-ORO-SHA,woreda to zone,certain,woreda of zone SHAGER CITY
+ETHIOPIA,OROMIA,GELAN GUDA,ETH-ORO-SHA,name similarity,probable,closest woreda / zone name GALANGUDO (distance 0.22)
 ETHIOPIA,OROMIA,GEMECHIS,ETH-ORO-WHE,woreda to zone,certain,woreda of zone WEST HARARGE
 ETHIOPIA,OROMIA,GERA,ETH-ORO-JIM,woreda to zone,certain,woreda of zone JIMMA
+ETHIOPIA,OROMIA,GERBA GURACHA,ETH-ORO-NOR,name similarity,probable,closest woreda / zone name GARBAGURACHA (distance 0.08)
 ETHIOPIA,OROMIA,GIDA AYANA,ETH-ORO-EWA,woreda to zone,certain,woreda of zone EAST WELLEGA
 ETHIOPIA,OROMIA,GIDAMI,ETH-ORO-KEL,woreda to zone,certain,woreda of zone KELEM WELLEGA
 ETHIOPIA,OROMIA,GIMBI TOWN,ETH-ORO-WWA,woreda to zone,certain,woreda of zone WEST WELLEGA
 ETHIOPIA,OROMIA,GINDEBERET,ETH-ORO-WSA,woreda to zone,certain,woreda of zone WEST SHEWA
+ETHIOPIA,OROMIA,GIRAR JARSO,ETH-ORO-NOR,name similarity,probable,closest woreda / zone name GERARJARSO (distance 0.10)
 ETHIOPIA,OROMIA,GIRAWA,ETH-ORO-EHE,woreda to zone,certain,woreda of zone EAST HARARGE
+ETHIOPIA,OROMIA,GOBA SUB CITY,ETH-ORO-BAL,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
+ETHIOPIA,OROMIA,GOBA TOWN SUB CITY,ETH-ORO-BAL,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
 ETHIOPIA,OROMIA,GOBU SEYO,ETH-ORO-EWA,woreda to zone,certain,woreda of zone EAST WELLEGA
+ETHIOPIA,OROMIA,GOLA ODA,ETH-ORO-EHE,name similarity,probable,closest woreda / zone name GOLOODA (distance 0.14)
+ETHIOPIA,OROMIA,GOLOLCHA,ETH-ORO-ARS,name similarity,probable,closest woreda / zone name GOLOCHA (distance 0.12)
 ETHIOPIA,OROMIA,GOMOLE,ETH-ORO-BOR,woreda to zone,certain,woreda of zone BORENA
+ETHIOPIA,OROMIA,GORO DOLA,ETH-ORO-EBA,name similarity,probable,closest woreda / zone name GORADOLA (distance 0.12)
 ETHIOPIA,OROMIA,GORO GUTU,ETH-ORO-EHE,woreda to zone,certain,woreda of zone EAST HARARGE
 ETHIOPIA,OROMIA,GORO MUTI,ETH-ORO-EHE,woreda to zone,certain,woreda of zone EAST HARARGE
+ETHIOPIA,OROMIA,GUBA KORICHA,ETH-ORO-WHE,name similarity,probable,closest woreda / zone name GOBAKORICHA (distance 0.09)
 ETHIOPIA,OROMIA,GUCHI,ETH-ORO-BOR,woreda to zone,certain,woreda of zone BORENA
 ETHIOPIA,OROMIA,GUDURU,ETH-ORO-HOR,woreda to zone,certain,woreda of zone HORO GUDRU WELLEGA
 ETHIOPIA,OROMIA,GULISO,ETH-ORO-WWA,woreda to zone,certain,woreda of zone WEST WELLEGA
+ETHIOPIA,OROMIA,GUMBI BORDODE,ETH-ORO-WHE,name similarity,probable,closest woreda / zone name GUMBIBORDEDE (distance 0.08)
+ETHIOPIA,OROMIA,GUMMAY,ETH-ORO-JIM,name similarity,probable,closest woreda / zone name GUMAY (distance 0.17)
 ETHIOPIA,OROMIA,GUNA,ETH-ORO-ARS,woreda to zone,certain,woreda of zone ARSI
 ETHIOPIA,OROMIA,GURA DAMOLE,ETH-ORO-BAL,woreda to zone,certain,woreda of zone BALE
+ETHIOPIA,OROMIA,GUTO GIDDA,ETH-ORO-EWA,name similarity,probable,closest woreda / zone name GUTOGIDA (distance 0.11)
 ETHIOPIA,OROMIA,HABRO,ETH-ORO-WHE,woreda to zone,certain,woreda of zone WEST HARARGE
+ETHIOPIA,OROMIA,HAMBALA WAMANA,ETH-ORO-WGI,name similarity,probable,closest woreda / zone name HAMBELAWAMENA (distance 0.15)
+ETHIOPIA,OROMIA,HARAMAYA,ETH-ORO-EHE,name similarity,probable,closest woreda / zone name HAROMAYA (distance 0.12)
 ETHIOPIA,OROMIA,HARENA BULUK,ETH-ORO-BAL,woreda to zone,certain,woreda of zone BALE
 ETHIOPIA,OROMIA,HARO LIMU,ETH-ORO-EWA,woreda to zone,certain,woreda of zone EAST WELLEGA
 ETHIOPIA,OROMIA,HARO WALABU,ETH-ORO-GUJ,woreda to zone,certain,woreda of zone GUJI
+ETHIOPIA,OROMIA,HARORETI,ETH-SOM-FAF,name similarity,probable,closest woreda / zone name HAROREYS (distance 0.25)
 ETHIOPIA,OROMIA,HARU,ETH-ORO-WWA,woreda to zone,certain,woreda of zone WEST WELLEGA
 ETHIOPIA,OROMIA,HAWA GALAN,ETH-ORO-KEL,woreda to zone,certain,woreda of zone KELEM WELLEGA
 ETHIOPIA,OROMIA,HAWIGUDINA,ETH-ORO-WHE,woreda to zone,certain,woreda of zone WEST HARARGE
+ETHIOPIA,OROMIA,HEBEN ARSI,ETH-ORO-WES,name similarity,probable,closest woreda / zone name HEBANARSI (distance 0.11)
+ETHIOPIA,OROMIA,HETOSA,ETH-ORO-ARS,name similarity,probable,closest woreda / zone name HITOSA (distance 0.17)
 ETHIOPIA,OROMIA,HIDABU ABOTE,ETH-ORO-NOR,woreda to zone,certain,woreda of zone NORTH SHEWA (OR)
 ETHIOPIA,OROMIA,HOLETA TOWN,ETH-ORO-WSA,woreda to zone,certain,woreda of zone WEST SHEWA
 ETHIOPIA,OROMIA,HOMA,ETH-ORO-WWA,woreda to zone,certain,woreda of zone WEST WELLEGA
+ETHIOPIA,OROMIA,HONKOLO WAABE,ETH-ORO-ARS,name similarity,probable,closest woreda / zone name INKOLOWABE (distance 0.25)
 ETHIOPIA,OROMIA,HORO BULUK,ETH-ORO-HOR,woreda to zone,certain,woreda of zone HORO GUDRU WELLEGA
-ETHIOPIA,OROMIA,HORRO GUDURU WALLAGA,ETH-ORO-HOR,name similarity,probable,closest name OROMIA / HORO GUDRU WELLEGA (distance 0.22)
-ETHIOPIA,OROMIA,ILLUBABOR,ETH-ORO-ILU,name similarity,probable,closest name OROMIA / ILU ABA BORA (distance 0.30)
+ETHIOPIA,OROMIA,HORRO GUDURU WALLAGA,ETH-ORO-HOR,name similarity,probable,closest woreda / zone name HOROGUDRUWELLEGA (distance 0.22)
+ETHIOPIA,OROMIA,HURRUMU,ETH-ORO-ILU,name similarity,probable,closest woreda / zone name HURUMU (distance 0.14)
+ETHIOPIA,OROMIA,ILFATA,ETH-ORO-WSA,name similarity,probable,closest woreda / zone name IFATA (distance 0.17)
+ETHIOPIA,OROMIA,ILU GELAN,ETH-ORO-WSA,name similarity,probable,closest woreda / zone name ILLUGALAN (distance 0.22)
 ETHIOPIA,OROMIA,JEJU,ETH-ORO-ARS,woreda to zone,certain,woreda of zone ARSI
 ETHIOPIA,OROMIA,JELDU,ETH-ORO-WSA,woreda to zone,certain,woreda of zone WEST SHEWA
 ETHIOPIA,OROMIA,JIBAT,ETH-ORO-WSA,woreda to zone,certain,woreda of zone WEST SHEWA
 ETHIOPIA,OROMIA,JIDA,ETH-ORO-NOR,woreda to zone,certain,woreda of zone NORTH SHEWA (OR)
-ETHIOPIA,OROMIA,JIMA,ETH-ORO-JIM,name similarity,probable,closest name OROMIA / JIMMA (distance 0.20)
+ETHIOPIA,OROMIA,JIMA HORO,ETH-ORO-KEL,name similarity,probable,closest woreda / zone name JIMMAHORO (distance 0.11)
 ETHIOPIA,OROMIA,JIMMA ARJO,ETH-ORO-EWA,woreda to zone,certain,woreda of zone EAST WELLEGA
 ETHIOPIA,OROMIA,JIMMA RARE,ETH-ORO-HOR,woreda to zone,certain,woreda of zone HORO GUDRU WELLEGA
-ETHIOPIA,OROMIA,KELEM WALAGA,ETH-ORO-KEL,name similarity,probable,closest name OROMIA / KELEM WELLEGA (distance 0.25)
+ETHIOPIA,OROMIA,KELEM WALAGA,ETH-ORO-KEL,name similarity,probable,closest woreda / zone name KELEMWELLEGA (distance 0.25)
 ETHIOPIA,OROMIA,KERCHA,ETH-ORO-WGI,woreda to zone,certain,woreda of zone WEST GUJI
 ETHIOPIA,OROMIA,KERCHA TOWN,ETH-ORO-WGI,woreda to zone,certain,woreda of zone WEST GUJI
+ETHIOPIA,OROMIA,KERSA MALIMA,ETH-ORO-SOU,name similarity,probable,closest woreda / zone name KERSANAMALIMA (distance 0.15)
 ETHIOPIA,OROMIA,KILTU KARA,ETH-ORO-WWA,woreda to zone,certain,woreda of zone WEST WELLEGA
 ETHIOPIA,OROMIA,KIMBIBIT,ETH-ORO-NOR,woreda to zone,certain,woreda of zone NORTH SHEWA (OR)
 ETHIOPIA,OROMIA,KIREMU,ETH-ORO-EWA,woreda to zone,certain,woreda of zone EAST WELLEGA
@@ -441,24 +751,46 @@ ETHIOPIA,OROMIA,KOMBOLCHA,ETH-ORO-EHE,woreda to zone,certain,woreda of zone EAST
 ETHIOPIA,OROMIA,KORE,ETH-ORO-WES,woreda to zone,certain,woreda of zone WEST ARSI
 ETHIOPIA,OROMIA,KUMBI,ETH-ORO-EHE,woreda to zone,certain,woreda of zone EAST HARARGE
 ETHIOPIA,OROMIA,KURA JIDA,ETH-ORO-SHA,woreda to zone,certain,woreda of zone SHAGER CITY
+ETHIOPIA,OROMIA,KURFACHALE,ETH-ORO-EHE,name similarity,probable,closest woreda / zone name KURFACHELE (distance 0.10)
 ETHIOPIA,OROMIA,KUYU,ETH-ORO-NOR,woreda to zone,certain,woreda of zone NORTH SHEWA (OR)
 ETHIOPIA,OROMIA,LALO ASABI,ETH-ORO-WWA,woreda to zone,certain,woreda of zone WEST WELLEGA
 ETHIOPIA,OROMIA,LALO KILE,ETH-ORO-KEL,woreda to zone,certain,woreda of zone KELEM WELLEGA
+ETHIOPIA,OROMIA,LEKA DULLECHA,ETH-ORO-EWA,name similarity,probable,closest woreda / zone name LEKADULECHA (distance 0.08)
+ETHIOPIA,OROMIA,LEMUNA BILBILO,ETH-ORO-ARS,name similarity,probable,closest woreda / zone name LIMUBILBILO (distance 0.23)
 ETHIOPIA,OROMIA,LETA SIBU,ETH-ORO-WWA,woreda to zone,certain,woreda of zone WEST WELLEGA
 ETHIOPIA,OROMIA,LIBAN JAWI,ETH-ORO-WSA,woreda to zone,certain,woreda of zone WEST SHEWA
 ETHIOPIA,OROMIA,LIBEN,ETH-ORO-EBA,woreda to zone,certain,woreda of zone EAST BORENA
+ETHIOPIA,OROMIA,LIBEN JAWI,ETH-ORO-WSA,name similarity,probable,closest woreda / zone name LIBANJAWI (distance 0.11)
+ETHIOPIA,OROMIA,LIMMU KOSSA,ETH-ORO-JIM,name similarity,probable,closest woreda / zone name LIMUKOSA (distance 0.20)
+ETHIOPIA,OROMIA,LIMMU SEKA,ETH-ORO-JIM,name similarity,probable,closest woreda / zone name LIMUSEKA (distance 0.11)
+ETHIOPIA,OROMIA,LIMU BILBILOO,ETH-ORO-ARS,name similarity,probable,closest woreda / zone name LIMUBILBILO (distance 0.08)
+ETHIOPIA,OROMIA,LODE HETOSA,ETH-ORO-ARS,name similarity,probable,closest woreda / zone name LUDEHITOSA (distance 0.20)
+ETHIOPIA,OROMIA,MAKANISA OROMO,ETH-ORO-EHE,name similarity,probable,closest woreda / zone name MEKANISAOROMO (distance 0.08)
+ETHIOPIA,OROMIA,MALKA BALO,ETH-ORO-EHE,name similarity,probable,closest woreda / zone name MELKABALO (distance 0.11)
+ETHIOPIA,OROMIA,MALKA NONO,ETH-ORO-SHA,name similarity,probable,closest woreda / zone name MELKANONNO (distance 0.20)
+ETHIOPIA,OROMIA,MALKA SODA,ETH-ORO-WGI,name similarity,probable,closest woreda / zone name MELKASODA (distance 0.11)
 ETHIOPIA,OROMIA,MANA ABICHU,ETH-ORO-SHA,woreda to zone,certain,woreda of zone SHAGER CITY
+ETHIOPIA,OROMIA,MAYA CITY,ETH-ORO-EHE,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
 ETHIOPIA,OROMIA,MEDAWELABU,ETH-ORO-EBA,woreda to zone,certain,woreda of zone EAST BORENA
+ETHIOPIA,OROMIA,MENCHO,ETH-ORO-JIM,name similarity,probable,closest woreda / zone name MANCHO (distance 0.17)
 ETHIOPIA,OROMIA,MENDI TOWN,ETH-ORO-WWA,woreda to zone,certain,woreda of zone WEST WELLEGA
+ETHIOPIA,OROMIA,MENE SIBU,ETH-ORO-WWA,name similarity,probable,closest woreda / zone name MANASIBU (distance 0.25)
 ETHIOPIA,OROMIA,MERTI,ETH-ORO-ARS,woreda to zone,certain,woreda of zone ARSI
 ETHIOPIA,OROMIA,META,ETH-ORO-EHE,woreda to zone,certain,woreda of zone EAST HARARGE
 ETHIOPIA,OROMIA,META ROBI,ETH-ORO-WSA,woreda to zone,certain,woreda of zone WEST SHEWA
+ETHIOPIA,OROMIA,META WEKITE,ETH-ORO-WSA,name similarity,probable,closest woreda / zone name METAWALKITE (distance 0.18)
+ETHIOPIA,OROMIA,META WOLKITE,ETH-ORO-WSA,name similarity,probable,closest woreda / zone name METAWALKITE (distance 0.09)
 ETHIOPIA,OROMIA,METEHARA TOWN,ETH-ORO-ESA,woreda to zone,certain,woreda of zone EAST SHEWA
 ETHIOPIA,OROMIA,MIDA KEGN,ETH-ORO-WSA,woreda to zone,certain,woreda of zone WEST SHEWA
+ETHIOPIA,OROMIA,MIDA KEGNI,ETH-ORO-WSA,name similarity,probable,closest woreda / zone name MIDAKEGN (distance 0.11)
 ETHIOPIA,OROMIA,MIESO,ETH-ORO-WHE,woreda to zone,certain,woreda of zone WEST HARARGE
 ETHIOPIA,OROMIA,MIYO,ETH-ORO-BOR,woreda to zone,certain,woreda of zone BORENA
 ETHIOPIA,OROMIA,MULO,ETH-ORO-NOR,woreda to zone,certain,woreda of zone NORTH SHEWA (OR)
+ETHIOPIA,OROMIA,MUNESA,ETH-ORO-ARS,name similarity,probable,closest woreda / zone name MUNESSA (distance 0.14)
+ETHIOPIA,OROMIA,MUNESAA,ETH-ORO-ARS,name similarity,probable,closest woreda / zone name MUNESSA (distance 0.14)
+ETHIOPIA,OROMIA,NEKEMTE T,ETH-ORO-EWA,name similarity,probable,closest woreda / zone name NEKEMTE (distance 0.12)
 ETHIOPIA,OROMIA,NEKEMTE TOWN,ETH-ORO-EWA,woreda to zone,certain,woreda of zone EAST WELLEGA
+ETHIOPIA,OROMIA,NENSEBO,ETH-ORO-WES,name similarity,probable,closest woreda / zone name NENESEBO (distance 0.12)
 ETHIOPIA,OROMIA,NOLE KABA,ETH-ORO-WWA,woreda to zone,certain,woreda of zone WEST WELLEGA
 ETHIOPIA,OROMIA,NONO,ETH-ORO-WSA,woreda to zone,certain,woreda of zone WEST SHEWA
 ETHIOPIA,OROMIA,NONO BENJA,ETH-ORO-JIM,woreda to zone,certain,woreda of zone JIMMA
@@ -473,73 +805,113 @@ ETHIOPIA,OROMIA,RAYITU,ETH-ORO-EAS,woreda to zone,certain,woreda of zone EAST BA
 ETHIOPIA,OROMIA,ROBE,ETH-ORO-ARS,woreda to zone,certain,woreda of zone ARSI
 ETHIOPIA,OROMIA,ROBE TOWN,ETH-ORO-BAL,woreda to zone,certain,woreda of zone BALE
 ETHIOPIA,OROMIA,SABA BORU,ETH-ORO-GUJ,woreda to zone,certain,woreda of zone GUJI
+ETHIOPIA,OROMIA,SADEN SODO,ETH-ORO-SOU,name similarity,probable,closest woreda / zone name SEDENSODO (distance 0.11)
+ETHIOPIA,OROMIA,SADI CHANKA,ETH-ORO-KEL,name similarity,probable,closest woreda / zone name SEDICHENKA (distance 0.20)
 ETHIOPIA,OROMIA,SASIGA,ETH-ORO-EWA,woreda to zone,certain,woreda of zone EAST WELLEGA
 ETHIOPIA,OROMIA,SAYO,ETH-ORO-KEL,woreda to zone,certain,woreda of zone KELEM WELLEGA
 ETHIOPIA,OROMIA,SEBETA HAWAS,ETH-ORO-SOU,woreda to zone,certain,woreda of zone SOUTH WEST SHEWA
+ETHIOPIA,OROMIA,SEKA CHOKORSA,ETH-ORO-JIM,name similarity,probable,closest woreda / zone name SEKACHEKORSA (distance 0.08)
 ETHIOPIA,OROMIA,SERU,ETH-ORO-ARS,woreda to zone,certain,woreda of zone ARSI
 ETHIOPIA,OROMIA,SETEMA,ETH-ORO-JIM,woreda to zone,certain,woreda of zone JIMMA
+ETHIOPIA,OROMIA,SEYO NOLE,ETH-ORO-WWA,name similarity,probable,closest woreda / zone name SAYONOLE (distance 0.12)
+ETHIOPIA,OROMIA,SHABE SOMBO,ETH-ORO-JIM,name similarity,probable,closest woreda / zone name SHEBESAMBO (distance 0.20)
+ETHIOPIA,OROMIA,SHAKISO,ETH-ORO-GUJ,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
 ETHIOPIA,OROMIA,SHAKISO TOWN,ETH-ORO-GUJ,woreda to zone,certain,woreda of zone GUJI
+ETHIOPIA,OROMIA,SHALLA,ETH-ORO-WES,name similarity,probable,closest woreda / zone name SHALA (distance 0.17)
 ETHIOPIA,OROMIA,SHAMBU TOWN,ETH-ORO-HOR,woreda to zone,certain,woreda of zone HORO GUDRU WELLEGA
 ETHIOPIA,OROMIA,SHASHEMENE,ETH-ORO-WES,woreda to zone,certain,woreda of zone WEST ARSI
+ETHIOPIA,OROMIA,SHASHEMENE CITY,ETH-ORO-WES,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
+ETHIOPIA,OROMIA,SHASHEMENE T.,ETH-ORO-WES,name similarity,probable,closest woreda / zone name SHASHEMENE (distance 0.09)
 ETHIOPIA,OROMIA,SHASHEMENE TOWN,ETH-ORO-WES,woreda to zone,certain,woreda of zone WEST ARSI
+ETHIOPIA,OROMIA,SHENAN KOLU,ETH-ORO-ARS,name similarity,probable,closest woreda / zone name SHANANKOLU (distance 0.10)
+ETHIOPIA,OROMIA,SHENO,ETH-ORO-NOR,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
 ETHIOPIA,OROMIA,SHENO TOWN,ETH-ORO-NOR,woreda to zone,certain,woreda of zone NORTH SHEWA (OR)
 ETHIOPIA,OROMIA,SHIRKA,ETH-ORO-ARS,woreda to zone,certain,woreda of zone ARSI
 ETHIOPIA,OROMIA,SIBU SIRE,ETH-ORO-EWA,woreda to zone,certain,woreda of zone EAST WELLEGA
+ETHIOPIA,OROMIA,SIGIMO,ETH-ORO-JIM,name similarity,probable,closest woreda / zone name SIGMO (distance 0.17)
 ETHIOPIA,OROMIA,SINANA,ETH-ORO-BAL,woreda to zone,certain,woreda of zone BALE
 ETHIOPIA,OROMIA,SIRARO,ETH-ORO-WES,woreda to zone,certain,woreda of zone WEST ARSI
 ETHIOPIA,OROMIA,SIRE,ETH-ORO-ARS,woreda to zone,certain,woreda of zone ARSI
+ETHIOPIA,OROMIA,SODO DACHI,ETH-ORO-SOU,name similarity,probable,closest woreda / zone name SODODACI (distance 0.11)
+ETHIOPIA,OROMIA,SOKORU,ETH-ORO-JIM,name similarity,probable,closest woreda / zone name SEKORU (distance 0.17)
 ETHIOPIA,OROMIA,SUDE,ETH-ORO-ARS,woreda to zone,certain,woreda of zone ARSI
+ETHIOPIA,OROMIA,SULULA FINCHA,ETH-ORO-HOR,name similarity,probable,closest woreda / zone name SULULAFINCAA (distance 0.08)
+ETHIOPIA,OROMIA,SURO BARGUDA,ETH-ORO-WGI,name similarity,probable,closest woreda / zone name SUROBERGUDA (distance 0.09)
+ETHIOPIA,OROMIA,TELTELE,ETH-ORO-BOR,name similarity,probable,closest woreda / zone name TELTALE (distance 0.14)
 ETHIOPIA,OROMIA,TIYO,ETH-ORO-ARS,woreda to zone,certain,woreda of zone ARSI
 ETHIOPIA,OROMIA,TOKE KUTAYE,ETH-ORO-WSA,woreda to zone,certain,woreda of zone WEST SHEWA
 ETHIOPIA,OROMIA,TOLE,ETH-ORO-SOU,woreda to zone,certain,woreda of zone SOUTH WEST SHEWA
 ETHIOPIA,OROMIA,URAGA,ETH-ORO-GUJ,woreda to zone,certain,woreda of zone GUJI
-ETHIOPIA,OROMIA,W ARSI,ETH-ORO-ARS,name similarity,probable,closest name OROMIA / ARSI (distance 0.20)
-ETHIOPIA,OROMIA,W GUJI,ETH-ORO-GUJ,name similarity,probable,closest name OROMIA / GUJI (distance 0.20)
 ETHIOPIA,OROMIA,WACHILE,ETH-ORO-EBA,woreda to zone,certain,woreda of zone EAST BORENA
+ETHIOPIA,OROMIA,WADARA,ETH-ORO-GUJ,name similarity,probable,closest woreda / zone name WADERA (distance 0.17)
+ETHIOPIA,OROMIA,WAMA HAGELO,ETH-ORO-EWA,name similarity,probable,closest woreda / zone name WAMAHAGALO (distance 0.10)
 ETHIOPIA,OROMIA,WARA JARSO,ETH-ORO-NOR,woreda to zone,certain,woreda of zone NORTH SHEWA (OR)
+ETHIOPIA,OROMIA,WARE JARSO,ETH-ORO-NOR,name similarity,probable,closest woreda / zone name WARAJARSO (distance 0.11)
+ETHIOPIA,OROMIA,WAYU TUQA,ETH-ORO-EWA,name similarity,probable,closest woreda / zone name WAYUTUKA (distance 0.12)
 ETHIOPIA,OROMIA,WELMERA,ETH-ORO-WSA,woreda to zone,certain,woreda of zone WEST SHEWA
 ETHIOPIA,OROMIA,WEST HARERGHE,ETH-ORO-WHE,old shape,probable,"old shape falls inside this unit (p=1.00, overlap 0.962)"
 ETHIOPIA,OROMIA,WOLISO TOWN,ETH-ORO-SOU,woreda to zone,certain,woreda of zone SOUTH WEST SHEWA
+ETHIOPIA,OROMIA,WONCHI,ETH-ORO-SOU,name similarity,probable,closest woreda / zone name WENCHI (distance 0.17)
 ETHIOPIA,OROMIA,WONDO,ETH-ORO-WES,woreda to zone,certain,woreda of zone WEST ARSI
+ETHIOPIA,OROMIA,WUCALE,ETH-ORO-NOR,name similarity,probable,closest woreda / zone name WUCHALE (distance 0.14)
 ETHIOPIA,OROMIA,WUCHALE,ETH-ORO-NOR,woreda to zone,certain,woreda of zone NORTH SHEWA (OR)
+ETHIOPIA,OROMIA,Y/GULELE,ETH-ADD-REG,name similarity,probable,closest woreda / zone name GULELE (distance 0.14)
+ETHIOPIA,OROMIA,YABELLO T,ETH-ORO-BOR,name similarity,probable,closest woreda / zone name YABELO (distance 0.25)
 ETHIOPIA,OROMIA,YABELO,ETH-ORO-BOR,woreda to zone,certain,woreda of zone BORENA
 ETHIOPIA,OROMIA,YAYA GULELE,ETH-ORO-NOR,woreda to zone,certain,woreda of zone NORTH SHEWA (OR)
+ETHIOPIA,OROMIA,YEMALOGI WALAL,ETH-ORO-KEL,name similarity,probable,closest woreda / zone name YAMALOGIWELEL (distance 0.23)
 ETHIOPIA,OROMIA,YUBDO,ETH-ORO-WWA,woreda to zone,certain,woreda of zone WEST WELLEGA
+ETHIOPIA,OROMIA,ZIWUY DUGDA,ETH-ORO-ARS,name similarity,probable,closest woreda / zone name ZIWAYDUGDA (distance 0.10)
+ETHIOPIA,OROMIA,ZUWAY DUGDA,ETH-ORO-ARS,name similarity,probable,closest woreda / zone name ZIWAYDUGDA (distance 0.10)
+ETHIOPIA,OROMIYA,ADAMA SPECIAL ZONE,ETH-ORO-ESA,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
 ETHIOPIA,OROMIYA,AMBO TOWN,ETH-ORO-WSA,woreda to zone,certain,woreda of zone WEST SHEWA
+ETHIOPIA,OROMIYA,ASSELA TOWN,ETH-ORO-ARS,name similarity,probable,closest woreda / zone name ASELA (distance 0.17)
 ETHIOPIA,OROMIYA,BATU TOWN,ETH-ORO-ESA,woreda to zone,certain,woreda of zone EAST SHEWA
 ETHIOPIA,OROMIYA,BISHOFTU TOWN,ETH-ORO-ESA,woreda to zone,certain,woreda of zone EAST SHEWA
+ETHIOPIA,OROMIYA,HOLOTA TOWN,ETH-ORO-WSA,name similarity,probable,closest woreda / zone name HOLETA (distance 0.17)
 ETHIOPIA,OROMIYA,NEKEMTE TOWN,ETH-ORO-EWA,woreda to zone,certain,woreda of zone EAST WELLEGA
 ETHIOPIA,OROMIYA,ROBE TOWN,ETH-ORO-BAL,woreda to zone,certain,woreda of zone BALE
+ETHIOPIA,OROMIYA,SEBETA TOWN,ETH-ORO-SHA,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
 ETHIOPIA,OROMIYA,SHASHEMENE TOWN,ETH-ORO-WES,woreda to zone,certain,woreda of zone WEST ARSI
 ETHIOPIA,OROMIYA,WOLISO TOWN,ETH-ORO-SOU,woreda to zone,certain,woreda of zone SOUTH WEST SHEWA
+ETHIOPIA,SIDAMA,ALETA CHUKO TOWN,ETH-SID-SID,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
 ETHIOPIA,SIDAMA,ALETA WONDO TOWN,ETH-SID-SID,woreda to zone,certain,woreda of zone SIDAMA
+ETHIOPIA,SIDAMA,CHABE GAMBELTU WOHO,ETH-SID-SID,name similarity,probable,closest woreda / zone name CHABEGAMBELTU (distance 0.24)
 ETHIOPIA,SIDAMA,DAYE TOWN,ETH-SID-SID,woreda to zone,certain,woreda of zone SIDAMA
+ETHIOPIA,SIDAMA,HAWASSA,ETH-SID-SID,name similarity,probable,closest woreda / zone name HAWASA (distance 0.14)
+ETHIOPIA,SIDAMA,HAWASSA CITY,ETH-SID-SID,name similarity,probable,closest woreda / zone name HAWASA (distance 0.14)
+ETHIOPIA,SIDAMA,HAWASSA TOWN,ETH-SID-SID,name similarity,probable,closest woreda / zone name HAWASA (distance 0.14)
+ETHIOPIA,SIDAMA,HAWASSA ZURIA WOHO,ETH-SID-SID,name similarity,probable,closest woreda / zone name HAWASSAZURIA (distance 0.25)
 ETHIOPIA,SIDAMA,LEKU TOWN,ETH-SID-SID,woreda to zone,certain,woreda of zone SIDAMA
 ETHIOPIA,SIDAMA,WONDO GENET TOWN,ETH-SID-SID,woreda to zone,certain,woreda of zone SIDAMA
 ETHIOPIA,SIDAMA,YIRGALEM TOWN,ETH-SID-SID,woreda to zone,certain,woreda of zone SIDAMA
 ETHIOPIA,SNNP,DAWRO,ETH-SOU-DAW,old shape,probable,"old shape falls inside this unit (p=0.99, overlap 0.971)"
-ETHIOPIA,SNNP,KONTA SPECIAL WOREDA,ETH-SOU-KON,old shape,probable,"old shape falls inside this unit (p=0.90, overlap 0.953)"
-ETHIOPIA,SNNPR,ALABA,ETH-CEN-HAL,name similarity,probable,closest name CENTRAL ETHIOPIA / HALABA (distance 0.17)
-ETHIOPIA,SNNPR,AMARO SPECIAL WOREDA,ETH-GAM-ITA,name similarity,probable,closest name GAMBELA / ITANG SPECIAL WOREDA (distance 0.22)
-ETHIOPIA,SNNPR,BURJI SPECIAL WOREDA,ETH-GAM-ITA,name similarity,probable,closest name GAMBELA / ITANG SPECIAL WOREDA (distance 0.28)
+ETHIOPIA,SNNP,KONTA SPECIAL WOREDA,ETH-SOU-KON,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
+ETHIOPIA,SNNPR,AMARO SPECIAL WOREDA,ETH-SEA-AMA,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
+ETHIOPIA,SNNPR,BASKETO SPECIAL WOREDA,ETH-SEA-BAS,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
+ETHIOPIA,SNNPR,BURJI SPECIAL WOREDA,ETH-SEA-BUR,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
 ETHIOPIA,SNNPR,DAWRO,ETH-SOU-DAW,old shape,probable,"old shape falls inside this unit (p=0.99, overlap 0.971)"
-ETHIOPIA,SNNPR,DERASHE SPECIAL WOREDA,ETH-GAM-ITA,name similarity,probable,closest name GAMBELA / ITANG SPECIAL WOREDA (distance 0.30)
+ETHIOPIA,SNNPR,DERASHE SPECIAL WOREDA,ETH-SEA-DER,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
 ETHIOPIA,SNNPR,KAFFA,ETH-SOU-KEF,old shape,probable,"old shape falls inside this unit (p=0.97, overlap 0.944)"
-ETHIOPIA,SNNPR,KONTA SPECIAL WOREDA,ETH-GAM-ITA,name similarity,probable,closest name GAMBELA / ITANG SPECIAL WOREDA (distance 0.28)
+ETHIOPIA,SNNPR,KONTA SPECIAL WOREDA,ETH-SOU-KON,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
 ETHIOPIA,SNNPR,SILTE,ETH-CEN-SIL,old shape,probable,"old shape falls inside this unit (p=0.99, overlap 0.945)"
 ETHIOPIA,SNNPR,SOUTH OMO,ETH-SEA-SOP,old shape,probable,"old shape falls inside this unit (p=0.95, overlap 0.825)"
-ETHIOPIA,SNNPR,YEM SPECIAL WOREDA,ETH-GAM-ITA,name similarity,probable,closest name GAMBELA / ITANG SPECIAL WOREDA (distance 0.28)
+ETHIOPIA,SNNPR,YEM SPECIAL WOREDA,ETH-CEN-YEM,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
 ETHIOPIA,SOMALI,ADADLE,ETH-SOM-SHA,woreda to zone,certain,woreda of zone SHABELLE
 ETHIOPIA,SOMALI,AFDEM,ETH-SOM-SIT,woreda to zone,certain,woreda of zone SITI
 ETHIOPIA,SOMALI,ARARSO,ETH-SOM-JAR,woreda to zone,certain,woreda of zone JARAR
 ETHIOPIA,SOMALI,AWARE,ETH-SOM-JAR,woreda to zone,certain,woreda of zone JARAR
 ETHIOPIA,SOMALI,AWBARE,ETH-SOM-FAF,woreda to zone,certain,woreda of zone FAFAN
 ETHIOPIA,SOMALI,AYUN,ETH-SOM-NOG,woreda to zone,certain,woreda of zone NOGOB
+ETHIOPIA,SOMALI,BABILI,ETH-ORO-EHE,name similarity,probable,closest woreda / zone name BABILE (distance 0.17)
 ETHIOPIA,SOMALI,BAREY,ETH-SOM-AFD,woreda to zone,certain,woreda of zone AFDER
+ETHIOPIA,SOMALI,BERCANO,ETH-SOM-SHA,name similarity,probable,closest woreda / zone name BEROCANO (distance 0.12)
+ETHIOPIA,SOMALI,BODALAY,ETH-SOM-KOR,name similarity,probable,closest woreda / zone name BODALEY (distance 0.14)
 ETHIOPIA,SOMALI,BOKH,ETH-SOM-DOO,woreda to zone,certain,woreda of zone DOOLO
 ETHIOPIA,SOMALI,BOKOLMAYO,ETH-SOM-LIB,woreda to zone,certain,woreda of zone LIBAN
 ETHIOPIA,SOMALI,CHARATI,ETH-SOM-AFD,woreda to zone,certain,woreda of zone AFDER
 ETHIOPIA,SOMALI,DARATOLE,ETH-SOM-DOO,woreda to zone,certain,woreda of zone DOOLO
+ETHIOPIA,SOMALI,DARROR,ETH-SOM-JAR,name similarity,probable,closest woreda / zone name DAROR (distance 0.17)
 ETHIOPIA,SOMALI,DAWA,ETH-SOM-DAA,old shape,probable,"old shape falls inside this unit (p=0.96, overlap 0.636)"
 ETHIOPIA,SOMALI,DEGEHABUR,ETH-SOM-JAR,woreda to zone,certain,woreda of zone JARAR
 ETHIOPIA,SOMALI,DEKASUFTU,ETH-SOM-LIB,woreda to zone,certain,woreda of zone LIBAN
@@ -547,18 +919,21 @@ ETHIOPIA,SOMALI,DIG,ETH-SOM-JAR,woreda to zone,certain,woreda of zone JARAR
 ETHIOPIA,SOMALI,DOLLO,ETH-SOM-DOO,old shape,probable,"old shape falls inside this unit (p=0.99, overlap 0.912)"
 ETHIOPIA,SOMALI,DOLO-ADO,ETH-SOM-LIB,woreda to zone,certain,woreda of zone LIBAN
 ETHIOPIA,SOMALI,DOLO-BAY,ETH-SOM-AFD,woreda to zone,certain,woreda of zone AFDER
+ETHIOPIA,SOMALI,EAST IMAY,ETH-SOM-SHA,name similarity,probable,closest woreda / zone name EASTIMI (distance 0.25)
 ETHIOPIA,SOMALI,EL-OGADEN,ETH-SOM-KOR,woreda to zone,certain,woreda of zone KORAHE
 ETHIOPIA,SOMALI,ELWAYNE,ETH-SOM-NOG,woreda to zone,certain,woreda of zone NOGOB
-ETHIOPIA,SOMALI,ERAR,ETH-SOM-ERE,name similarity,probable,closest name SOMALI / ERER (distance 0.25)
-ETHIOPIA,SOMALI,FAAFAN,ETH-SOM-FAF,name similarity,probable,closest name SOMALI / FAFAN (distance 0.17)
+ETHIOPIA,SOMALI,FAAFAN,ETH-SOM-FAF,name similarity,probable,closest woreda / zone name FAFAN (distance 0.17)
 ETHIOPIA,SOMALI,FERFER,ETH-SOM-SHA,woreda to zone,certain,woreda of zone SHABELLE
 ETHIOPIA,SOMALI,FIK,ETH-SOM-ERE,woreda to zone,certain,woreda of zone ERER
 ETHIOPIA,SOMALI,FILTU,ETH-SOM-LIB,woreda to zone,certain,woreda of zone LIBAN
 ETHIOPIA,SOMALI,GABLALU,ETH-SOM-SIT,woreda to zone,certain,woreda of zone SITI
 ETHIOPIA,SOMALI,GALADI,ETH-SOM-DOO,woreda to zone,certain,woreda of zone DOOLO
+ETHIOPIA,SOMALI,GALHAMER,ETH-SOM-DOO,name similarity,probable,closest woreda / zone name GALHAMUR (distance 0.12)
 ETHIOPIA,SOMALI,GARBO,ETH-SOM-NOG,woreda to zone,certain,woreda of zone NOGOB
 ETHIOPIA,SOMALI,GASHAMO,ETH-SOM-JAR,woreda to zone,certain,woreda of zone JARAR
 ETHIOPIA,SOMALI,GOD-GOD,ETH-SOM-AFD,woreda to zone,certain,woreda of zone AFDER
+ETHIOPIA,SOMALI,GODE CITY,ETH-SOM-SHA,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
+ETHIOPIA,SOMALI,GODEY,ETH-SOM-SHA,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
 ETHIOPIA,SOMALI,GOGLO,ETH-SOM-KOR,woreda to zone,certain,woreda of zone KORAHE
 ETHIOPIA,SOMALI,GOLJANO,ETH-SOM-FAF,woreda to zone,certain,woreda of zone FAFAN
 ETHIOPIA,SOMALI,GOTA-BIKI,ETH-SOM-SIT,woreda to zone,certain,woreda of zone SITI
@@ -567,55 +942,90 @@ ETHIOPIA,SOMALI,GURADAMOLE,ETH-SOM-LIB,woreda to zone,certain,woreda of zone LIB
 ETHIOPIA,SOMALI,HARAREY,ETH-SOM-NOG,woreda to zone,certain,woreda of zone NOGOB
 ETHIOPIA,SOMALI,HARAWO,ETH-SOM-FAF,woreda to zone,certain,woreda of zone FAFAN
 ETHIOPIA,SOMALI,HARGELE,ETH-SOM-AFD,woreda to zone,certain,woreda of zone AFDER
+ETHIOPIA,SOMALI,HARORAYS,ETH-SOM-FAF,name similarity,probable,closest woreda / zone name HAROREYS (distance 0.12)
 ETHIOPIA,SOMALI,HARSHIN,ETH-SOM-FAF,woreda to zone,certain,woreda of zone FAFAN
 ETHIOPIA,SOMALI,HIGLOLEY,ETH-SOM-KOR,woreda to zone,certain,woreda of zone KORAHE
+ETHIOPIA,SOMALI,HORASHAGAH,ETH-SOM-NOG,name similarity,probable,closest woreda / zone name HORSHAGAH (distance 0.10)
+ETHIOPIA,SOMALI,HUDHET,ETH-SOM-DAA,name similarity,probable,closest woreda / zone name HUDET (distance 0.17)
 ETHIOPIA,SOMALI,JIGJIGA TOWN,ETH-SOM-FAF,woreda to zone,certain,woreda of zone FAFAN
+ETHIOPIA,SOMALI,KADADUMO,ETH-SOM-DAA,name similarity,probable,closest woreda / zone name QADADUMA (distance 0.25)
+ETHIOPIA,SOMALI,KEBRIDAHAR,ETH-SOM-KOR,name similarity,probable,closest woreda / zone name KEBRIDEHAR (distance 0.10)
+ETHIOPIA,SOMALI,KEBRIDAHAR TOWN,ETH-SOM-KOR,name similarity,probable,closest woreda / zone name KEBRIDEHAR (distance 0.10)
 ETHIOPIA,SOMALI,KORAHAY,ETH-SOM-KOR,old shape,probable,"old shape falls inside this unit (p=0.99, overlap 0.842)"
+ETHIOPIA,SOMALI,KORAN MULA,ETH-SOM-FAF,name similarity,probable,closest woreda / zone name KORANMULLA (distance 0.10)
 ETHIOPIA,SOMALI,LAGAHIDA,ETH-SOM-ERE,woreda to zone,certain,woreda of zone ERER
+ETHIOPIA,SOMALI,LAHEL-YU'UB,ETH-SOM-DOO,name similarity,probable,closest woreda / zone name LEHELYUCUB (distance 0.20)
+ETHIOPIA,SOMALI,LASDHANKEYRE,ETH-SOM-KOR,name similarity,probable,closest woreda / zone name LASDHANKAYRE (distance 0.08)
 ETHIOPIA,SOMALI,LIBEN,ETH-ORO-EBA,woreda to zone,certain,woreda of zone EAST BORENA
-ETHIOPIA,SOMALI,LIIBAN,ETH-SOM-LIB,name similarity,probable,closest name SOMALI / LIBAN (distance 0.17)
+ETHIOPIA,SOMALI,LIIBAN,ETH-SOM-LIB,name similarity,probable,closest woreda / zone name LIBAN (distance 0.17)
 ETHIOPIA,SOMALI,MARSIN,ETH-SOM-KOR,woreda to zone,certain,woreda of zone KORAHE
+ETHIOPIA,SOMALI,MUBARAK,ETH-SOM-DAA,name similarity,probable,closest woreda / zone name MUBAREK (distance 0.14)
 ETHIOPIA,SOMALI,MUSTAHIL,ETH-SOM-SHA,woreda to zone,certain,woreda of zone SHABELLE
+ETHIOPIA,SOMALI,QABRIBAYAH,ETH-SOM-FAF,name similarity,probable,closest woreda / zone name KEBRIBAYAH (distance 0.20)
+ETHIOPIA,SOMALI,QABRIBAYAH TOWN,ETH-SOM-FAF,name similarity,probable,closest woreda / zone name KEBRIBAYAH (distance 0.20)
 ETHIOPIA,SOMALI,RASO,ETH-SOM-AFD,woreda to zone,certain,woreda of zone AFDER
 ETHIOPIA,SOMALI,SAGAG,ETH-SOM-NOG,woreda to zone,certain,woreda of zone NOGOB
 ETHIOPIA,SOMALI,SALAHAD,ETH-SOM-ERE,woreda to zone,certain,woreda of zone ERER
-ETHIOPIA,SOMALI,SHABELEY,ETH-SOM-SHA,name similarity,probable,closest name SOMALI / SHABELLE (distance 0.25)
+ETHIOPIA,SOMALI,SHABELEY,ETH-SOM-FAF,name similarity,probable,closest woreda / zone name SHABEELEY (distance 0.11)
+ETHIOPIA,SOMALI,SHAYKOSH,ETH-SOM-KOR,name similarity,probable,closest woreda / zone name SHAYGOSH (distance 0.12)
 ETHIOPIA,SOMALI,SHILABO,ETH-SOM-KOR,woreda to zone,certain,woreda of zone KORAHE
 ETHIOPIA,SOMALI,SHINILE,ETH-SOM-SIT,woreda to zone,certain,woreda of zone SITI
 ETHIOPIA,SOMALI,SITTI,ETH-SOM-SIT,old shape,probable,"old shape falls inside this unit (p=0.99, overlap 0.927)"
 ETHIOPIA,SOMALI,TULIGULED,ETH-SOM-FAF,woreda to zone,certain,woreda of zone FAFAN
+ETHIOPIA,SOMALI,WANGAY,ETH-SOM-ERE,name similarity,probable,closest woreda / zone name WANGEY (distance 0.17)
 ETHIOPIA,SOMALI,WARDER,ETH-SOM-DOO,woreda to zone,certain,woreda of zone DOOLO
+ETHIOPIA,SOMALI,WEST-IMAY,ETH-SOM-AFD,name similarity,probable,closest woreda / zone name WESTIMI (distance 0.25)
 ETHIOPIA,SOMALI,YAHOB,ETH-SOM-ERE,woreda to zone,certain,woreda of zone ERER
+ETHIOPIA,SOUTH ETHIOPIA,ABALA ABAYA,ETH-SEA-WOL,name similarity,probable,closest woreda / zone name ABELAABAYA (distance 0.10)
 ETHIOPIA,SOUTH ETHIOPIA,ARBAMINCH TOWN,ETH-SEA-GAM,woreda to zone,certain,woreda of zone GAMO
 ETHIOPIA,SOUTH ETHIOPIA,ARBAMINCH ZURIA,ETH-SEA-GAM,woreda to zone,certain,woreda of zone GAMO
 ETHIOPIA,SOUTH ETHIOPIA,AREKA TOWN,ETH-SEA-WOL,woreda to zone,certain,woreda of zone WOLAYITA
+ETHIOPIA,SOUTH ETHIOPIA,BADESA TOWN,ETH-ORO-WHE,name similarity,probable,closest woreda / zone name BEDESA (distance 0.17)
 ETHIOPIA,SOUTH ETHIOPIA,BAKA DAWULA,ETH-SEA-SOU,woreda to zone,certain,woreda of zone SOUTH OMO AGR
+ETHIOPIA,SOUTH ETHIOPIA,BAYRA KOYSHA,ETH-SEA-WOL,name similarity,probable,closest woreda / zone name BAYERAKOYESHA (distance 0.15)
 ETHIOPIA,SOUTH ETHIOPIA,BENA TSEMAY,ETH-SEA-SOP,woreda to zone,certain,woreda of zone SOUTH OMO_PAS
 ETHIOPIA,SOUTH ETHIOPIA,BIRBIR TOWN,ETH-SEA-GAM,woreda to zone,certain,woreda of zone GAMO
 ETHIOPIA,SOUTH ETHIOPIA,BOLOSO BOMBE,ETH-SEA-WOL,woreda to zone,certain,woreda of zone WOLAYITA
 ETHIOPIA,SOUTH ETHIOPIA,BOLOSO SORE,ETH-SEA-WOL,woreda to zone,certain,woreda of zone WOLAYITA
 ETHIOPIA,SOUTH ETHIOPIA,BONKE,ETH-SEA-GAM,woreda to zone,certain,woreda of zone GAMO
 ETHIOPIA,SOUTH ETHIOPIA,BOREDA,ETH-SEA-GAM,woreda to zone,certain,woreda of zone GAMO
+ETHIOPIA,SOUTH ETHIOPIA,BURJI ZONE,ETH-SEA-BUR,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
+ETHIOPIA,SOUTH ETHIOPIA,CHELELEKITU TOWN,ETH-SEA-GED,name similarity,probable,closest woreda / zone name CHELELEKTU (distance 0.09)
 ETHIOPIA,SOUTH ETHIOPIA,CHENCHA TOWN,ETH-SEA-GAM,woreda to zone,certain,woreda of zone GAMO
+ETHIOPIA,SOUTH ETHIOPIA,CHENCHA ZURIA,ETH-SEA-GAM,name similarity,probable,closest woreda / zone name CHENCHAZURIYA (distance 0.08)
+ETHIOPIA,SOUTH ETHIOPIA,DAMOT PULASA,ETH-SEA-WOL,name similarity,probable,closest woreda / zone name DAMOTPULLASA (distance 0.08)
 ETHIOPIA,SOUTH ETHIOPIA,DAMOT SORE,ETH-SEA-WOL,woreda to zone,certain,woreda of zone WOLAYITA
+ETHIOPIA,SOUTH ETHIOPIA,DAMOTE GALE,ETH-SEA-WOL,name similarity,probable,closest woreda / zone name DAMOTGALE (distance 0.10)
+ETHIOPIA,SOUTH ETHIOPIA,DAMOTE WOYDE,ETH-SEA-WOL,name similarity,probable,closest woreda / zone name DAMOTWOIDE (distance 0.18)
 ETHIOPIA,SOUTH ETHIOPIA,DARAMALO,ETH-SEA-GAM,woreda to zone,certain,woreda of zone GAMO
 ETHIOPIA,SOUTH ETHIOPIA,DENBA GOFA,ETH-SEA-GOF,woreda to zone,certain,woreda of zone GOFA
+ETHIOPIA,SOUTH ETHIOPIA,DILLA ZURIYA,ETH-SEA-GED,name similarity,probable,closest woreda / zone name DILAZURIA (distance 0.18)
 ETHIOPIA,SOUTH ETHIOPIA,DITA,ETH-SEA-GAM,woreda to zone,certain,woreda of zone GAMO
 ETHIOPIA,SOUTH ETHIOPIA,DUGUNA FANGO,ETH-SEA-WOL,woreda to zone,certain,woreda of zone WOLAYITA
 ETHIOPIA,SOUTH ETHIOPIA,GACHO BABA,ETH-SEA-GAM,woreda to zone,certain,woreda of zone GAMO
 ETHIOPIA,SOUTH ETHIOPIA,GARDA MARTA,ETH-SEA-GAM,woreda to zone,certain,woreda of zone GAMO
 ETHIOPIA,SOUTH ETHIOPIA,GEDEB TOWN,ETH-SEA-GED,woreda to zone,certain,woreda of zone GEDEO
+ETHIOPIA,SOUTH ETHIOPIA,GEDEB WOREDA,ETH-SEA-GED,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
 ETHIOPIA,SOUTH ETHIOPIA,GELILA TOWN,ETH-SEA-SOU,woreda to zone,certain,woreda of zone SOUTH OMO AGR
+ETHIOPIA,SOUTH ETHIOPIA,GERESE TOWN,ETH-SEA-GAM,name similarity,probable,closest woreda / zone name GERESSIE (distance 0.25)
 ETHIOPIA,SOUTH ETHIOPIA,GESUBA TOWN,ETH-SEA-WOL,woreda to zone,certain,woreda of zone WOLAYITA
 ETHIOPIA,SOUTH ETHIOPIA,GEZEI GOFA,ETH-SEA-GOF,woreda to zone,certain,woreda of zone GOFA
 ETHIOPIA,SOUTH ETHIOPIA,HAMER,ETH-SEA-SOP,woreda to zone,certain,woreda of zone SOUTH OMO_PAS
 ETHIOPIA,SOUTH ETHIOPIA,HUMBO,ETH-SEA-WOL,woreda to zone,certain,woreda of zone WOLAYITA
 ETHIOPIA,SOUTH ETHIOPIA,JINKA TOWN,ETH-SEA-SOU,woreda to zone,certain,woreda of zone SOUTH OMO AGR
+ETHIOPIA,SOUTH ETHIOPIA,KAMBA ZURIA,ETH-SEA-GAM,name similarity,probable,closest woreda / zone name KEMBAZURIA (distance 0.10)
 ETHIOPIA,SOUTH ETHIOPIA,KARAT ZURIA,ETH-SEA-KON,woreda to zone,certain,woreda of zone KONSO
+ETHIOPIA,SOUTH ETHIOPIA,KAWO KOYSHA,ETH-SEA-WOL,name similarity,probable,closest woreda / zone name KAWOKOYESHA (distance 0.09)
 ETHIOPIA,SOUTH ETHIOPIA,KENA,ETH-SEA-KON,woreda to zone,certain,woreda of zone KONSO
+ETHIOPIA,SOUTH ETHIOPIA,KINDO DIDAYE,ETH-SEA-WOL,name similarity,probable,closest woreda / zone name KINDODADDAYE (distance 0.17)
+ETHIOPIA,SOUTH ETHIOPIA,KINDO KOYSHA,ETH-SEA-WOL,name similarity,probable,closest woreda / zone name KINDOKOYESHA (distance 0.08)
+ETHIOPIA,SOUTH ETHIOPIA,KOCHORE,ETH-SEA-GED,name similarity,probable,closest woreda / zone name KOCHERE (distance 0.14)
 ETHIOPIA,SOUTH ETHIOPIA,KOLME,ETH-SEA-KON,woreda to zone,certain,woreda of zone KONSO
+ETHIOPIA,SOUTH ETHIOPIA,KUTCHA ALPHA,ETH-SEA-GAM,name similarity,probable,closest woreda / zone name KUCHAALPHA (distance 0.09)
+ETHIOPIA,SOUTH ETHIOPIA,LASKA TOWN ADMINISTRATION,ETH-SEA-BAS,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
 ETHIOPIA,SOUTH ETHIOPIA,MALIE,ETH-SEA-SOP,woreda to zone,certain,woreda of zone SOUTH OMO_PAS
 ETHIOPIA,SOUTH ETHIOPIA,MELO GADA,ETH-SEA-GOF,woreda to zone,certain,woreda of zone GOFA
+ETHIOPIA,SOUTH ETHIOPIA,MELOKOZA,ETH-SEA-GOF,name similarity,probable,closest woreda / zone name MELEKOZA (distance 0.12)
 ETHIOPIA,SOUTH ETHIOPIA,MIRAB ABAYA,ETH-SEA-GAM,woreda to zone,certain,woreda of zone GAMO
 ETHIOPIA,SOUTH ETHIOPIA,NORTH ARI,ETH-SEA-SOU,woreda to zone,certain,woreda of zone SOUTH OMO AGR
 ETHIOPIA,SOUTH ETHIOPIA,NYNGATOM,ETH-SEA-SOP,woreda to zone,certain,woreda of zone SOUTH OMO_PAS
@@ -626,84 +1036,190 @@ ETHIOPIA,SOUTH ETHIOPIA,SALAMAGO,ETH-SEA-SOP,woreda to zone,certain,woreda of zo
 ETHIOPIA,SOUTH ETHIOPIA,SEGEN ZURIA,ETH-SEA-KON,woreda to zone,certain,woreda of zone KONSO
 ETHIOPIA,SOUTH ETHIOPIA,SELAMBER TOWN,ETH-SEA-GAM,woreda to zone,certain,woreda of zone GAMO
 ETHIOPIA,SOUTH ETHIOPIA,SODO TOWN,ETH-SEA-WOL,woreda to zone,certain,woreda of zone WOLAYITA
+ETHIOPIA,SOUTH ETHIOPIA,SODO ZURIYA,ETH-SEA-WOL,name similarity,probable,closest woreda / zone name SODOZURIA (distance 0.10)
 ETHIOPIA,SOUTH ETHIOPIA,SOUTH ARI,ETH-SEA-SOU,woreda to zone,certain,woreda of zone SOUTH OMO AGR
+ETHIOPIA,SOUTH ETHIOPIA,TEBELA,ETH-SEA-WOL,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
 ETHIOPIA,SOUTH ETHIOPIA,UBA DEBRE TSEHAY,ETH-SEA-GOF,woreda to zone,certain,woreda of zone GOFA
 ETHIOPIA,SOUTH ETHIOPIA,WACHA TOWN,ETH-SOU-KEF,woreda to zone,certain,woreda of zone KEFA
 ETHIOPIA,SOUTH ETHIOPIA,WENAGO,ETH-SEA-GED,woreda to zone,certain,woreda of zone GEDEO
+ETHIOPIA,SOUTH ETHIOPIA,WENAGO TOWN,ETH-SEA-GED,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
+ETHIOPIA,SOUTH ETHIOPIA,YIRGACHEFFE TOWN,ETH-SEA-GED,name similarity,probable,closest woreda / zone name YIRGACHEFE (distance 0.09)
+ETHIOPIA,SOUTH ETHIOPIA,YIRGACHEFFE WOREDA,ETH-SEA-GED,name similarity,probable,closest woreda / zone name YIRGACHEFE (distance 0.09)
 ETHIOPIA,SOUTH ETHIOPIA,ZALA,ETH-SEA-GOF,woreda to zone,certain,woreda of zone GOFA
 ETHIOPIA,SOUTH WEST,DAWRO,ETH-SOU-DAW,old shape,probable,"old shape falls inside this unit (p=0.99, overlap 0.971)"
+ETHIOPIA,SOUTHWEST ETHIOPIA,AMEYA ZURIYA WOREDA,ETH-SOU-KON,name similarity,probable,closest woreda / zone name AMEYAZURIA (distance 0.09)
+ETHIOPIA,SOUTHWEST ETHIOPIA,ANDRACHA WOREDA,ETH-SOU-SHE,name similarity,probable,closest woreda / zone name ANDERACHA (distance 0.11)
+ETHIOPIA,SOUTHWEST ETHIOPIA,AWURADA,ETH-SOU-KEF,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
+ETHIOPIA,SOUTHWEST ETHIOPIA,BACHUMA TA,ETH-SOU-WES,name similarity,probable,closest woreda / zone name BACHUMA (distance 0.22)
+ETHIOPIA,SOUTHWEST ETHIOPIA,BONGA,ETH-SOU-KEF,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
 ETHIOPIA,SOUTHWEST ETHIOPIA,CHENA,ETH-SOU-KEF,woreda to zone,certain,woreda of zone KEFA
 ETHIOPIA,SOUTHWEST ETHIOPIA,CHETA,ETH-SOU-KEF,woreda to zone,certain,woreda of zone KEFA
 ETHIOPIA,SOUTHWEST ETHIOPIA,DAWRO,ETH-SOU-DAW,old shape,probable,"old shape falls inside this unit (p=0.99, overlap 0.971)"
 ETHIOPIA,SOUTHWEST ETHIOPIA,DECHA,ETH-SOU-KEF,woreda to zone,certain,woreda of zone KEFA
+ETHIOPIA,SOUTHWEST ETHIOPIA,DEKA,ETH-SOU-KEF,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
+ETHIOPIA,SOUTHWEST ETHIOPIA,ELA ANCHANO WOREDA,ETH-SOU-KON,name similarity,probable,closest woreda / zone name ELAHANCHANO (distance 0.09)
 ETHIOPIA,SOUTHWEST ETHIOPIA,GENA,ETH-SOU-DAW,woreda to zone,certain,woreda of zone DAWURO
 ETHIOPIA,SOUTHWEST ETHIOPIA,GESHA,ETH-SOU-KEF,woreda to zone,certain,woreda of zone KEFA
 ETHIOPIA,SOUTHWEST ETHIOPIA,GEWATA,ETH-SOU-KEF,woreda to zone,certain,woreda of zone KEFA
 ETHIOPIA,SOUTHWEST ETHIOPIA,GIDI BENCH,ETH-SOU-BEN,woreda to zone,certain,woreda of zone BENCH SHEKO
 ETHIOPIA,SOUTHWEST ETHIOPIA,GIMBO,ETH-SOU-KEF,woreda to zone,certain,woreda of zone KEFA
+ETHIOPIA,SOUTHWEST ETHIOPIA,GOBA,ETH-ORO-BAL,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
+ETHIOPIA,SOUTHWEST ETHIOPIA,GURAFERDA,ETH-SOU-BEN,name similarity,probable,closest woreda / zone name GURAFEREDA (distance 0.10)
+ETHIOPIA,SOUTHWEST ETHIOPIA,KONTA KOYSHA WOREDA,ETH-SOU-KON,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
+ETHIOPIA,SOUTHWEST ETHIOPIA,MAJI -TUMI TOWN ADMIN,ETH-SOU-WES,name similarity,probable,closest woreda / zone name MAJITUM (distance 0.12)
 ETHIOPIA,SOUTHWEST ETHIOPIA,MAREKA,ETH-SOU-DAW,woreda to zone,certain,woreda of zone DAWURO
+ETHIOPIA,SOUTHWEST ETHIOPIA,MARI MANSSA,ETH-SOU-DAW,name similarity,probable,closest woreda / zone name MARIMANSA (distance 0.10)
 ETHIOPIA,SOUTHWEST ETHIOPIA,MASHA TOWN,ETH-SOU-SHE,woreda to zone,certain,woreda of zone SHEKA
+ETHIOPIA,SOUTHWEST ETHIOPIA,MASHA WOREDA,ETH-SOU-SHE,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
+ETHIOPIA,SOUTHWEST ETHIOPIA,MIZAN AMAN,ETH-SOU-BEN,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
+ETHIOPIA,SOUTHWEST ETHIOPIA,SAYILEM,ETH-SOU-KEF,name similarity,probable,closest woreda / zone name SAYLEM (distance 0.14)
 ETHIOPIA,SOUTHWEST ETHIOPIA,SHEKO,ETH-SOU-BEN,woreda to zone,certain,woreda of zone BENCH SHEKO
+ETHIOPIA,SOUTHWEST ETHIOPIA,SHEKO TOWN,ETH-SOU-BEN,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
+ETHIOPIA,SOUTHWEST ETHIOPIA,SHEYBENCH,ETH-SOU-BEN,name similarity,probable,closest woreda / zone name SHAYBENCH (distance 0.11)
+ETHIOPIA,SOUTHWEST ETHIOPIA,SHISHINDA,ETH-SOU-KEF,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
+ETHIOPIA,SOUTHWEST ETHIOPIA,SHISHOENDE,ETH-SOU-KEF,name similarity,probable,closest woreda / zone name SHISHOANDE (distance 0.10)
+ETHIOPIA,SOUTHWEST ETHIOPIA,TARCHA ZURIYA,ETH-SOU-DAW,name similarity,probable,closest woreda / zone name TERCHAZURIYA (distance 0.08)
+ETHIOPIA,SOUTHWEST ETHIOPIA,TEPI TOWN,ETH-SOU-SHE,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
 ETHIOPIA,SOUTHWEST ETHIOPIA,TOCHA,ETH-SOU-DAW,woreda to zone,certain,woreda of zone DAWURO
+ETHIOPIA,SOUTHWEST ETHIOPIA,WACHA,ETH-SOU-KEF,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
 ETHIOPIA,SOUTHWEST ETHIOPIA,ZABA GAZO,ETH-SOU-DAW,woreda to zone,certain,woreda of zone DAWURO
-ETHIOPIA,SWEP,AWURADA TOWN ADMIN,ETH-AMH-BAH,name similarity,probable,closest name AMHARA / BAHIR DAR TOWN ADMIN (distance 0.29)
-ETHIOPIA,SWEP,BACHUMA TOWN ADMIN,ETH-AMH-BAH,name similarity,probable,closest name AMHARA / BAHIR DAR TOWN ADMIN (distance 0.29)
+ETHIOPIA,SWEP,AMEYA TOWN ADMIN,ETH-ORO-SOU,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
+ETHIOPIA,SWEP,AMEYA ZURIYA WOREDA,ETH-SOU-KON,name similarity,probable,closest woreda / zone name AMEYAZURIA (distance 0.09)
+ETHIOPIA,SWEP,ANDRACHA WOREDA,ETH-SOU-SHE,name similarity,probable,closest woreda / zone name ANDERACHA (distance 0.11)
+ETHIOPIA,SWEP,AWURADA TOWN ADMIN,ETH-SOU-KEF,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
+ETHIOPIA,SWEP,BACHUMA TOWN ADMIN,ETH-SOU-WES,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
 ETHIOPIA,SWEP,BERO,ETH-SOU-WES,woreda to zone,certain,woreda of zone WEST OMO
+ETHIOPIA,SWEP,BONGA TOWN ADMIN,ETH-SOU-KEF,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
 ETHIOPIA,SWEP,CHENA,ETH-SOU-KEF,woreda to zone,certain,woreda of zone KEFA
 ETHIOPIA,SWEP,CHETA,ETH-SOU-KEF,woreda to zone,certain,woreda of zone KEFA
-ETHIOPIA,SWEP,CHIDA TOWN ADMIN,ETH-AMH-BAH,name similarity,probable,closest name AMHARA / BAHIR DAR TOWN ADMIN (distance 0.24)
+ETHIOPIA,SWEP,CHIDA TOWN ADMIN,ETH-SOU-KON,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
 ETHIOPIA,SWEP,DAWRO,ETH-SOU-DAW,old shape,probable,"old shape falls inside this unit (p=0.99, overlap 0.971)"
 ETHIOPIA,SWEP,DECHA,ETH-SOU-KEF,woreda to zone,certain,woreda of zone KEFA
+ETHIOPIA,SWEP,DEKA TOWN ADMIN,ETH-SOU-KEF,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
+ETHIOPIA,SWEP,ELA ANCHANO WOREDA,ETH-SOU-KON,name similarity,probable,closest woreda / zone name ELAHANCHANO (distance 0.09)
 ETHIOPIA,SWEP,GACHIT,ETH-SOU-WES,woreda to zone,certain,woreda of zone WEST OMO
 ETHIOPIA,SWEP,GENA,ETH-SOU-DAW,woreda to zone,certain,woreda of zone DAWURO
 ETHIOPIA,SWEP,GESHA,ETH-SOU-KEF,woreda to zone,certain,woreda of zone KEFA
 ETHIOPIA,SWEP,GEWATA,ETH-SOU-KEF,woreda to zone,certain,woreda of zone KEFA
 ETHIOPIA,SWEP,GIDI BENCH,ETH-SOU-BEN,woreda to zone,certain,woreda of zone BENCH SHEKO
 ETHIOPIA,SWEP,GIMBO,ETH-SOU-KEF,woreda to zone,certain,woreda of zone KEFA
-ETHIOPIA,SWEP,GOBA,ETH-SEA-GOF,name similarity,probable,closest name SOUTH ETHIOPIA / GOFA (distance 0.25)
+ETHIOPIA,SWEP,GOBA,ETH-ORO-BAL,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
 ETHIOPIA,SWEP,GORIGESHA,ETH-SOU-WES,woreda to zone,certain,woreda of zone WEST OMO
+ETHIOPIA,SWEP,GURAFERDA,ETH-SOU-BEN,name similarity,probable,closest woreda / zone name GURAFEREDA (distance 0.10)
+ETHIOPIA,SWEP,JEMU TOWN ADMIN,ETH-SOU-WES,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
+ETHIOPIA,SWEP,KONTA KOYSHA WOREDA,ETH-SOU-KON,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
 ETHIOPIA,SWEP,MAJI,ETH-SOU-WES,woreda to zone,certain,woreda of zone WEST OMO
+ETHIOPIA,SWEP,MAJI -TUM TOWN ADMIN,ETH-SOU-WES,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
 ETHIOPIA,SWEP,MAREKA,ETH-SOU-DAW,woreda to zone,certain,woreda of zone DAWURO
 ETHIOPIA,SWEP,MARI MANSA,ETH-SOU-DAW,woreda to zone,certain,woreda of zone DAWURO
+ETHIOPIA,SWEP,MASHA TOWN ADMIN,ETH-SOU-SHE,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
+ETHIOPIA,SWEP,MASHA WOREDA,ETH-SOU-SHE,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
+ETHIOPIA,SWEP,MENIT GOLDIYA,ETH-SOU-WES,name similarity,probable,closest woreda / zone name MENITGOLDIYE (distance 0.08)
 ETHIOPIA,SWEP,MENIT SHASHA,ETH-SOU-WES,woreda to zone,certain,woreda of zone WEST OMO
+ETHIOPIA,SWEP,MIZAN AMAN,ETH-SOU-BEN,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
+ETHIOPIA,SWEP,SAYILEM,ETH-SOU-KEF,name similarity,probable,closest woreda / zone name SAYLEM (distance 0.14)
 ETHIOPIA,SWEP,SHEKO,ETH-SOU-BEN,woreda to zone,certain,woreda of zone BENCH SHEKO
+ETHIOPIA,SWEP,SHEKO TOWN ADMIN,ETH-SOU-BEN,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
+ETHIOPIA,SWEP,SHEYBENCH,ETH-SOU-BEN,name similarity,probable,closest woreda / zone name SHAYBENCH (distance 0.11)
+ETHIOPIA,SWEP,SHISHINDA,ETH-SOU-KEF,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
+ETHIOPIA,SWEP,SHISHOENDE,ETH-SOU-KEF,name similarity,probable,closest woreda / zone name SHISHOANDE (distance 0.10)
+ETHIOPIA,SWEP,SURIMA,ETH-SOU-WES,name similarity,probable,closest woreda / zone name SURMA (distance 0.17)
+ETHIOPIA,SWEP,TARCHA TOWN ADMIN,ETH-SOU-DAW,name similarity,probable,closest woreda / zone name TERCHA (distance 0.17)
+ETHIOPIA,SWEP,TARCHA ZURIYA,ETH-SOU-DAW,name similarity,probable,closest woreda / zone name TERCHAZURIYA (distance 0.08)
+ETHIOPIA,SWEP,TEPI TOWN ADMIN,ETH-SOU-SHE,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
 ETHIOPIA,SWEP,TOCHA,ETH-SOU-DAW,woreda to zone,certain,woreda of zone DAWURO
+ETHIOPIA,SWEP,WACHA,ETH-SOU-KEF,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
 ETHIOPIA,SWEP,ZABA GAZO,ETH-SOU-DAW,woreda to zone,certain,woreda of zone DAWURO
+ETHIOPIA,TIGRAY,ABYIADI,ETH-TIG-CEN,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
 ETHIOPIA,TIGRAY,ADET,ETH-TIG-CEN,woreda to zone,certain,woreda of zone CENTRAL
 ETHIOPIA,TIGRAY,ADI DAERO,ETH-TIG-NOR,woreda to zone,certain,woreda of zone NORTH WESTERN
+ETHIOPIA,TIGRAY,ADI HAKI,ETH-TIG-MEK,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
+ETHIOPIA,TIGRAY,ADIGRAT,ETH-TIG-EAS,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
 ETHIOPIA,TIGRAY,ADIGUDOM,ETH-TIG-SOU,woreda to zone,certain,woreda of zone SOUTH EASTERN
 ETHIOPIA,TIGRAY,ADWA TOWN,ETH-TIG-CEN,woreda to zone,certain,woreda of zone CENTRAL
+ETHIOPIA,TIGRAY,AHFEROM,ETH-TIG-CEN,name similarity,probable,closest woreda / zone name AHEFEROM (distance 0.12)
+ETHIOPIA,TIGRAY,AHIFEROM,ETH-TIG-CEN,name similarity,probable,closest woreda / zone name AHEFEROM (distance 0.12)
+ETHIOPIA,TIGRAY,AHISEA,ETH-TIG-CEN,name similarity,probable,closest woreda / zone name AHSEA (distance 0.17)
 ETHIOPIA,TIGRAY,AHSEA,ETH-TIG-CEN,woreda to zone,certain,woreda of zone CENTRAL
 ETHIOPIA,TIGRAY,ALAMATA TOWN,ETH-TIG-SOS,woreda to zone,certain,woreda of zone SOUTHERN
 ETHIOPIA,TIGRAY,ASGEDE,ETH-TIG-NOR,woreda to zone,certain,woreda of zone NORTH WESTERN
 ETHIOPIA,TIGRAY,ATSBI,ETH-TIG-EAS,woreda to zone,certain,woreda of zone EASTERN
 ETHIOPIA,TIGRAY,AXUM TOWN,ETH-TIG-CEN,woreda to zone,certain,woreda of zone CENTRAL
+ETHIOPIA,TIGRAY,AYDER,ETH-TIG-MEK,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
 ETHIOPIA,TIGRAY,BIZET,ETH-TIG-EAS,woreda to zone,certain,woreda of zone EASTERN
+ETHIOPIA,TIGRAY,CENTRAL ZONE,ETH-TIG-CEN,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
 ETHIOPIA,TIGRAY,CHILA,ETH-TIG-CEN,woreda to zone,certain,woreda of zone CENTRAL
 ETHIOPIA,TIGRAY,DEGUA TEMBEN,ETH-TIG-SOU,woreda to zone,certain,woreda of zone SOUTH EASTERN
+ETHIOPIA,TIGRAY,DEGUA TEMBIEN,ETH-TIG-SOU,name similarity,probable,closest woreda / zone name DEGUATEMBEN (distance 0.08)
+ETHIOPIA,TIGRAY,EASTERN ZONE,ETH-TIG-EAS,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
+ETHIOPIA,TIGRAY,EDABATSAHIMA,ETH-TIG-CEN,name similarity,probable,closest woreda / zone name ENDABATSAHMA (distance 0.17)
+ETHIOPIA,TIGRAY,EDABATSAHMA,ETH-TIG-CEN,name similarity,probable,closest woreda / zone name ENDABATSAHMA (distance 0.08)
+ETHIOPIA,TIGRAY,EDAGA HAMUS,ETH-TIG-EAS,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
+ETHIOPIA,TIGRAY,EGELLA,ETH-TIG-CEN,name similarity,probable,closest woreda / zone name EGELA (distance 0.17)
 ETHIOPIA,TIGRAY,EMBA ALAJE,ETH-TIG-SOS,woreda to zone,certain,woreda of zone SOUTHERN
+ETHIOPIA,TIGRAY,EMBASENEYTI,ETH-TIG-CEN,name similarity,probable,closest woreda / zone name EMBASIENETI (distance 0.18)
+ETHIOPIA,TIGRAY,EMBASENYTI,ETH-TIG-CEN,name similarity,probable,closest woreda / zone name EMBASIENETI (distance 0.18)
+ETHIOPIA,TIGRAY,ENDABA GUNA,ETH-TIG-NOR,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
+ETHIOPIA,TIGRAY,ENDAMEKONI,ETH-TIG-SOS,name similarity,probable,closest woreda / zone name ENDAMEHONI (distance 0.10)
+ETHIOPIA,TIGRAY,ENDAMOKONI,ETH-TIG-SOS,name similarity,probable,closest woreda / zone name ENDAMEHONI (distance 0.20)
 ETHIOPIA,TIGRAY,ENDERTA,ETH-TIG-SOU,woreda to zone,certain,woreda of zone SOUTH EASTERN
+ETHIOPIA,TIGRAY,ENTICHO,ETH-TIG-CEN,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
 ETHIOPIA,TIGRAY,EROB,ETH-TIG-EAS,woreda to zone,certain,woreda of zone EASTERN
+ETHIOPIA,TIGRAY,FREWEYNI,ETH-TIG-EAS,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
 ETHIOPIA,TIGRAY,GANTA AFESHUM,ETH-TIG-EAS,woreda to zone,certain,woreda of zone EASTERN
+ETHIOPIA,TIGRAY,GEREALTA,ETH-TIG-EAS,name similarity,probable,closest woreda / zone name GERALETA (distance 0.25)
 ETHIOPIA,TIGRAY,GULOMEKEDA,ETH-TIG-EAS,woreda to zone,certain,woreda of zone EASTERN
+ETHIOPIA,TIGRAY,HADNET,ETH-TIG-MEK,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
+ETHIOPIA,TIGRAY,HAGERE SELAM,ETH-TIG-SOU,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
+ETHIOPIA,TIGRAY,HAHAYLLE,ETH-TIG-CEN,name similarity,probable,closest woreda / zone name HAHAYLE (distance 0.12)
+ETHIOPIA,TIGRAY,HAWELTI,ETH-TIG-MEK,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
+ETHIOPIA,TIGRAY,HAWOLTI,ETH-TIG-MEK,name similarity,probable,closest woreda / zone name HAWELTI (distance 0.14)
 ETHIOPIA,TIGRAY,HAWZEN,ETH-TIG-EAS,woreda to zone,certain,woreda of zone EASTERN
 ETHIOPIA,TIGRAY,HAWZEN TOWN,ETH-TIG-EAS,woreda to zone,certain,woreda of zone EASTERN
+ETHIOPIA,TIGRAY,HINTALLO,ETH-TIG-SOU,name similarity,probable,closest woreda / zone name HINTALO (distance 0.12)
+ETHIOPIA,TIGRAY,KEDEMAY WEYANE,ETH-TIG-MEK,name similarity,probable,closest woreda / zone name QEDAMAYWEYANE (distance 0.15)
+ETHIOPIA,TIGRAY,KEYH TEKLI,ETH-TIG-CEN,name similarity,probable,closest woreda / zone name KEYHETEKLI (distance 0.10)
+ETHIOPIA,TIGRAY,KEYHTEKLLI,ETH-TIG-CEN,name similarity,probable,closest woreda / zone name KEYHETEKLI (distance 0.20)
+ETHIOPIA,TIGRAY,KILTE AWLAELO,ETH-TIG-EAS,name similarity,probable,closest woreda / zone name KILTEAWULAELO (distance 0.08)
+ETHIOPIA,TIGRAY,KOLLA TEMBEN,ETH-TIG-CEN,name similarity,probable,closest woreda / zone name KOLATEMBIEN (distance 0.18)
 ETHIOPIA,TIGRAY,LAELAY KORARO,ETH-TIG-NOR,woreda to zone,certain,woreda of zone NORTH WESTERN
+ETHIOPIA,TIGRAY,LAELAY MAICHEW,ETH-TIG-CEN,name similarity,probable,closest woreda / zone name LAELAYMAYCHEW (distance 0.08)
 ETHIOPIA,TIGRAY,LAELAY TSELEMTI,ETH-TIG-NOR,woreda to zone,certain,woreda of zone NORTH WESTERN
+ETHIOPIA,TIGRAY,LAELAYMACHEW,ETH-TIG-CEN,name similarity,probable,closest woreda / zone name LAELAYMAYCHEW (distance 0.08)
+ETHIOPIA,TIGRAY,MAEKEL ADIABO,ETH-TIG-NOR,name similarity,probable,closest woreda / zone name MAEKELADIYABO (distance 0.08)
 ETHIOPIA,TIGRAY,MAEKEL ADIYABO,ETH-TIG-NOR,woreda to zone,certain,woreda of zone NORTH WESTERN
 ETHIOPIA,TIGRAY,MAICHEW TOWN,ETH-TIG-SOS,woreda to zone,certain,woreda of zone SOUTHERN
+ETHIOPIA,TIGRAY,MAYCHEW,ETH-TIG-SOS,name similarity,probable,closest woreda / zone name MAICHEW (distance 0.14)
+ETHIOPIA,TIGRAY,MEKONI,ETH-TIG-SOS,name similarity,probable,closest woreda / zone name MEKHONI (distance 0.14)
+ETHIOPIA,TIGRAY,MYTSEBRI,ETH-TIG-NOR,name similarity,probable,closest woreda / zone name MAYTSEBRI (distance 0.11)
 ETHIOPIA,TIGRAY,NAEDER,ETH-TIG-CEN,woreda to zone,certain,woreda of zone CENTRAL
-ETHIOPIA,TIGRAY,NORTH WESTERN ZONE,ETH-TIG-NOR,name similarity,probable,closest name TIGRAY / NORTH WESTERN (distance 0.25)
+ETHIOPIA,TIGRAY,NEKESEGE,ETH-TIG-SOS,name similarity,probable,closest woreda / zone name NEQSEGE (distance 0.25)
+ETHIOPIA,TIGRAY,NEKISEGE,ETH-TIG-SOS,name similarity,probable,closest woreda / zone name NEQSEGE (distance 0.25)
+ETHIOPIA,TIGRAY,NORTH WESTERN ZONE,ETH-TIG-NOR,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
 ETHIOPIA,TIGRAY,OFLA,ETH-TIG-SOS,woreda to zone,certain,woreda of zone SOUTHERN
 ETHIOPIA,TIGRAY,RAYA ALAMATA,ETH-TIG-SOS,woreda to zone,certain,woreda of zone SOUTHERN
 ETHIOPIA,TIGRAY,RAYA AZEBO,ETH-TIG-SOS,woreda to zone,certain,woreda of zone SOUTHERN
 ETHIOPIA,TIGRAY,SAMRE,ETH-TIG-SOU,woreda to zone,certain,woreda of zone SOUTH EASTERN
+ETHIOPIA,TIGRAY,SEHARTI,ETH-TIG-SOU,name similarity,probable,closest woreda / zone name SAHARTI (distance 0.14)
 ETHIOPIA,TIGRAY,SELEWA,ETH-TIG-SOS,woreda to zone,certain,woreda of zone SOUTHERN
+ETHIOPIA,TIGRAY,SEMEN,ETH-TIG-MEK,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
+ETHIOPIA,TIGRAY,SEYEMTI ADIYABO,ETH-TIG-NOR,name similarity,probable,closest woreda / zone name SEYEMTIADYABO (distance 0.07)
 ETHIOPIA,TIGRAY,SEYEMTI ADYABO,ETH-TIG-NOR,woreda to zone,certain,woreda of zone NORTH WESTERN
-ETHIOPIA,TIGRAY,SOUTH EASTERN ZONE,ETH-TIG-SOU,name similarity,probable,closest name TIGRAY / SOUTH EASTERN (distance 0.25)
+ETHIOPIA,TIGRAY,SIBUHA SAESIE,ETH-TIG-EAS,name similarity,probable,closest woreda / zone name SEBUHASAESIE (distance 0.08)
+ETHIOPIA,TIGRAY,SOUTH EASTERN ZONE,ETH-TIG-SOU,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
+ETHIOPIA,TIGRAY,SOUTHERN ZONE,ETH-TIG-SOS,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
+ETHIOPIA,TIGRAY,SUBHASAESIE,ETH-TIG-EAS,name similarity,probable,closest woreda / zone name SEBUHASAESIE (distance 0.17)
+ETHIOPIA,TIGRAY,TAHITAY ADIYABO,ETH-TIG-NOR,name similarity,probable,closest woreda / zone name TAHTAYADIYABO (distance 0.07)
+ETHIOPIA,TIGRAY,TAHITAY KORARO,ETH-TIG-NOR,name similarity,probable,closest woreda / zone name TAHTAYKORARO (distance 0.08)
+ETHIOPIA,TIGRAY,TAHITAY MAICHEW,ETH-TIG-CEN,name similarity,probable,closest woreda / zone name TAHTAYMAYCHEW (distance 0.14)
+ETHIOPIA,TIGRAY,TAHTAY ADIABO,ETH-TIG-NOR,name similarity,probable,closest woreda / zone name TAHTAYADIYABO (distance 0.08)
+ETHIOPIA,TIGRAY,TAHTAYMACHEW,ETH-TIG-CEN,name similarity,probable,closest woreda / zone name TAHTAYMAYCHEW (distance 0.08)
+ETHIOPIA,TIGRAY,TANKUA MILASH,ETH-TIG-CEN,name similarity,probable,closest woreda / zone name TANQUAMELASHE (distance 0.23)
 ETHIOPIA,TIGRAY,TSAEDA EMBA,ETH-TIG-EAS,woreda to zone,certain,woreda of zone EASTERN
 ETHIOPIA,TIGRAY,TSELEMTI,ETH-TIG-NOR,woreda to zone,certain,woreda of zone NORTH WESTERN
 ETHIOPIA,TIGRAY,TSIMBLA,ETH-TIG-NOR,woreda to zone,certain,woreda of zone NORTH WESTERN
+ETHIOPIA,TIGRAY,WUKRO,ETH-TIG-EAS,woreda to zone,certain,"woreda / zone name without SUB CITY, SC, TOWN ..."
+ETHIOPIA,TIGRAY,ZALAMBESA,ETH-TIG-EAS,name similarity,probable,closest woreda / zone name ZALAANBESA (distance 0.20)
 ETHIOPIA,TIGRAY,ZANA,ETH-TIG-NOR,woreda to zone,certain,woreda of zone NORTH WESTERN
 ETHIOPIA,TIGRAY,ZATA,ETH-TIG-SOS,woreda to zone,certain,woreda of zone SOUTHERN
 ETHIOPIA,,ADDIS ABABA,ETH-ADD-REG,manual,certain,manual decision (ok): spelling/variant of REGION 14

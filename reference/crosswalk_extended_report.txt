@@ -1,9 +1,9 @@
-Extended crosswalk: 943 names placed (5151 rows in the sources that carry a row count)
+Extended crosswalk: 1459 names placed (8571 rows in the sources that carry a row count)
 
   manual           certain     200 names     200 rows
   manual           probable     34 names      21 rows
-  name similarity  probable    104 names     921 rows
+  name similarity  probable    484 names    2966 rows
   no shape         certain       4 names       0 rows
-  old shape        probable     79 names    1653 rows
+  old shape        probable     78 names    1651 rows
   relaxed          certain       7 names      17 rows
-  woreda to zone   certain     515 names    2339 rows
+  woreda to zone   certain     652 names    3716 rows
