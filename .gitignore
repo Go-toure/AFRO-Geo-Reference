@@ -20,3 +20,7 @@ data/gps_check_local/
 
 # Monitor names and device ids from the anomaly check (local only)
 data/anomaly_local/
+
+# Python cache
+__pycache__/
+*.pyc
